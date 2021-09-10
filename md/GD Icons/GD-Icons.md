@@ -18,6 +18,6 @@ Please select a file or directory:
 
 [🖼ship_17](https://reper2.github.io/Downloadable-Files/GD%20Icons/ship_17.png)
 
-[🖼spider_14](https://reper2.github.io/Downloadable-Files/GD%20Icons/ship_14.png)
+[🖼spider_14](https://reper2.github.io/Downloadable-Files/GD%20Icons/spider_14.png)
 
 [🖼swing_01](https://reper2.github.io/Downloadable-Files/GD%20Icons/swing_01.png)
