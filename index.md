@@ -11,4 +11,4 @@ Please select a file or directory:
 
 [⚖LISCENSE](https://reper2.github.io/Downloadable-Files/.github/LISCENSE)
 
-[📄README](https://reper2.github.io/Downloadable-Files/README)
+[📄README](https://reper2.github.io/Downloadable-Files/.github/README)
