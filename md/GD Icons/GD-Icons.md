@@ -6,7 +6,7 @@ Please select a file or directory:
 
 [🖼dart_31](https://reper2.github.io/Downloadable-Files/GD%20Icons/dart_31.png)
 
-[🖼explosionIcon_17_001](https://reper2.github.io/Downloadable-Files/GD%20Icons/explosionIcon_17_001)
+[🖼explosionIcon_17_001](https://reper2.github.io/Downloadable-Files/GD%20Icons/explosionIcon_17_001.png)
 
 [🖼player_132](https://reper2.github.io/Downloadable-Files/GD%20Icons/player_132.png)
 
