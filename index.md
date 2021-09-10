@@ -9,6 +9,6 @@ Please select a file or directory:
 
 [📁Profile Pictures](https://reper2.github.io/Downloadable-Files/md/Profile%20Pictures/pfp)
 
-[⚖LISCENSE]
+[⚖LISCENSE](https://reper2.github.io/Downloadable-Files/LISCENSE)
 
 [📄README](https://reper2.github.io/Downloadable-Files/README)
