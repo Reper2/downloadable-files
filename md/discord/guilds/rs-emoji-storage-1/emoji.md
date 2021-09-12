@@ -9,9 +9,9 @@
 
 # /Discord/guilds/RS-Emoji-Storage-1/emoji
 Please select a file or directory:
-[⬅back](https://reper2.github.io/Downloadable-Files/md/Discord/guilds/RS%20Emoji%20Storage%201/RS-Emoji-Storage-1)
+[⬅back](https://reper2.github.io/Downloadable-Files/md/discord/guilds/rs-emoji-storage-1)
 
-[🖼copy](https://reper2.github.io/Downloadable-Files/Discord/Guilds/RS%20Emoji%20Storage%201/Emoji/copy.png)
+[🖼copy](https://reper2.github.io/Downloadable-Files/Discord/uilds/RS%20Emoji%20Storage%201/Emoji/copy.png)
 
 [🖼creator_points](https://reper2.github.io/Downloadable-Files/Discord/Guilds/RS%20Emoji%20Storage%201/Emoji/creator_points.png)
 
