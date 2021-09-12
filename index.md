@@ -1,5 +1,9 @@
+[Discord](https://discord.gg/JGEjfm5Gn4)
+[YouTube](https://www.youtube.com/channel/UCofCDfLjs_TkiC-p0-k_9XA)
+[📄README](https://github.com/Reper2/Downloadable-Files/README.md)
+[⚖LISCENSE](https://github.com/Reper2/Downloadable-Files/LISCENSE.md)
+
 Please select a file or directory:
-[Index](https://reper2.github.io/index)
 
 [📁Discord](https://reper2.github.io/Downloadable-Files/md/Discord/discord)
 
@@ -8,7 +12,3 @@ Please select a file or directory:
 [📁Texture Pack](https://reper2.github.io/Downloadable-Files/md/Texture%20Pack/texture-pack)
 
 [📁Profile Pictures](https://reper2.github.io/Downloadable-Files/md/Profile%20Pictures/pfp)
-
-[⚖LISCENSE](https://reper2.github.io/Downloadable-Files/LISCENSE.md)
-
-[📄README](https://reper2.github.io/Downloadable-Files/README.md)
