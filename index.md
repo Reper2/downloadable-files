@@ -1,4 +1,9 @@
 ![License](https://img.shields.io/github/license/Reper2/Downloadable-Files)
+![GitHub followers](https://img.shields.io/github/followers/Reper2?color=gree&logo=github)
+![GitHub forks](https://img.shields.io/github/forks/Reper2/Downloadable-Files?color=gree&logo=github)
+![GitHub Repo stars](https://img.shields.io/github/stars/Reper2/Downloadable-Files?color=gree&label=repo%20stars&logo=github)
+![GitHub User's stars](https://img.shields.io/github/stars/Reper2?affiliations=OWNER&color=gree&label=user%20stars&logo=github)
+![GitHub watchers](https://img.shields.io/github/watchers/Reper2/Downloadable-Files?color=gree&logo=github)
 
 Please select a file or directory:
 
