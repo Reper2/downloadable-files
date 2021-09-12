@@ -16,6 +16,3 @@ Please select a file or directory:
 [📁Texture Pack](https://reper2.github.io/Downloadable-Files/md/Texture%20Pack/texture-pack)
 
 [📁Profile Pictures](https://reper2.github.io/Downloadable-Files/md/Profile%20Pictures/pfp)
-
-
-[GitHub](https://github.com/Reper2/Downloadable-Files)
