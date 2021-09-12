@@ -9,8 +9,8 @@
 
 # /Discord/guilds/Reper2verse
 Please select a file or directory:
-[⬅back](https://reper2.github.io/Downloadable-Files/md/Discord/guilds/guilds)
+[⬅back](https://reper2.github.io/Downloadable-Files/md/Discord/guilds)
 
-[📁Server Emojis](https://reper2.github.io/Downloadable-Files/md/Discord/guilds/Reper2verse/emoji/emoji)
+[📁Server Emojis](https://reper2.github.io/Downloadable-Files/md/Discord/guilds/reper2verse/emoji)
 
 [🖼Server Icon](https://reper2.github.io/Downloadable-Files/Discord/Guilds/Reper2verse/RS_serverIcon_001.png)
