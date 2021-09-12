@@ -9,7 +9,7 @@
 
 Please select a file or directory:
 
-[📁Discord](https://reper2.github.io/Downloadable-Files/md/Discord/discord)
+[📁Discord](https://reper2.github.io/Downloadable-Files/md/discord)
 
 [📁GD Icons](https://reper2.github.io/Downloadable-Files/md/gd-icons)
 
