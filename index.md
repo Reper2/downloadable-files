@@ -1,4 +1,3 @@
-![License](https://img.shields.io/github/license/Reper2/Downloadable-Files)
 ![GitHub followers](https://img.shields.io/github/followers/Reper2?color=gree&logo=github)
 ![GitHub forks](https://img.shields.io/github/forks/Reper2/Downloadable-Files?color=gree&logo=github)
 ![GitHub Repo stars](https://img.shields.io/github/stars/Reper2/Downloadable-Files?color=gree&label=repo%20stars&logo=github)
