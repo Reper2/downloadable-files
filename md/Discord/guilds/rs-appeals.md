@@ -9,7 +9,7 @@
 
 # /discord/guilds/RS-Appeals
 Please select a file or directory:
-[⬅Back](https://reper2.github.io/Downloadable-Files/md/Discord/guilds/guilds)
+[⬅Back](https://reper2.github.io/Downloadable-Files/md/discord/guilds)
 
-[🖼Server Emojis](https://reper2.github.io/Downloadable-Files/md/Discord/guilds/RS%20Appeals/emoji/emoji)
+[🖼Server Emojis](https://reper2.github.io/Downloadable-Files/md/discord/guilds/rs-appeals/emoji)
 [🖼Server Icon](https://reper2.github.io/Downloadable-Files/Discord/Guilds/RS%20Appeals/RS-Appeals_serverIcon_001.png)
