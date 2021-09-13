@@ -17,3 +17,9 @@ This project is released under the MIT liscence.
 E-mail: [ethan.reper@gmail.com](mailto:ethan.reper@gmail.com)
 Discord: `Reper2#8878` (Server https://discord.gg/JGEjfm5Gn4)
 YouTube: [Reper2 [GD]](https://www.youtube.com/channel/UCofCDfLjs_TkiC-p0-k_9XA)
+
+EMOJI - 1 SLOT AVAILABLE
+| Emoji 	| Alias 		| Uploaded by |
+| --------- | ------------- | ----------- |
+| [![secretCoinUI3_001](https://github.com/Reper2/Downloadable-Files/blob/master/Discord/Guilds/Reper2verse/Emoji/secretCoinUI3_001.png)](https://reper2.github.io/Downloadable-Files/Discord/Guilds/Reper2verse/Emoji/secretCoinUI3_001.png | :secretCoinUI3_001: | Reper2
+
