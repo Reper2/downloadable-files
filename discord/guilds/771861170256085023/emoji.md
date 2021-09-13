@@ -10,7 +10,7 @@
 # /Discord/Guilds/Reper2verse/emoji
 Please select a file or directory:
 [⬅back](https://reper2.github.io/Downloadable-Files/md/discord/guilds/771861170256085023)
-~~                                                                                     ~~
+
 # Server emoji
 
 Add up to 50 custom emojis that anyone can use in this server. Animated GIF emojis may
