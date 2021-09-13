@@ -22,7 +22,7 @@ and can only contain alphanumeric characters and underscores. Emoji must be unde
 
 EMOJI - 1 SLOT AVAILABLE
 | Emoji 	| Alias 		| Uploaded by |
-| --------- | ------------- | ----------- |
+| --- | --- | --- |
 | ![secretCoinUI3_001](https://cdn.discordapp.com/emojis/885698004940648509.png?v=1) | :secretCoinUI3_001: | [Reper2](https://discord.gg/aMSKe7ZT9Q)
 | ![currencyOrb_001](https://cdn.discordapp.com/emojis/885366433540874272.png?v=1) | :currencyOrb_001: | [Reper2](https://discord.gg/aMSKe7ZT9Q)
 | ![plushies_001](https://cdn.discordapp.com/emojis/885357890649612299.png?v=1) | :plushies_001: | [Reper2](https://discord.gg/aMSKe7ZT9Q)
@@ -34,4 +34,47 @@ EMOJI - 1 SLOT AVAILABLE
 | ![gj_folderBtn_001](https://cdn.discordapp.com/emojis/885004136230309929.png?v=1) | :gj_folderBtn_001: | [Reper2](https://discord.gg/aMSKe7ZT9Q)
 | ![dart_31](https://cdn.discordapp.com/emojis/884575101352308787.png?v=1) | :dart_31: | [Reper2](https://discord.gg/aMSKe7ZT9Q)
 | ![spider_14](https://cdn.discordapp.com/emojis/882537370107387945.png?v=1) | :spider_14: | [Reper2](https://discord.gg/aMSKe7ZT9Q)
+| ![robot_16](https://cdn.discordapp.com/emojis/882537351270780969.png?v=1) | :robot_16: | [Reper2](https://discord.gg/aMSKe7ZT9Q)
+| ![bird_10](https://cdn.discordapp.com/emojis/882537351270780969.png?v=1) | :bird_10: | [Reper2](https://discord.gg/aMSKe7ZT9Q)
+| ![player_ball_15](https://cdn.discordapp.com/emojis/882537201727062026.png?v=1) | :player_ball_15: | [Reper2](https://discord.gg/aMSKe7ZT9Q)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
