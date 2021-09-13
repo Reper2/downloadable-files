@@ -20,7 +20,7 @@ and can only contain alphanumeric characters and underscores. Emoji must be unde
 
 
 
-EMOJI - 1 SLOT AVAILABLE
+###### EMOJI - 1 SLOT AVAILABLE
 | Emoji | Alias | Uploaded by |
 | --- | --- | --- |
 | ![secretCoinUI3_001](https://cdn.discordapp.com/emojis/885698004940648509.png?v=1) | :secretCoinUI3_001: | [Reper2](https://discord.gg/aMSKe7ZT9Q)
