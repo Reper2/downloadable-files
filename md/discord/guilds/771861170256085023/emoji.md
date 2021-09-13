@@ -7,8 +7,8 @@
 [![Official Server](https://img.shields.io/discord/771861170256085023?color=%237289DA&label=Official%20Server&logo=discord)](https://discord.gg/JGEjfm5Gn4)
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCofCDfLjs_TkiC-p0-k_9XA?color=%23FF6969&label=Reper2%20%5BGD%5D&logo=youtube&logoColor=%23FF0000&style=flat)](https://www.youtube.com/channel/UCofCDfLjs_TkiC-p0-k_9XA)
 
-# /Discord/guilds/Reper2verse/emoji
+# /Discord/Guilds/Reper2verse/emoji
 Please select a file or directory:
-[⬅back](https://reper2.github.io/Downloadable-Files/md/discord/guilds/reper2verse)
+[⬅back](https://reper2.github.io/Downloadable-Files/md/discord/guilds/771861170256085023)
 
-[❔Just nothing...]()
+[Nothing yet...]()
