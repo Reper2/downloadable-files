@@ -21,5 +21,5 @@ YouTube: [Reper2 [GD]](https://www.youtube.com/channel/UCofCDfLjs_TkiC-p0-k_9XA)
 EMOJI - 1 SLOT AVAILABLE
 | Emoji 	| Alias 		| Uploaded by |
 | --------- | ------------- | ----------- |
-| ![secretCoinUI3_001](https://github.com/Reper2/Downloadable-Files/blob/master/Discord/Guilds/Reper2verse/Emoji/secretCoinUI3_001.png) | :secretCoinUI3_001: | ![Reper2](https://cdn.discordapp.com/icons/771861170256085023/c6e18289481896794fb9c7ef70427045.png?size=4096)Reper2
+| ![secretCoinUI3_001](https://github.com/Reper2/Downloadable-Files/blob/master/Discord/Guilds/Reper2verse/Emoji/secretCoinUI3_001.png) | :secretCoinUI3_001: | ![Reper2](https://discord/user/771605101550632970)Reper2
 
