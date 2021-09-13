@@ -23,4 +23,5 @@ TEMPLATE TITLE
 		follows the server rules!
 		
  TEMPLATE LINK
+ 
 		https://discord.new/KUHBFybPyV36
