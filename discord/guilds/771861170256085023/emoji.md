@@ -23,13 +23,14 @@ and can only contain alphanumeric characters and underscores. Emoji must be unde
 EMOJI - 1 SLOT AVAILABLE
 | Emoji 	| Alias 		| Uploaded by |
 | --------- | ------------- | ----------- |
-| ![secretCoinUI3_001](https://cdn.discordapp.com/emojis/885698004940648509.png?v=1) | [:secretCoinUI3_001:](https://cdn.discordapp.com/emojis/882520778376101948.png?v=1) | [Reper2](https://discord.gg/aMSKe7ZT9Q)
-| ![currencyOrb_001](https://cdn.discordapp.com/emojis/885366433540874272.png?v=1) | [:currencyOrb_001:](https://cdn.discordapp.com/emojis/885366433540874272.png?v=1) | [Reper2](https://discord.gg/aMSKe7ZT9Q)
-| ![plushies_001](https://cdn.discordapp.com/emojis/885357890649612299.png?v=1) | [:plushies_001:](https://cdn.discordapp.com/emojis/885357890649612299.png?v=1) | [Reper2](https://discord.gg/aMSKe7ZT9Q)
-| ![accountBtn_friends_001](https://cdn.discordapp.com/emojis/885356969857265684.png?v=1) | [:accountBtn_friends_001:](https://cdn.discordapp.com/emojis/885356969857265684.png?v=1) | [Reper2](https://discord.gg/aMSKe7ZT9Q)
-| ![GJ_infoBtn_001](https://cdn.discordapp.com/emojis/885356790513008650.png?v=1) | [:GJ_infoBtn_001:](https://cdn.discordapp.com/emojis/885356790513008650.png?v=1) | [Reper2](https://discord.gg/aMSKe7ZT9Q)
-| ![gj_siteIcon_001](https://cdn.discordapp.com/emojis/885355104927121469.png?v=1) | [:gj_siteIcon_001:](https://cdn.discordapp.com/emojis/885355104927121469.png?v=1) | [Reper2](https://discord.gg/aMSKe7ZT9Q)
-| ![GJ_shareBtn_001](https://cdn.discordapp.com/emojis/885355008399405189.png?v=1) | [:GJ_shareBtn_001:](https://cdn.discordapp.com/emojis/885355008399405189.png?v=1) | [Reper2](https://discord.gg/aMSKe7ZT9Q)
-
-
+| ![secretCoinUI3_001](https://cdn.discordapp.com/emojis/885698004940648509.png?v=1) | :secretCoinUI3_001: | [Reper2](https://discord.gg/aMSKe7ZT9Q)
+| ![currencyOrb_001](https://cdn.discordapp.com/emojis/885366433540874272.png?v=1) | :currencyOrb_001: | [Reper2](https://discord.gg/aMSKe7ZT9Q)
+| ![plushies_001](https://cdn.discordapp.com/emojis/885357890649612299.png?v=1) | :plushies_001: | [Reper2](https://discord.gg/aMSKe7ZT9Q)
+| ![accountBtn_friends_001](https://cdn.discordapp.com/emojis/885356969857265684.png?v=1) | :accountBtn_friends_001: | [Reper2](https://discord.gg/aMSKe7ZT9Q)
+| ![GJ_infoBtn_001](https://cdn.discordapp.com/emojis/885356790513008650.png?v=1) | :GJ_infoBtn_001: | [Reper2](https://discord.gg/aMSKe7ZT9Q)
+| ![gj_siteIcon_001](https://cdn.discordapp.com/emojis/885355104927121469.png?v=1) | :gj_siteIcon_001: | [Reper2](https://discord.gg/aMSKe7ZT9Q)
+| ![GJ_shareBtn_001](https://cdn.discordapp.com/emojis/885355008399405189.png?v=1) | :GJ_shareBtn_001: | [Reper2](https://discord.gg/aMSKe7ZT9Q)
+| ![RSAppeals_serverIcon_001](https://cdn.discordapp.com/emojis/885338094457470996.png?v=1) | :RSAppeals_serverIcon_001: | [Reper2](https://discord.gg/aMSKe7ZT9Q)
+| ![gj_folderBtn_001](https://cdn.discordapp.com/emojis/885004136230309929.png?v=1) | :gj_folderBtn_001: | [Reper2](https://discord.gg/aMSKe7ZT9Q)
+| ![dart_31](https://cdn.discordapp.com/emojis/885338094457470996.png?v=1) | :RSAppeals_serverIcon_001: | [Reper2](https://discord.gg/aMSKe7ZT9Q)
 
