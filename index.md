@@ -17,4 +17,4 @@ Please select a file or directory:
 
 [📁Profile Pictures](https://reper2.github.io/Downloadable-Files/md/pfp)
 
-[![Test](https://github.com/Reper2/Downloadable-Files/Discord/Guilds/Reper2verse/Emoji/plushies_001)]()
+[![Test](https://reper2.github.io/Downloadable-Files/Discord/Guilds/Reper2verse/Emoji/plushies_001)]()
