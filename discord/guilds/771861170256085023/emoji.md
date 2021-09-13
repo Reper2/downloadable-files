@@ -26,7 +26,7 @@ EMOJI - 1 SLOT AVAILABLE
 | ![secretCoinUI3_001](https://github.com/Reper2/Downloadable-Files/blob/master/discord/guilds/771861170256085023/emoji/885698004940648509.png) | [:secretCoinUI3_001:](https://cdn.discordapp.com/emojis/882520778376101948.png?v=1) | [Reper2](https://discord.gg/aMSKe7ZT9Q)
 | ![currencyOrb_001](https://github.com/Reper2/Downloadable-Files/blob/master/discord/guilds/771861170256085023/emoji/885366433540874272.png) | [:currencyOrb_001:](https://cdn.discordapp.com/emojis/885366433540874272.png?v=1) | [Reper2](https://discord.gg/aMSKe7ZT9Q)
 | ![plushies_001](https://github.com/Reper2/Downloadable-Files/blob/master/discord/guilds/771861170256085023/emoji/885357890649612299.png) | [:plushies_001:](https://cdn.discordapp.com/emojis/885357890649612299.png?v=1) | [Reper2](https://discord.gg/aMSKe7ZT9Q)
-
+| ![accountBtn_friends_001](https://github.com/Reper2/Downloadable-Files/blob/master/discord/guilds/771861170256085023/emoji/885356969857265684.png) | [:accountBtn_friends_001:](https://cdn.discordapp.com/emojis/885356969857265684.png?v=1) | [Reper2](https://discord.gg/aMSKe7ZT9Q)
 
 
 
