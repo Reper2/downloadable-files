@@ -32,5 +32,6 @@ EMOJI - 1 SLOT AVAILABLE
 | ![GJ_shareBtn_001](https://cdn.discordapp.com/emojis/885355008399405189.png?v=1) | :GJ_shareBtn_001: | [Reper2](https://discord.gg/aMSKe7ZT9Q)
 | ![RSAppeals_serverIcon_001](https://cdn.discordapp.com/emojis/885338094457470996.png?v=1) | :RSAppeals_serverIcon_001: | [Reper2](https://discord.gg/aMSKe7ZT9Q)
 | ![gj_folderBtn_001](https://cdn.discordapp.com/emojis/885004136230309929.png?v=1) | :gj_folderBtn_001: | [Reper2](https://discord.gg/aMSKe7ZT9Q)
-| ![dart_31](https://cdn.discordapp.com/emojis/884575101352308787.png?v=1) | :RSAppeals_serverIcon_001: | [Reper2](https://discord.gg/aMSKe7ZT9Q)
+| ![dart_31](https://cdn.discordapp.com/emojis/884575101352308787.png?v=1) | :dart_31: | [Reper2](https://discord.gg/aMSKe7ZT9Q)
+| ![spider_14](https://cdn.discordapp.com/emojis/882537370107387945.png?v=1) | :spider_14: | [Reper2](https://discord.gg/aMSKe7ZT9Q)
 
