@@ -14,8 +14,11 @@ permissions and settings as yours.
 
  
 TEMPLATE TITLE
+		
 		{user}'s Community Server
+		
  TEMPLATE DESCRIPTION
+ 
 		Lots of channels, moderation, voice channels, places to talk about anything as long as it
 		follows the server rules!
 		
