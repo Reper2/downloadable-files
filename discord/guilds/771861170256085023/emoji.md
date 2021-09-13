@@ -6,6 +6,7 @@
 
 [![Official Server](https://cdn.discordapp.com/emojis/874089012489519114.png?v=1)](https://discord.gg/JGEjfm5Gn4)
 [![YouTube Channel](https://cdn.discordapp.com/emojis/874090930855092265.png?v=1)](https://www.youtube.com/channel/UCofCDfLjs_TkiC-p0-k_9XA)
+[![GitHub Profile](https://cdn.discordapp.com/emojis/874089226197692436.png?v=1)](https://github.com/Reper2)
 
 # /Discord/Guilds/Reper2verse/emoji
 Please select a file or directory:
