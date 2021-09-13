@@ -12,7 +12,8 @@ permissions and settings as yours.
 		
 		✔	Default server settings			❌	Your server icon, Boosts, or other perks.
 ~~                                                                                             ~~
- TEMPLATE TITLE
+ 
+TEMPLATE TITLE
 		{user}'s Community Server
  TEMPLATE DESCRIPTION
 		Lots of channels, moderation, voice channels, places to talk about anything as long as it
