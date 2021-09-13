@@ -23,8 +23,8 @@ and can only contain alphanumeric characters and underscores. Emoji must be unde
 EMOJI - 1 SLOT AVAILABLE
 | Emoji 	| Alias 		| Uploaded by |
 | --------- | ------------- | ----------- |
-| ![secretCoinUI3_001](https://github.com/Reper2/Downloadable-Files/blob/master/Discord/Guilds/Reper2verse/Emoji/secretCoinUI3_001.png) | [:secretCoinUI3_001:](https://cdn.discordapp.com/emojis/882520778376101948.png?v=1) | [Reper2](https://discord.gg/aMSKe7ZT9Q)
-| ![currencyOrb_001](https://github.com/Reper2/Downloadable-Files/blob/master/Discord/Guilds/Reper2verse/Emoji/secretCoinUI3_001.png) | [:secretCoinUI3_001:](https://cdn.discordapp.com/emojis/882520778376101948.png?v=1) | [Reper2](https://discord.gg/aMSKe7ZT9Q)
+| ![secretCoinUI3_001](https://github.com/Reper2/Downloadable-Files/blob/master/discord/guilds/771861170256085023/emoji/885698004940648509.png) | [:secretCoinUI3_001:](https://cdn.discordapp.com/emojis/882520778376101948.png?v=1) | [Reper2](https://discord.gg/aMSKe7ZT9Q)
+| ![currencyOrb_001](https://github.com/Reper2/Downloadable-Files/blob/master/discord/guilds/771861170256085023/emoji/885366433540874272.png) | [:currencyOrb_001:](https://cdn.discordapp.com/emojis/885366433540874272.png?v=1) | [Reper2](https://discord.gg/aMSKe7ZT9Q)
 
 
 
