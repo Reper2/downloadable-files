@@ -28,6 +28,7 @@ EMOJI - 1 SLOT AVAILABLE
 | ![plushies_001](https://cdn.discordapp.com/emojis/885357890649612299.png?v=1) | [:plushies_001:](https://cdn.discordapp.com/emojis/885357890649612299.png?v=1) | [Reper2](https://discord.gg/aMSKe7ZT9Q)
 | ![accountBtn_friends_001](https://cdn.discordapp.com/emojis/885356969857265684.png?v=1) | [:accountBtn_friends_001:](https://cdn.discordapp.com/emojis/885356969857265684.png?v=1) | [Reper2](https://discord.gg/aMSKe7ZT9Q)
 | ![GJ_infoBtn_001](https://cdn.discordapp.com/emojis/885356790513008650.png?v=1) | [:GJ_infoBtn_001:](https://cdn.discordapp.com/emojis/885356790513008650.png?v=1) | [Reper2](https://discord.gg/aMSKe7ZT9Q)
+| ![gj_siteIcon_001](https://cdn.discordapp.com/emojis/885355104927121469.png?v=1) | [:gj_siteIcon_001:](https://cdn.discordapp.com/emojis/885355104927121469.png?v=1) | [Reper2](https://discord.gg/aMSKe7ZT9Q)
 
 
 
