@@ -11,7 +11,7 @@
 
 # Discord/Guilds/Reper2verse/Server template
 Please select a file or directory:
-[![⬅back](C:\Users\ethan\Documents\textures\GJ_GameSheet03 (menu icons and buttons)\GJ_arrow_01_001.png)](https://reper2.github.io/Downloadable-Files/discord/guilds/771861170256085023)
+[![⬅back]("C:\Users\ethan\Documents\textures\GJ_GameSheet03 (menu icons and buttons)\GJ_arrow_01_001.png")](https://reper2.github.io/Downloadable-Files/discord/guilds/771861170256085023)
 # Server template
 A server template is an easy way to share your server setup and help anyone create a server instantly.
 
