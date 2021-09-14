@@ -1,112 +1,62 @@
-![GitHub followers](https://img.shields.io/github/followers/Reper2?color=gree&logo=github)
-![GitHub forks](https://img.shields.io/github/forks/Reper2/Downloadable-Files?color=gree&logo=github)
-![GitHub Repo stars](https://img.shields.io/github/stars/Reper2/Downloadable-Files?color=gree&label=repo%20stars&logo=github)
-![GitHub User's stars](https://img.shields.io/github/stars/Reper2?affiliations=OWNER&color=gree&label=user%20stars&logo=github)
-![GitHub watchers](https://img.shields.io/github/watchers/Reper2/Downloadable-Files?color=gree&logo=github)
+# [![back](https://cdn.discordapp.com/emojis/887168885747511396?size=32)](https://reper2.github.io/Downloadable-Files/discord/guilds/885670545981579315\) Server emoji
 
-[![Official Server](https://img.shields.io/discord/771861170256085023?color=%237289DA&label=Official%20Server&logo=discord)](https://discord.gg/JGEjfm5Gn4)
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCofCDfLjs_TkiC-p0-k_9XA?color=%23FF6969&label=Reper2%20%5BGD%5D&logo=youtube&logoColor=%23FF0000&style=flat)](https://www.youtube.com/channel/UCofCDfLjs_TkiC-p0-k_9XA)
+###### Add up to 50 custom emojis that anyone can use in this server. Animated GIF emojis may be used by members with Discord Nitro. Emoji names must be at least 2 characters long and can only contain alphanumeric characters and underscores. Emoji must be under 256kb in size.
 
-# /Discord/guilds/RS-Emoji-Storage-1/emoji
-Please select a file or directory:
-[⬅back](https://reper2.github.io/Downloadable-Files/md/discord/guilds/rs-emoji-storage-1)
 
-[🖼copy](https://reper2.github.io/Downloadable-Files/Discord/Guilds/RS%20Emoji%20Storage%201/Emoji/copy.png)
 
-[🖼creator_points](https://reper2.github.io/Downloadable-Files/Discord/Guilds/RS%20Emoji%20Storage%201/Emoji/creator_points.png)
+###### EMOJI - 1 SLOT AVAILABLE
+| Emoji | Alias | Uploaded by |
+| :----: | :--- | :----: |
+| ![secretCoinUI3_001](https://cdn.discordapp.com/emojis/885698004940648509.png?size=32) | `:secretCoinUI3_001:` | [Reper2](https://discord.gg/aMSKe7ZT9Q)
+| ![currencyOrb_001](https://cdn.discordapp.com/emojis/885366433540874272.png?size=32) | `:currencyOrb_001:` | [Reper2](https://discord.gg/aMSKe7ZT9Q)
+| ![plushies_001](https://cdn.discordapp.com/emojis/885357890649612299.png?size=32) | `:plushies_001:` | [Reper2](https://discord.gg/aMSKe7ZT9Q)
+| ![accountBtn_friends_001](https://cdn.discordapp.com/emojis/885356969857265684.png?size=32) | `:accountBtn_friends_001:` | [Reper2](https://discord.gg/aMSKe7ZT9Q)
+| ![GJ_infoBtn_001](https://cdn.discordapp.com/emojis/885356790513008650.png?size=32) | `:GJ_infoBtn_001:` | [Reper2](https://discord.gg/aMSKe7ZT9Q)
+| ![gj_siteIcon_001](https://cdn.discordapp.com/emojis/885355104927121469.png?size=32) | `:gj_siteIcon_001:` | [Reper2](https://discord.gg/aMSKe7ZT9Q)
+| ![GJ_shareBtn_001](https://cdn.discordapp.com/emojis/885355008399405189.png?size=32) | `:GJ_shareBtn_001:` | [Reper2](https://discord.gg/aMSKe7ZT9Q)
+| ![RSAppeals_serverIcon_001](https://cdn.discordapp.com/emojis/885338094457470996.png?size=32) | `:RSAppeals_serverIcon_001:` | [Reper2](https://discord.gg/aMSKe7ZT9Q)
+| ![gj_folderBtn_001](https://cdn.discordapp.com/emojis/885004136230309929.png?size=32) | `:gj_folderBtn_001:` | [Reper2](https://discord.gg/aMSKe7ZT9Q)
+| ![dart_31](https://cdn.discordapp.com/emojis/884575101352308787.png?size=32) | `:dart_31:` | [Reper2](https://discord.gg/aMSKe7ZT9Q)
+| ![spider_14](https://cdn.discordapp.com/emojis/882537370107387945.png?size=32) | `:spider_14:` | [Reper2](https://discord.gg/aMSKe7ZT9Q)
+| ![robot_16](https://cdn.discordapp.com/emojis/882537351270780969.png?size=32) | `:robot_16:` | [Reper2](https://discord.gg/aMSKe7ZT9Q)
+| ![bird_10](https://cdn.discordapp.com/emojis/882537351270780969.png?size=32) | `:bird_10:` | [Reper2](https://discord.gg/aMSKe7ZT9Q)
+| ![player_ball_15](https://cdn.discordapp.com/emojis/882537201727062026.png?size=32) | `:player_ball_15:` | [Reper2](https://discord.gg/aMSKe7ZT9Q)
+| ![ship_17](https://cdn.discordapp.com/emojis/882537172023009290.png?size=32) | `:ship_17:` | [Reper2](https://discord.gg/aMSKe7ZT9Q)
+| ![player_132](https://cdn.discordapp.com/emojis/882537141173886986.png?size=32) | `:player_132:` | [Reper2](https://discord.gg/aMSKe7ZT9Q)
+| ![Reper2](https://cdn.discordapp.com/emojis/882520778376101948.png?size=32) | `:Reper2:` | [Reper2](https://discord.gg/aMSKe7ZT9Q)
+| ![GJ_starsIcon_001](https://cdn.discordapp.com/emojis/882468610784763944.png?size=32) | `:GJ_starsIcon_001:` | [Reper2](https://discord.gg/aMSKe7ZT9Q)
+| ![currencyOrbIcon_001](https://cdn.discordapp.com/emojis/882468428462563408.png?size=32) | `:currencyOrbIcon_001:` | [Reper2](https://discord.gg/aMSKe7ZT9Q)
+| ![GJ_demonIcon_001](https://cdn.discordapp.com/emojis/882120757478576128.png?size=32) | `:GJ_demonIcon_001:` | [Reper2](https://discord.gg/aMSKe7ZT9Q)
+| ![player_special_02_001](https://cdn.discordapp.com/emojis/882107932861419531.png?size=32) | `:player_special_02_001:` | [Reper2](https://discord.gg/aMSKe7ZT9Q)
+| ![explosionIcon_17_001](https://cdn.discordapp.com/emojis/882103369697730580.png?size=32) | `:explosionIcon_17_001:` | [Reper2](https://discord.gg/aMSKe7ZT9Q)
+| ![secretCoinUI_001](https://cdn.discordapp.com/emojis/882099420848615444.png?size=32) | `:secretCoinUI_001:` | [Reper2](https://discord.gg/aMSKe7ZT9Q)
+| ![GJ_bigStar_001](https://cdn.discordapp.com/emojis/882099304490229800.png?size=32) | `:GJ_bigStar_001:` | [Reper2](https://discord.gg/aMSKe7ZT9Q)
+| ![GJ_bigDiamond_001](https://cdn.discordapp.com/emojis/882098984112492575.png?size=32) | `:GJ_bigDiamond_001:` | [Reper2](https://discord.gg/aMSKe7ZT9Q)
+| ![secretCoinUI2_001](https://cdn.discordapp.com/emojis/882096698711765013.png?size=32) | `:secretCoinUI2_001:` | [Reper2](https://discord.gg/aMSKe7ZT9Q)
+| ![x_mappacksuhd](https://cdn.discordapp.com/emojis/882095920643190894.png?size=32) | `:x_mappacksuhd:` | [Reper2](https://discord.gg/aMSKe7ZT9Q)
+| ![coloruhd](https://cdn.discordapp.com/emojis/882095893808054282.png?size=32) | `:coloruhd:` | [Reper2](https://discord.gg/aMSKe7ZT9Q)
+| ![rankIcon_1_001](https://cdn.discordapp.com/emojis/882094143843745843.png?size=32) | `:rankIcon_1_001:` | [Reper2](https://discord.gg/aMSKe7ZT9Q)
+| ![GJ_sMagicIcon_001](https://cdn.discordapp.com/emojis/882090770914476104.png?size=32) | `:GJ_sMagicIcon_001:` | [Reper2](https://discord.gg/aMSKe7ZT9Q)
+| ![modBadge_02_001](https://cdn.discordapp.com/emojis/881790789787713566.png?size=32) | `:modBadge_02_001:` | [Reper2](https://discord.gg/aMSKe7ZT9Q)
+| ![modBadge_01_001](https://cdn.discordapp.com/emojis/881790688944087091.png?size=32) | `:modBadge_01_001:` | [Reper2](https://discord.gg/aMSKe7ZT9Q)
+| ![GJ_bigKey_001](https://cdn.discordapp.com/emojis/880421891456774144.png?size=32) | `:GJ_bigKey_001:` | [Reper2](https://discord.gg/aMSKe7ZT9Q)
+| ![bonusShardSmall_001](https://cdn.discordapp.com/emojis/880421014415228938.png?size=32) | `:bonusShardSmall_001:` | [Reper2](https://discord.gg/aMSKe7ZT9Q)
+| ![GJ_lock_open_001](https://cdn.discordapp.com/emojis/874091489557372928.png?size=32) | `:GJ_lock_open_001:` | [Reper2](https://discord.gg/aMSKe7ZT9Q)
+| ![GJ_timeIcon_001](https://cdn.discordapp.com/emojis/874091197365375016.png?size=32) | `:GJ_timeIcon_001:` | [Reper2](https://discord.gg/aMSKe7ZT9Q)
+| ![gj_ytIcon_001](https://cdn.discordapp.com/emojis/874090930855092265.png?size=32) | `:gj_ytIcon_001:` | [Reper2](https://discord.gg/aMSKe7ZT9Q)
+| ![GJ_deleteIcon_001](https://cdn.discordapp.com/emojis/874090880393437184.png?size=32) | `:GJ_deleteIcon_001:` | [Reper2](https://discord.gg/aMSKe7ZT9Q)
+| ![GJ_loading_001](https://cdn.discordapp.com/emojis/874089752024985632.png?size=32) | `:GJ_loading_001:` | [Reper2](https://discord.gg/aMSKe7ZT9Q)
+| ![GJ_lock_001](https://cdn.discordapp.com/emojis/874089687013290026.png?size=32) | `:GJ_lock_001:` | [Reper2](https://discord.gg/aMSKe7ZT9Q)
+| ![GJ_likesIcon_001](https://cdn.discordapp.com/emojis/874089622764937276.png?size=32) | `:GJ_likesIcon_001:` | [Reper2](https://discord.gg/aMSKe7ZT9Q)
+| ![gj_ghIcon_001](https://cdn.discordapp.com/emojis/874089226197692436.png?size=32) | `:gj_ghIcon_001:` | [Reper2](https://discord.gg/aMSKe7ZT9Q)
+| ![GJ_downloadsIcon_001](https://cdn.discordapp.com/emojis/874089111558963301.png?size=32) | `:GJ_downloadsIcon_001:` | [Reper2](https://discord.gg/aMSKe7ZT9Q)
+| ![GJ_dislikesIcon_001](https://cdn.discordapp.com/emojis/874089059876732971.png?size=32) | `:GJ_dislikesIcon_001:` | [Reper2](https://discord.gg/aMSKe7ZT9Q)
+| ![gj_discordIcon_001](https://cdn.discordapp.com/emojis/874089012489519114.png?size=32) | `:gj_discordIcon_001:` | [Reper2](https://discord.gg/aMSKe7ZT9Q)
+| ![gj_weeklyCrown_001](https://cdn.discordapp.com/emojis/874088893329313833.png?size=32) | `:gj_weeklyCrown_001:` | [Reper2](https://discord.gg/aMSKe7ZT9Q)
+| ![gj_dailyCrown_001](https://cdn.discordapp.com/emojis/874088852053164113.png?size=32) | `:gj_dailyCrown_001:` | [Reper2](https://discord.gg/aMSKe7ZT9Q)
+| ![GJ_hammerIcon_001](https://cdn.discordapp.com/emojis/874088803009187872.png?size=32) | `:GJ_hammerIcon_001:` | [Reper2](https://discord.gg/aMSKe7ZT9Q)
+| ![GJ_completesIcon_001](https://cdn.discordapp.com/emojis/873869692702445569.png?size=32) | `:GJ_completesIcon_001:` | [Reper2](https://discord.gg/aMSKe7ZT9Q)
 
-[🖼cross](https://reper2.github.io/Downloadable-Files/Discord/Guilds/RS%20Emoji%20Storage%201/Emoji/cross.png)
+###### ANIMATED EMOJI - 50 SLOTS AVAILABLE
 
-[🖼demon](https://reper2.github.io/Downloadable-Files/Discord/Guilds/RS%20Emoji%20Storage%201/Emoji/demon.png)
-
-[🖼diamond](https://reper2.github.io/Downloadable-Files/Discord/Guilds/RS%20Emoji%20Storage%201/Emoji/diamond.png)
-
-[🖼dislike](https://reper2.github.io/Downloadable-Files/Discord/Guilds/RS%20Emoji%20Storage%201/Emoji/dislike.png)
-
-[🖼download_song](https://reper2.github.io/Downloadable-Files/Discord/Guilds/RS%20Emoji%20Storage%201/Emoji/download_song.png)
-
-[🖼downloads](https://reper2.github.io/Downloadable-Files/Discord/Guilds/RS%20Emoji%20Storage%201/Emoji/downloads.png)
-
-[🖼elder_mod](https://reper2.github.io/Downloadable-Files/Discord/Guilds/RS%20Emoji%20Storage%201/Emoji/elder_mod.png)
-
-[🖼failed](https://reper2.github.io/Downloadable-Files/Discord/Guilds/RS%20Emoji%20Storage%201/Emoji/failed.png)
-
-[🖼friends](https://reper2.github.io/Downloadable-Files/Discord/Guilds/RS%20Emoji%20Storage%201/Emoji/friends.png)
-
-[🖼global_rank](https://reper2.github.io/Downloadable-Files/Discord/Guilds/RS%20Emoji%20Storage%201/Emoji/global_rank.png)
-
-[🖼icon_auto](https://reper2.github.io/Downloadable-Files/Discord/Guilds/RS%20Emoji%20Storage%201/Emoji/icon_auto.png)
-
-[🖼icon_auto_epic](https://reper2.github.io/Downloadable-Files/Discord/Guilds/RS%20Emoji%20Storage%201/Emoji/icon_auto_epic.png)
-
-[🖼icon_auto_featured](https://reper2.github.io/Downloadable-Files/Discord/Guilds/RS%20Emoji%20Storage%201/Emoji/icon_auto_featured.png)
-
-[🖼icon_demon_easy](https://reper2.github.io/Downloadable-Files/Discord/Guilds/RS%20Emoji%20Storage%201/Emoji/icon_demon_easy.png)
-
-[🖼icon_demon_easy_epic](https://reper2.github.io/Downloadable-Files/Discord/Guilds/RS%20Emoji%20Storage%201/Emoji/icon_demon_easy_epic.png)
-
-[🖼icon_demon_easy_featured](https://reper2.github.io/Downloadable-Files/Discord/Guilds/RS%20Emoji%20Storage%201/Emoji/icon_demon_easy_featured.png)
-
-[🖼icon_demon_extreme](https://reper2.github.io/Downloadable-Files/Discord/Guilds/RS%20Emoji%20Storage%201/Emoji/icon_demon_extreme.png)
-
-[🖼icon_demon_extreme_epic](https://reper2.github.io/Downloadable-Files/Discord/Guilds/RS%20Emoji%20Storage%201/Emoji/icon_demon_extreme_epic.png)
-
-[🖼icon_demon_extreme_featured](https://reper2.github.io/Downloadable-Files/Discord/Guilds/RS%20Emoji%20Storage%201/Emoji/icon_demon_extreme_featured.png)
-
-[🖼icon_demon_hard](https://reper2.github.io/Downloadable-Files/Discord/Guilds/RS%20Emoji%20Storage%201/Emoji/icon_demon_hard.png)
-
-[🖼icon_demon_hard_epic](https://reper2.github.io/Downloadable-Files/Discord/Guilds/RS%20Emoji%20Storage%201/Emoji/icon_demon_hard_epic.png)
-
-[🖼icon_demon_hard_featured](https://reper2.github.io/Downloadable-Files/Discord/Guilds/RS%20Emoji%20Storage%201/Emoji/icon_demon_hard_featured.png)
-
-[🖼icon_demon_insane](https://reper2.github.io/Downloadable-Files/Discord/Guilds/RS%20Emoji%20Storage%201/Emoji/icon_demon_insane.png)
-
-[🖼icon_demon_insane_epic](https://reper2.github.io/Downloadable-Files/Discord/Guilds/RS%20Emoji%20Storage%201/Emoji/icon_demon_insane_epic.png)
-
-[🖼icon_demon_insane_featured](https://reper2.github.io/Downloadable-Files/Discord/Guilds/RS%20Emoji%20Storage%201/Emoji//icon_demon_insane_featured.png)
-
-[🖼icon_demon_medium](https://reper2.github.io/Downloadable-Files/Discord/Guilds/RS%20Emoji%20Storage%201/Emoji/icon_demon_medium.png)
-
-[🖼icon_demon_medium_epic](https://reper2.github.io/Downloadable-Files/Discord/Guilds/RS%20Emoji%20Storage%201/Emoji/icon_demon_medium_epic.png)
-
-[🖼icon_demon_medium_featured](https://reper2.github.io/Downloadable-Files/Discord/Guilds/RS%20Emoji%20Storage%201/Emoji/icon_demon_medium_featured.png)
-
-[🖼icon_easy](https://reper2.github.io/Downloadable-Files/Discord/Guilds/RS%20Emoji%20Storage%201/Emoji/icon_easy.png)
-
-[🖼icon_easy_epic](https://reper2.github.io/Downloadable-Files/Discord/Guilds/RS%20Emoji%20Storage%201/Emoji/icon_easy_epic.png)
-
-[🖼icon_easy_featured](https://reper2.github.io/Downloadable-Files/Discord/Guilds/RS%20Emoji%20Storage%201/Emoji/icon_easy_featured.png)
-
-[🖼icon_hard](https://reper2.github.io/Downloadable-Files/Discord/Guilds/RS%20Emoji%20Storage%201/Emoji/icon_hard.png)
-
-[🖼icon_hard_epic](https://reper2.github.io/Downloadable-Files/Discord/Guilds/RS%20Emoji%20Storage%201/Emoji/icon_hard_featured.png)
-
-[🖼icon_hard_featured](https://reper2.github.io/Downloadable-Files/Discord/Guilds/RS%20Emoji%20Storage%201/Emoji/icon_hard_featured.png)
-
-[🖼icon_harder](https://reper2.github.io/Downloadable-Files/Discord/Guilds/RS%20Emoji%20Storage%201/Emoji/icon_harder.png)
-
-[🖼icon_harder_epic](https://reper2.github.io/Downloadable-Files/Discord/Guilds/RS%20Emoji%20Storage%201/Emoji/icon_harder_epic.png)
-
-[🖼icon_harder_featured](https://reper2.github.io/Downloadable-Files/Discord/Guilds/RS%20Emoji%20Storage%201/Emoji/icon_harder_featured.png)
-
-[🖼icon_insane](https://reper2.github.io/Downloadable-Files/Discord/Guilds/RS%20Emoji%20Storage%201/Emoji/icon_insane.png)
-
-[🖼icon_insane_epic](https://reper2.github.io/Downloadable-Files/Discord/Guilds/RS%20Emoji%20Storage%201/Emoji/icon_insane_epic.png)
-
-[🖼icon_insane_featured](https://reper2.github.io/Downloadable-Files/Discord/Guilds/RS%20Emoji%20Storage%201/Emoji/icon_insane_featured.png)
-
-[🖼icon_na](https://reper2.github.io/Downloadable-Files/Discord/Guilds/RS%20Emoji%20Storage%201/Emoji/icon_na.png)
-
-[🖼icon_na_epic](https://reper2.github.io/Downloadable-Files/Discord/Guilds/RS%20Emoji%20Storage%201/Emoji/icon_na_epic.png)
-
-[🖼icon_na_featured](https://reper2.github.io/Downloadable-Files/Discord/Guilds/RS%20Emoji%20Storage%201/Emoji/icon_na_featured.png)
-
-[🖼icon_normal](https://reper2.github.io/Downloadable-Files/Discord/Guilds/RS%20Emoji%20Storage%201/Emoji/icon_normal.png)
-
-[🖼icon_normal_epic](https://reper2.github.io/Downloadable-Files/Discord/Guilds/RS%20Emoji%20Storage%201/Emoji/icon_normal_epic.png)
-
-[🖼icon_normal_featured](https://reper2.github.io/Downloadable-Files/Discord/Guilds/RS%20Emoji%20Storage%201/Emoji/icon_normal_featured.png)
-
-[🖼info](https://reper2.github.io/Downloadable-Files/Discord/Guilds/RS%20Emoji%20Storage%201/Emoji/info.png)
-
-[🖼length](https://reper2.github.io/Downloadable-Files/Discord/Guilds/RS%20Emoji%20Storage%201/Emoji/length.png)
+None
