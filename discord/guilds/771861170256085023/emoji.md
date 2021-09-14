@@ -1,17 +1,4 @@
-![GitHub followers](https://img.shields.io/github/followers/Reper2?color=gree&logo=github)
-![GitHub forks](https://img.shields.io/github/forks/Reper2/Downloadable-Files?color=gree&logo=github)
-![GitHub Repo stars](https://img.shields.io/github/stars/Reper2/Downloadable-Files?color=gree&label=repo%20stars&logo=github)
-![GitHub User's stars](https://img.shields.io/github/stars/Reper2?affiliations=OWNER&color=gree&label=user%20stars&logo=github)
-![GitHub watchers](https://img.shields.io/github/watchers/Reper2/Downloadable-Files?color=gree&logo=github)
-
-[![Official Server](https://cdn.discordapp.com/emojis/874089012489519114.png?v=1)](https://discord.gg/JGEjfm5Gn4)
-[![YouTube Channel](https://cdn.discordapp.com/emojis/874090930855092265.png?v=1)](https://www.youtube.com/channel/UCofCDfLjs_TkiC-p0-k_9XA)
-[![GitHub Profile](https://cdn.discordapp.com/emojis/874089226197692436.png?v=1)](https://github.com/Reper2)
-[![Geometry Dash Profile](https://cdn.discordapp.com/emojis/651522650992148492.png?v=1)](https://gdbrowser.com/u/ReperGD2)
-
-# /Discord/Guilds/Reper2verse/emoji
-Please select a file or directory:
-[⬅back](https://reper2.github.io/Downloadable-Files/md/discord/guilds/771861170256085023)
+[![back](https://cdn.discordapp.com/emojis/887168885747511396)](https://reper2.github.io/Downloadable-Files/discord/guilds/771861170256085023)
 
 # Server emoji
 
