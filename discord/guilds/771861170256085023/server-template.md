@@ -11,8 +11,6 @@ permissions and settings as yours.
 		✔	Roles and permissions			❌	Members or bots
 		
 		✔	Default server settings			❌	Your server icon, Boosts, or other perks.
-
- 
 TEMPLATE TITLE
 		
 		{user}'s Community Server
