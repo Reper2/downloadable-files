@@ -1,5 +1,4 @@
-[![back](https://cdn.discordapp.com/emojis/887168885747511396?size=32)](https://reper2.github.io/Downloadable-Files/discord/guilds/771861170256085023)
-# Server template
+# [![back](https://cdn.discordapp.com/emojis/887168885747511396?size=32)](https://reper2.github.io/Downloadable-Files/discord/guilds/771861170256085023) Server template
 A server template is an easy way to share your server setup and help anyone create a server instantly.
 
 When someone uses your server template link, they create a new server pre-filled with the same channels, roles,
