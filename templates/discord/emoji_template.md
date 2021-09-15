@@ -10,4 +10,4 @@
 | ![{EMOJI_NAME}](https://cdn.discordapp.com/emojis/{ID}.png?size=32) | `:{ALIAS}:` | [{UPLOADER}]({UPLOADERS_SERVER_INVITE_LINK})
 
 ---
-![Download](https://gdcolon.com/tools/gdfont/img/Download%3E?font=11&color=FFC800) [![DownloadBtn](https://cdn.discordapp.com/emojis/885670815725674527.png?size=128)](https://raw.githubusercontent.com/Reper2/Downloadable-Files/master/assets/discord/emoji_template.zip)
+![Download](https://gdcolon.com/tools/gdfont/img/Download%3E?font=11&color=FFC800) [![DownloadBtn](https://cdn.discordapp.com/emojis/885670815725674527.png?size=128)](https://raw.githubusercontent.com/Reper2/Downloadable-Files/master/assets/discord/emoji_template.md)
