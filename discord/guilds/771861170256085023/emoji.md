@@ -5,11 +5,11 @@
 
 
 ###### EMOJI - 1 SLOT AVAILABLE
-| Emoji | Alias | Uploaded by |
-| :----: | :--- | :----: |
+| Emoji                                                                                  | Alias                 | Uploaded by
+| :----:                                                                                 | :---                  | :----: 
 | ![secretCoinUI3_001](https://cdn.discordapp.com/emojis/885698004940648509.png?size=32) | `:secretCoinUI3_001:` | [Reper2](https://discord.gg/aMSKe7ZT9Q)
-| ![currencyOrb_001](https://cdn.discordapp.com/emojis/885366433540874272.png?size=32) | `:currencyOrb_001:` | [Reper2](https://discord.gg/aMSKe7ZT9Q)
-| ![plushies_001](https://cdn.discordapp.com/emojis/885357890649612299.png?size=32) | `:plushies_001:` | [Reper2](https://discord.gg/aMSKe7ZT9Q)
+| ![currencyOrb_001](https://cdn.discordapp.com/emojis/885366433540874272.png?size=32)   | `:currencyOrb_001:` | [Reper2](https://discord.gg/aMSKe7ZT9Q)
+| ![plushies_001](https://cdn.discordapp.com/emojis/885357890649612299.png?size=32)      | `:plushies_001:` | [Reper2](https://discord.gg/aMSKe7ZT9Q)
 | ![accountBtn_friends_001](https://cdn.discordapp.com/emojis/885356969857265684.png?size=32) | `:accountBtn_friends_001:` | [Reper2](https://discord.gg/aMSKe7ZT9Q)
 | ![GJ_infoBtn_001](https://cdn.discordapp.com/emojis/885356790513008650.png?size=32) | `:GJ_infoBtn_001:` | [Reper2](https://discord.gg/aMSKe7ZT9Q)
 | ![gj_siteIcon_001](https://cdn.discordapp.com/emojis/885355104927121469.png?size=32) | `:gj_siteIcon_001:` | [Reper2](https://discord.gg/aMSKe7ZT9Q)
