@@ -6,7 +6,9 @@
 
 ###### EMOJI - {#} SLOT(S) AVAILABLE
 | Emoji | Alias | Uploaded by |
+
 | :----: | :--- | :----: |
+
 | ![{EMOJI_NAME}](https://cdn.discordapp.com/emojis/{ID}.png?size=32) | `:{ALIAS}:` | [{UPLOADER}]({UPLOADERS_SERVER_INVITE_LINK})
 
 ---
