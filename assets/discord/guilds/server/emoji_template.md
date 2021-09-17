@@ -12,7 +12,7 @@ Emoji Alias Uploaded by
 ---
 
 
-###### ANIMATED EMOJI -- {#} SLOT(S) AVAILABLE
+###### ANIMATED EMOJI -- {#} SLOT{S} AVAILABLE
 Emoji Alias Uploaded by
 
 ![{EMOJI_NAME}](https://cdn.discordapp.com/emojis/{ID}.gif?size=32) `:{ALIAS}:` {UPLOADER}
