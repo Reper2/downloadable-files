@@ -6,6 +6,8 @@
 [![Geometry Dash Profile](https://cdn.discordapp.com/emojis/651522650992148492.png?size=80)](https://gdbrowser.com/u/ReperGD2)
 ![<- View Profile](https://cdn.discordapp.com/emojis/887622199178063892.png?size=128)  
 
+---
+
 [`Discord`](https://reper2.github.io/Downloadable-Files/discord)
 
 ---
