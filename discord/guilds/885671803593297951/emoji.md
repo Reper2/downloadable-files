@@ -7,6 +7,6 @@
 ###### EMOJI - 33 SLOTS AVAILABLE
 Emoji Alias Uploaded by
 
-![](https://cdn.discordapp.com/emojis/.png?size=32) `::` [Reper2](https://discord.gg/aMSKe7ZT9Q)
+![](https://cdn.discordapp.com/emojis/.png?size=32) `::` Reper2
 
 ---
