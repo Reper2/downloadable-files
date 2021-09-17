@@ -5,24 +5,23 @@
 [![YouTube Channel](https://cdn.discordapp.com/emojis/874090930855092265.png?size=80)](https://www.youtube.com/channel/UCofCDfLjs_TkiC-p0-k_9XA)  
 [![Geometry Dash Profile](https://cdn.discordapp.com/emojis/651522650992148492.png?size=80)](https://gdbrowser.com/u/ReperGD2)
 ![<- View Profile](https://cdn.discordapp.com/emojis/887622199178063892.png?size=128)  
-Please select a file or directory:
 
-[📁Discord](https://reper2.github.io/Downloadable-Files/discord)
-
----
-
-[📁GD Icons](https://reper2.github.io/Downloadable-Files/gd-icons)
+[`Discord`](https://reper2.github.io/Downloadable-Files/discord)
 
 ---
 
-[📁Texture Pack](https://reper2.github.io/Downloadable-Files/texture-pack)
+[`GD Icons`](https://reper2.github.io/Downloadable-Files/gd-icons)
 
 ---
 
-[📁Profile Pictures](https://reper2.github.io/Downloadable-Files/pfp)
+[`Texture Pack`](https://reper2.github.io/Downloadable-Files/texture-pack)
 
 ---
 
-[📁Templates](https://reper2.github.io/Downloadable-Files/templates)
+[`Profile Pictures`](https://reper2.github.io/Downloadable-Files/pfp)
+
+---
+
+[`Templates`](https://reper2.github.io/Downloadable-Files/templates)
 
 ---
