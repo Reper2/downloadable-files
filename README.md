@@ -9,8 +9,8 @@ My [Texture Pack](https://reper2.github.io/Downloadable-Files/texture-pack) is s
 If you just want to browse the site then [click here](https://reper2.github.io/Downloadable-Files) to return to the [index](https://reper2.github.io/Downloadable-Files/index.md) page.
 
 If you'd like to download all the files then [click here](https://github.com/Reper2/Downloadable-Files/releases) to redirect to the releases page.
-## Liscense [![DownloadBtn](https://cdn.discordapp.com/emojis/885670815725674527.png?size=32)](https://raw.githubusercontent.com/Reper2/Downloadable-Files/master/LISCENSE)
-This project is released under the MIT liscence.
+## License [![DownloadBtn](https://cdn.discordapp.com/emojis/885670815725674527.png?size=32)](https://raw.githubusercontent.com/Reper2/Downloadable-Files/master/LICENSE)
+This project is released under the MIT license.
 ## Contact
 E-mail: [ethan.reper@gmail.com](mailto:ethan.reper@gmail.com)
 Discord: `Reper2#8878` (Server https://discord.gg/JGEjfm5Gn4)
