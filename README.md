@@ -6,7 +6,7 @@
 
 A place where you can download some of my files!
 ## File Progress
-My [Texture Pack](https://github.com/Reper2/Downloadable-Files/tree/master/Texture%20Pack) is still in progress...
+My [Texture Pack](https://reper2.github.io/Downloadable-Files/texture-pack) is still in progress...
 ## Options
 If you just want to browse the site then [click here](https://reper2.github.io/Downloadable-Files) to return to the [index](https://reper2.github.io/Downloadable-Files/index.md) page.
 
@@ -17,9 +17,3 @@ This project is released under the MIT liscence.
 E-mail: [ethan.reper@gmail.com](mailto:ethan.reper@gmail.com)
 Discord: `Reper2#8878` (Server https://discord.gg/JGEjfm5Gn4)
 YouTube: [Reper2 [GD]](https://www.youtube.com/channel/UCofCDfLjs_TkiC-p0-k_9XA)
-
-EMOJI - 1 SLOT AVAILABLE
-| Emoji 	| Alias 		| Uploaded by |
-| --------- | ------------- | ----------- |
-| ![secretCoinUI3_001](https://github.com/Reper2/Downloadable-Files/blob/master/Discord/Guilds/Reper2verse/Emoji/secretCoinUI3_001.png) | [:secretCoinUI3_001:](https://cdn.discordapp.com/emojis/882520778376101948.png?v=1) | [Reper2](https://discord.gg/aMSKe7ZT9Q)
-
