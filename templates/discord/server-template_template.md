@@ -21,4 +21,4 @@ permissions and settings as yours.
 		https://discord.new/{TEMPLATE_LINK}
 ```
 ---
-[![DownloadBtn](https://cdn.discordapp.com/emojis/885670815725674527.png?size=128)](https://raw.githubusercontent.com/Reper2/Downloadable-Files/master/assets/discord/guilds/server/server-template_template)
+[![DownloadBtn](https://cdn.discordapp.com/emojis/885670815725674527.png?size=128)](https://raw.githubusercontent.com/Reper2/Downloadable-Files/master/assets/discord/guilds/server/server-template_template.md)
