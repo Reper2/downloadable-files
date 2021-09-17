@@ -6,9 +6,9 @@
 ## File Progress
 My [Texture Pack](https://reper2.github.io/Downloadable-Files/texture-pack) is still in progress...
 ## Options
-If you just want to browse the site then [click here](https://reper2.github.io/Downloadable-Files) to return to the [index](https://reper2.github.io/Downloadable-Files/index.md) page.
+If you just want to browse the site then [click here](https://reper2.github.io/Downloadable-Files) to go to the [index](https://reper2.github.io/Downloadable-Files/index.md) page.
 
-If you'd like to download all the files then [click here](https://github.com/Reper2/Downloadable-Files/releases) to redirect to the releases page.
+If you'd like to download all the files then [click here](https://github.com/Reper2/Downloadable-Files/releases) to go to the releases page.
 ## License [![DownloadBtn](https://cdn.discordapp.com/emojis/885670815725674527.png?size=32)](https://raw.githubusercontent.com/Reper2/Downloadable-Files/master/LICENSE)
 This project is released under the MIT license.
 ## Contact
