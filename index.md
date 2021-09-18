@@ -8,15 +8,15 @@
 
 ---
 
-[`Discord`](https://reper2.github.io/Downloadable-Files/discord)
+[![`Discord`](https://media.discordapp.net/attachments/888230424625680515/888622176293507153/discord.png)](https://reper2.github.io/Downloadable-Files/discord)
 
 ---
 
-[`GD Icons`](https://reper2.github.io/Downloadable-Files/gd-icons)
+[![`GD Icons`](https://media.discordapp.net/attachments/888230424625680515/888621635853246464/GJ_garageBtn_001.png)](https://reper2.github.io/Downloadable-Files/gd-icons)
 
 ---
 
-[`Texture Pack`](https://reper2.github.io/Downloadable-Files/texture-pack)
+[![`Texture Pack`](https://media.discordapp.net/attachments/888230424625680515/888622662912450610/GJ_creatorBtn_001.png)]https://reper2.github.io/Downloadable-Files/texture-pack)
 
 ---
 
