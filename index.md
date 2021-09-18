@@ -20,10 +20,10 @@
 
 ---
 
-[`Profile Pictures`](https://reper2.github.io/Downloadable-Files/pfp)
+[![`Profile Pictures`](https://media.discordapp.net/attachments/888230424625680515/888709247012053002/GJ_profileButton_001.png)](https://reper2.github.io/Downloadable-Files/pfp)
 
 ---
 
-[`Templates`](https://reper2.github.io/Downloadable-Files/templates)
+[![`Templates`](https://reper2.github.io/Downloadable-Files/templates)
 
 ---
