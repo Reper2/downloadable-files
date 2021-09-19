@@ -24,6 +24,6 @@
 
 ---
 
-[![`Templates`](https://reper2.github.io/Downloadable-Files/templates)
+[![`Templates`](https://cdn.discordapp.com/attachments/884941846386724954/888940545894940723/GJ_plusBtn_001.png)](https://reper2.github.io/Downloadable-Files/templates)
 
 ---
