@@ -8,17 +8,17 @@
 
 # Index [![Download](https://cdn.discordapp.com/emojis/885670815725674527.png?size=32)](https://raw.githubusercontent.com/Reper2/Downloadable-Files/master/index.md)
 
-My [Discord](https://reper2.github.io/Downloadable-Files/discord) files.
+[Discord](https://reper2.github.io/Downloadable-Files/discord)
 ---
 
-My Geometry Dash [icons](https://reper2.github.io/Downloadable-Files/gd-icons).
+[My GD Icons](https://reper2.github.io/Downloadable-Files/gd-icons)
 ---
 
-My Geometry Dash [texture pack](https://reper2.github.io/Downloadable-Files/texture-pack).
+[My Texture Pack](https://reper2.github.io/Downloadable-Files/texture-pack)
 ---
 
-A collection of [profile pictures](https://reper2.github.io/Downloadable-Files/pfp) from a few different people.
+[Profile Pictures](https://reper2.github.io/Downloadable-Files/pfp)
 ---
 
-Some [templates](https://reper2.github.io/Downloadable-Files/templates) you can use to make your own.
+[Templates](https://reper2.github.io/Downloadable-Files/templates)
 ---
