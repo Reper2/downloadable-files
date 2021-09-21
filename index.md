@@ -1,7 +1,6 @@
 <head>
 	<title>Downloadable Files</title>
 	<meta charset="utf-8">
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-135255146-3"></script><script>window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'UA-135255146-3');</script>
 	<link rel="icon" href="https://cdn.discordapp.com/emojis/885670815725674527.png?size=32">
 	<meta id="meta-title" property="og:title" content="Downloadable Files by Reper2">
 	<meta id="meta-desc" property="og:description" content="A website where you can browse and download some of my files, and more!">
