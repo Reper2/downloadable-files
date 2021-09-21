@@ -2,7 +2,8 @@
 
 ###### Add up to 50 custom emojis that anyone can use in this server. Animated GIF emojis may be used by members with Discord Nitro. Emoji names must be at least 2 characters long and can only contain alphanumeric characters and underscores. Emoji must be under 256kb in size.
 
-##### EMOJI - 33 SLOTS AVAILABLE
+##### EMOJI -- 33 SLOTS AVAILABLE
+
 ###### Emoji Alias Uploaded by
 
 ![youtube](https://cdn.discordapp.com/emojis/885672366951252008.png?size=32) `:youtube:` Reper2
@@ -55,3 +56,7 @@
 
 ![like](https://cdn.discordapp.com/emojis/885672022074621972.png?size=32) `:like:` Reper2
 ---
+
+###### ANIMATED EMOJI -- 50 SLOTS AVAILABLE
+
+None
