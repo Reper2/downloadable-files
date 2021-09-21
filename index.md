@@ -6,6 +6,10 @@
 
 ---
 
+[![Download](https://cdn.discordapp.com/emojis/885670815725674527.png?size=64)](https://raw.githubusercontent.com/Reper2/Downloadable-Files/master/index.md)
+
+---
+
 My [Discord](https://reper2.github.io/Downloadable-Files/discord) files.
 ---
 
