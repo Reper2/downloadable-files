@@ -1,15 +1,15 @@
 #  [![back](https://cdn.discordapp.com/emojis/887168885747511396?size=32)](https://reper2.github.io/Downloadable-Files) Profile Pictures
 ###### Here you can find a collection of profile pictures from a few different people!
 
-[Dxrpy](https://reper2.github.io/Downloadable-Files/pfp/Dxrpy)
+[Dxrpy's](https://reper2.github.io/Downloadable-Files/pfp/Dxrpy) profile pictures.
 ---
 
-[Meltywax](https://reper2.github.io/Downloadable-Files/pfp/Meltywax)
+[Meltywax's](https://reper2.github.io/Downloadable-Files/pfp/Meltywax) profile pictures.
 ---
 
-[Reper](https://reper2.github.io/Downloadable-Files/pfp/Reper)
+[Reper's](https://reper2.github.io/Downloadable-Files/pfp/Reper) profile pictures.
 ---
 
-[Reper2](https://reper2.github.io/Downloadable-Files/pfp/Reper2)
+[Reper2's](https://reper2.github.io/Downloadable-Files/pfp/Reper2) profile pictures.
 ---
 
