@@ -21,9 +21,6 @@
 ![spider](https://gdbrowser.com/icon/icon?form=spider&icon=14&col1=1&col2=13&glow=true)
 ---
 
-![swing](https://gdbrowser.com/icon/icon?icon=1&form=swing&col1=1&col2=13&glow=1)
----
-
 ![player_special](https://gdbrowser.com/assets/trails/2.png)
 ---
 
