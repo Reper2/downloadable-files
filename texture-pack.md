@@ -1,4 +1,4 @@
-## [![back](https://cdn.discordapp.com/emojis/887168885747511396?size=32)](https://reper2.github.io/Downloadable-Files) [My Texture Pack](https://raw.githubusercontent.com/Reper2/Downloadable-Files/master/texture-pack.md)
+## [![back](https://cdn.discordapp.com/emojis/887168885747511396?size=32)](https://reper2.github.io/Downloadable-Files) [./Downloadable-Files/texture-pack/](https://raw.githubusercontent.com/Reper2/Downloadable-Files/master/texture-pack.md)
 
 ![div](https://cdn.discordapp.com/attachments/890142917405048872/890143038729486376/gradientDiv2.png)
 
