@@ -4,18 +4,24 @@
 [![Geometry Dash](https://cdn.discordapp.com/emojis/651522650992148492.png?size=80)](https://gdbrowser.com/u/ReperGD2)
 [![Email](https://cdn.discordapp.com/emojis/889059158219948082.png?size=80)](mailto:ethan.reper@gmail.com)
 
----
+![div](https://cdn.discordapp.com/attachments/890142917405048872/890143038729486376/gradientDiv2.png)
 
-# Index [![download](https://cdn.discordapp.com/emojis/885670815725674527.png?size=32)](https://raw.githubusercontent.com/Reper2/Downloadable-Files/master/index.md)
+# [Index](https://raw.githubusercontent.com/Reper2/Downloadable-Files/master/index.md)
 
-[Discord](https://reper2.github.io/Downloadable-Files/discord)
----
+![div](https://cdn.discordapp.com/attachments/890142917405048872/890143038729486376/gradientDiv2.png)
 
-[My GD Icons](https://reper2.github.io/Downloadable-Files/gd-icons)
----
+## [Discord](https://reper2.github.io/Downloadable-Files/discord)
 
-[My Texture Pack](https://reper2.github.io/Downloadable-Files/texture-pack)
----
+![div](https://cdn.discordapp.com/attachments/890142917405048872/890143038729486376/gradientDiv2.png)
 
-[Profile Pictures](https://reper2.github.io/Downloadable-Files/pfp)
----
+## [My GD Icons](https://reper2.github.io/Downloadable-Files/gd-icons)
+
+![div](https://cdn.discordapp.com/attachments/890142917405048872/890143038729486376/gradientDiv2.png)
+
+## [My Texture Pack](https://reper2.github.io/Downloadable-Files/texture-pack)
+
+![div](https://cdn.discordapp.com/attachments/890142917405048872/890143038729486376/gradientDiv2.png)
+
+## [Profile Pictures](https://reper2.github.io/Downloadable-Files/pfp)
+
+![div](https://cdn.discordapp.com/attachments/890142917405048872/890143038729486376/gradientDiv2.png)
