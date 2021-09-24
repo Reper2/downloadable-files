@@ -10,7 +10,7 @@
 
 ![div](https://reper2.github.io/Downloadable-Files/assets/gradientDiv02.png)
 
-## [My Texture Pack](https://reper2.github.io/Downloadable-Files/texture-pack)
+## [Reper2's NSMBW Texture Pack](https://reper2.github.io/Downloadable-Files/nsmbw-texture-pack)
 
 ![div](https://reper2.github.io/Downloadable-Files/assets/gradientDiv02.png)
 
