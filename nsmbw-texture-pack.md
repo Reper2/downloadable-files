@@ -79,6 +79,7 @@
 ![div](https://reper2.github.io/Downloadable-Files/assets/gradientDiv02.png)
 
 [bigFont-uhd.png](https://www.mediafire.com/view/oxzim6qsnltfjvd/bigFont-uhd.png/file)
+<details>
  <summary>Click to show preview</summary>
   
   <image id="image" controls="" preload="auto" src="https://reper2.github.io/Downloadable-Files/nsmbw-texture-pack/bigFont-uhd.png"></image>
