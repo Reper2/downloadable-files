@@ -122,3 +122,165 @@
   </details>
 
 ![div](https://reper2.github.io/Downloadable-Files/assets/gradientDiv02.png)
+
+[crystal01.ogg](https://www.mediafire.com/file/d850rxbyb5wcfcv/crystal01.ogg/file)
+<details>
+  <summary>Click to show preview</summary>
+  
+  <audio id="audio" controls="" preload="auto" src="https://reper2.github.io/Downloadable-Files/nsmbw-texture-pack/crystal01.ogg"></audio>
+  </details>
+
+![div](https://reper2.github.io/Downloadable-Files/assets/gradientDiv02.png)
+
+[endStart_02.ogg](https://www.mediafire.com/file/gg7gy0my3f1bzmy/endStart_02.ogg/file)
+<details>
+  <summary>Click to show preview</summary>
+  
+  <audio id="audio" controls="" preload="auto" src="https://reper2.github.io/Downloadable-Files/nsmbw-texture-pack/endStart_02.ogg"></audio>
+  </details>
+
+![div](https://reper2.github.io/Downloadable-Files/assets/gradientDiv02.png)
+
+[explode_11.ogg](https://www.mediafire.com/file/ifkstqj1hfxxupx/explode_11.ogg/file)
+<details>
+  <summary>Click to show preview</summary>
+  
+  <audio id="audio" controls="" preload="auto" src="https://reper2.github.io/Downloadable-Files/nsmbw-texture-pack/explode_11.ogg"></audio>
+  </details>
+
+![div](https://reper2.github.io/Downloadable-Files/assets/gradientDiv02.png)
+
+[gold01.ogg](https://www.mediafire.com/file/0n5bgqw3stljlm1/gold01.ogg/file)
+<details>
+  <summary>Click to show preview</summary>
+  
+  <audio id="audio" controls="" preload="auto" src="https://reper2.github.io/Downloadable-Files/nsmbw-texture-pack/gold01.ogg"></audio>
+  </details>
+
+![div](https://reper2.github.io/Downloadable-Files/assets/gradientDiv02.png)
+
+[gold02.ogg](https://www.mediafire.com/file/n5gchca16t6uerk/gold02.ogg/file)
+<details>
+  <summary>Click to show preview</summary>
+  
+  <audio id="audio" controls="" preload="auto" src="https://reper2.github.io/Downloadable-Files/nsmbw-texture-pack/gold02.ogg"></audio>
+  </details>
+
+![div](https://reper2.github.io/Downloadable-Files/assets/gradientDiv02.png)
+
+[highscoreGet02.ogg](https://www.mediafire.com/file/7lespualgad7djq/highscoreGet02.ogg/file)
+<details>
+  <summary>Click to show preview</summary>
+  
+  <audio id="audio" controls="" preload="auto" src="https://reper2.github.io/Downloadable-Files/nsmbw-texture-pack/highscoreGet02.ogg"></audio>
+  </details>
+
+![div](https://reper2.github.io/Downloadable-Files/assets/gradientDiv02.png)
+
+[magicExplosion.ogg](https://www.mediafire.com/file/1b3v4m89gg8c549/magicExplosion.ogg/file)
+<details>
+  <summary>Click to show preview</summary>
+  
+  <audio id="audio" controls="" preload="auto" src="https://reper2.github.io/Downloadable-Files/nsmbw-texture-pack/magicExplosion.ogg"></audio>
+  </details>
+
+![div](https://reper2.github.io/Downloadable-Files/assets/gradientDiv02.png)
+
+[menuLoop.mp3](https://www.mediafire.com/file/usfdpm7sgbezca7/menuLoop.mp3/file)
+<details>
+  <summary>Click to show preview</summary>
+  
+  <audio id="audio" controls="" preload="auto" src="https://reper2.github.io/Downloadable-Files/nsmbw-texture-pack/menuLoop.mp3"></audio>
+  </details>
+
+![div](https://reper2.github.io/Downloadable-Files/assets/gradientDiv02.png)
+
+[playSound_01.ogg](https://www.mediafire.com/file/hyhk124okszae9l/playSound_01.ogg/file)
+<details>
+  <summary>Click to show preview</summary>
+  
+  <audio id="audio" controls="" preload="auto" src="https://reper2.github.io/Downloadable-Files/nsmbw-texture-pack/playSound_01.ogg"></audio>
+  </details>
+
+![div](https://reper2.github.io/Downloadable-Files/assets/gradientDiv02.png)
+
+[quitSound_01.ogg](https://www.mediafire.com/file/hgm8pduso6nxum7/quitSound_01.ogg/file)
+<details>
+  <summary>Click to show preview</summary>
+  
+  <audio id="audio" controls="" preload="auto" src="https://reper2.github.io/Downloadable-Files/nsmbw-texture-pack/quitSound_01.ogg"></audio>
+  </details>
+
+![div](https://reper2.github.io/Downloadable-Files/assets/gradientDiv02.png)
+
+[reward01.ogg](https://www.mediafire.com/file/lancrcvnazmj8ir/reward01.ogg/file)
+<details>
+  <summary>Click to show preview</summary>
+  
+  <audio id="audio" controls="" preload="auto" src="https://reper2.github.io/Downloadable-Files/nsmbw-texture-pack/reward01.ogg"></audio>
+  </details>
+
+![div](https://reper2.github.io/Downloadable-Files/assets/gradientDiv02.png)
+
+[secretKey.ogg](https://www.mediafire.com/file/j7hnomqy80ovpam/secretKey.ogg/file)
+<details>
+  <summary>Click to show preview</summary>
+  
+  <audio id="audio" controls="" preload="auto" src="https://reper2.github.io/Downloadable-Files/nsmbw-texture-pack/secretKey.ogg"></audio>
+  </details>
+
+![div](https://reper2.github.io/Downloadable-Files/assets/gradientDiv02.png)
+
+[secretLoop.mp3](https://www.mediafire.com/file/t8cn0uv13qmapk2/secretLoop.mp3/file)
+<details>
+  <summary>Click to show preview</summary>
+  
+  <audio id="audio" controls="" preload="auto" src="https://reper2.github.io/Downloadable-Files/nsmbw-texture-pack/secretLoop.mp3"></audio>
+  </details>
+
+![div](https://reper2.github.io/Downloadable-Files/assets/gradientDiv02.png)
+
+[secretLoop02.mp3](https://www.mediafire.com/file/9ndp2es71ul78jt/secretLoop02.mp3/file)
+<details>
+  <summary>Click to show preview</summary>
+  
+  <audio id="audio" controls="" preload="auto" src="https://reper2.github.io/Downloadable-Files/nsmbw-texture-pack/secretLoop02.mp3"></audio>
+  </details>
+
+![div](https://reper2.github.io/Downloadable-Files/assets/gradientDiv02.png)
+
+[secretLoop03.mp3](https://www.mediafire.com/file/ukbl003djz6j3ns/secretLoop03.mp3/file)
+<details>
+  <summary>Click to show preview</summary>
+  
+  <audio id="audio" controls="" preload="auto" src="https://reper2.github.io/Downloadable-Files/nsmbw-texture-pack/secretLoop03.mp3"></audio>
+  </details>
+
+![div](https://reper2.github.io/Downloadable-Files/assets/gradientDiv02.png)
+
+[secretShop.mp3](https://www.mediafire.com/file/kjn9yr0owm2tstf/secretShop.mp3/file)
+<details>
+  <summary>Click to show preview</summary>
+  
+  <audio id="audio" controls="" preload="auto" src="https://reper2.github.io/Downloadable-Files/nsmbw-texture-pack/secretShop.mp3"></audio>
+  </details>
+
+![div](https://reper2.github.io/Downloadable-Files/assets/gradientDiv02.png)
+
+[shop.mp3](https://www.mediafire.com/file/8a0vxsaxnlepfgz/shop.mp3/file)
+<details>
+  <summary>Click to show preview</summary>
+  
+  <audio id="audio" controls="" preload="auto" src="https://reper2.github.io/Downloadable-Files/nsmbw-texture-pack/shop.mp3"></audio>
+  </details>
+
+![div](https://reper2.github.io/Downloadable-Files/assets/gradientDiv02.png)
+
+[shop3.mp3](https://www.mediafire.com/file/zwenwpcbt5mz7dp/shop3.mp3/file)
+<details>
+  <summary>Click to show preview</summary>
+  
+  <audio id="audio" controls="" preload="auto" src="https://reper2.github.io/Downloadable-Files/nsmbw-texture-pack/shop3.mp3"></audio>
+  </details>
+
+![div](https://reper2.github.io/Downloadable-Files/assets/gradientDiv02.png)
