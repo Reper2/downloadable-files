@@ -6,15 +6,15 @@
 
 ![div](https://reper2.github.io/Downloadable-Files/assets/gradientDiv02.png)
 
-## [My GD Icons](https://reper2.github.io/Downloadable-Files/gd-icons)
+## [My Geometry Dash Icons](https://reper2.github.io/Downloadable-Files/gd-icons)
 
 ![div](https://reper2.github.io/Downloadable-Files/assets/gradientDiv02.png)
 
-## [Reper2's NSMBW Texture Pack](https://reper2.github.io/Downloadable-Files/nsmbw-texture-pack)
+## [Reper2's New Super Mario Bros. Wii Texture Pack](https://reper2.github.io/Downloadable-Files/nsmbw-texture-pack)
 
 ![div](https://reper2.github.io/Downloadable-Files/assets/gradientDiv02.png)
 
-## [Profile Pictures](https://reper2.github.io/Downloadable-Files/pfp)
+## [My Profile Pictures](https://reper2.github.io/Downloadable-Files/pfp)
 
 ![div](https://reper2.github.io/Downloadable-Files/assets/gradientDiv02.png)
 
