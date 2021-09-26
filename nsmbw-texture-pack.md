@@ -1,8 +1,8 @@
-# [![back](https://reper2.github.io/Downloadable-Files/assets/GJ_arrow_01_001.png)](https://reper2.github.io/Downloadable-Files) [Reper2's New Super Mario Bros. Wii Texture Pack](https://raw.githubusercontent.com/Reper2/Downloadable-Files/master/nsmbw-texture-pack.md)
+[![back](https://reper2.github.io/Downloadable-Files/assets/GJ_arrow_01_001.png)](https://reper2.github.io/Downloadable-Files) [![Reper2's NSMBW Texture Pack](https://gdcolon.com/tools/gdfont/img/Reper2's%20NSMBW%20Texture%20Pack?font=gold)](https://raw.githubusercontent.com/Reper2/Downloadable-Files/master/nsmbw-texture-pack.md)
 
 ![div](https://reper2.github.io/Downloadable-Files/assets/gradientDiv02.png)
 
-### [**DOWNLOAD ALL**](https://www.mediafire.com/file/t40ep9ssx2xnodo/Reper2%2527s_NSMBW_Texture_Pack.zip/file)
+### [Click to download full texture pack](https://www.mediafire.com/file/t40ep9ssx2xnodo/Reper2%2527s_NSMBW_Texture_Pack.zip/file)
 
 ![div](https://reper2.github.io/Downloadable-Files/assets/gradientDiv02.png)
 
