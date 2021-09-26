@@ -2,7 +2,7 @@
 
 ![div](https://reper2.github.io/Downloadable-Files/assets/gradientDiv02.png)
 
-### [DOWNLOAD ALL](https://www.mediafire.com/file/t40ep9ssx2xnodo/Reper2%2527s_NSMBW_Texture_Pack.zip/file)
+### [**DOWNLOAD ALL**](https://www.mediafire.com/file/t40ep9ssx2xnodo/Reper2%2527s_NSMBW_Texture_Pack.zip/file)
 
 ![div](https://reper2.github.io/Downloadable-Files/assets/gradientDiv02.png)
 
