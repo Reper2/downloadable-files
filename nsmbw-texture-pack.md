@@ -15,7 +15,6 @@
   <summary>Click to show preview</summary>
   
   <image id="image" controls="" preload="auto" src="https://reper2.github.io/Downloadable-Files/nsmbw-texture-pack/GJ_GameSheet02-uhd.png"></image>
-  
   </details>
 
 ![div](https://reper2.github.io/Downloadable-Files/assets/gradientDiv02.png)
@@ -28,7 +27,7 @@
 <details>
   <summary>Click to show preview</summary>
   
-  ![preview](https://reper2.github.io/Downloadable-Files/nsmbw-texture-pack/GJ_GameSheet03-uhd.png)
+  <image id="image" controls="" preload="auto" src="https://reper2.github.io/Downloadable-Files/nsmbw-texture-pack/GJ_GameSheet03-uhd.png"></image>
   </details>
 
 ![div](https://reper2.github.io/Downloadable-Files/assets/gradientDiv02.png)
@@ -37,7 +36,7 @@
 <details>
   <summary>Click to show preview</summary>
   
-  ![preview](https://reper2.github.io/Downloadable-Files/nsmbw-texture-pack/GJ_gradientBG-hd.png)
+  <image id="image" controls="" preload="auto" src="https://reper2.github.io/Downloadable-Files/nsmbw-texture-pack/GJ_gradientBG-hd.png"></image>
   </details>
 
 ![div](https://reper2.github.io/Downloadable-Files/assets/gradientDiv02.png)
