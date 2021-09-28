@@ -75,9 +75,9 @@
 						<td><a tabindex="1" href="https://reper2.github.io/Downloadable-Files/pfp"><img class="menubutton menu-gauntlets" src="https://reper2.github.io/Downloadable-Files/assets/category-pfp.png"></a></td>
 					</tr>
 					<tr class="menuButtonList">
-						<!-- <td><a tabindex="1" href="./leaderboard"><img class="menubutton menu-leaderboard" src="../assets/category-scores.png"></a></td> -->
-						<!-- <img src="./assets/exclamation.png" style="position: absolute; height: 18%; left: 3.5%; bottom: 23%; pointer-events: none; z-index: 50;"> -->
-						<!-- <td><a tabindex="1" href="./search/*?type=hof"><img class="menubutton menu-hof" src="../assets/category-hof.png"></a></td> -->
+						<td><a tabindex="1" href="https://reper2.github.io/Downloadable-Files/divs"><img class="menubutton menu-leaderboard" src="https://reper2.github.io/Downloadable-Files/assets/category-divs.png"></a></td>
+						<img src="https://reper2.github.io/Downloadable-Files/assets/exclamation.png" style="position: absolute; height: 18%; left: 3.5%; bottom: 23%; pointer-events: none; z-index: 50;">
+						<td><a tabindex="1" href="https://reper2.github.io/Downloadable-Files/txt-pk"><img class="menubutton menuDisabled" src="https://reper2.github.io/Downloadable-Files/assets/category-txt-pk.png"></a></td>
 						<!-- <td><a tabindex="1" href="./mappacks"><img class="menubutton menu-mappacks" src="../assets/category-packs.png"></a></td> -->
 						<!-- <td><a tabindex="1" href="./search"><img class="menubutton menu-search" src="../assets/category-search.png"></a></td> -->
 					</tr>
@@ -147,17 +147,17 @@ Fetch(`./api/credits`).then(res => {
 	lastPage = res.credits.length + 1
 	res.credits.forEach((x, y) => {
 		$('#credits').append(`<div id="credits${y+1}" class="subCredits" style="display: none;">
-			<img class="gdButton" src="../assets/arrow-left.png" width="60vh" style="${y == 0 ? "display: none; " : ""}position: absolute; top: 45%; right: 75%" tabindex="0" onclick="page -= 1; loadCredits()">
+			<img class="gdButton" src="https://reper2.github.io/Downloadable-Files/assets/arrow-left.png" width="60vh" style="${y == 0 ? "display: none; " : ""}position: absolute; top: 45%; right: 75%" tabindex="0" onclick="page -= 1; loadCredits()">
 			<div class="brownBox center supercenter" style="width: 80vh; height: 43%; padding-top: 1.5%; padding-bottom: 3.5%;">
 				<h1>${x.header}</h1>
 				<h2 style="margin-bottom: 1.5%; margin-top: 1.5%" class="gdButton biggerShadow"><a href="https://gdbrowser.com/u/${x.ign || x.name}">${x.name}</h2></a>
 				<img class="creditsicon" icon="./icon/${x.ign || x.name}?forceGD=1" height=30%; style="margin-bottom: 7%"><br>
-				<a target=_blank href="${x.youtube[0]}"><img src="../assets/${x.youtube[1]}.png" width="11%" class="gdButton"></a>
-				<a target=_blank href="${x.twitter[0]}"><img src="../assets/${x.twitter[1]}.png" width="11%" class="sideSpace gdButton"></a>
-				<a target=_blank href="${x.github[0]}"><img src="../assets/${x.github[1]}.png" width="11%" class="sideSpace gdButton"></a>
+				<a target=_blank href="${x.youtube[0]}"><img src="https://reper2.github.io/Downloadable-Files/assets/${x.youtube[1]}.png" width="11%" class="gdButton"></a>
+				<a target=_blank href="${x.twitter[0]}"><img src="https://reper2.github.io/Downloadable-Files/assets/${x.twitter[1]}.png" width="11%" class="sideSpace gdButton"></a>
+				<a target=_blank href="${x.github[0]}"><img src="https://reper2.github.io/Downloadable-Files/assets/${x.github[1]}.png" width="11%" class="sideSpace gdButton"></a>
 				<br>
 			</div>
-			<img class="gdButton" src="../assets/arrow-right.png" width="60vh" style="position: absolute; top: 45%; left: 75%" tabindex="0" onclick="page += 1; loadCredits()">
+			<img class="gdButton" src="https://reper2.github.io/Downloadable-Files/assets/arrow-right.png" width="60vh" style="position: absolute; top: 45%; left: 75%" tabindex="0" onclick="page += 1; loadCredits()">
 		</div>`)
 	})
 
@@ -165,7 +165,7 @@ Fetch(`./api/credits`).then(res => {
 			<div id="specialthanks" class="brownBox center supercenter" style="width: 80vh; height: 55%; padding-top: 1.5%; padding-bottom: 3.5%;">
 				<h1>Special Thanks!</h1><br>
 			</div>
-			<img class="gdButton" src="../assets/arrow-left.png" width="60vh" style="position: absolute; top: 45%; right: 75%" tabindex="0" onclick="page -= 1; loadCredits()">
+			<img class="gdButton" src="https://reper2.github.io/Downloadable-Files/assets/arrow-left.png" width="60vh" style="position: absolute; top: 45%; right: 75%" tabindex="0" onclick="page -= 1; loadCredits()">
 		</div>`)
 
 	res.specialThanks.forEach((x, y) => {
