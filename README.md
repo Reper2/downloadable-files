@@ -10,11 +10,11 @@ Some files/folders have shortened or confusing names, let me help you understand
 		
 		nsmbw-txt-pk = New Super Mario Bros. Wii texture pack
 		
-		guilds = servers
+		guild = server
 		
-		divs = dividers
+		div = divider
 		
-		pfp = profile pictures
+		pfp = profile picture(s)
 		
 		btn = button
 		
