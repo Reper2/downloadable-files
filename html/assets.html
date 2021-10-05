@@ -1,11 +1,11 @@
 <head>
-	<title>&gt; assets</title>
+	<title>> {NAME}</title>
 	<meta charset="utf-8">
-	<script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-3EHJW0BL52&amp;l=dataLayer&amp;cx=c"></script><script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-135255146-3"></script>
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-135255146-3"></script>
 	<script>window.dataLayer = window.dataLayer || []; function gtag() { dataLayer.push(arguments); } gtag('js', new Date()); gtag('config', 'UA-135255146-3');</script>
-	<link rel="icon" href="folder.png">
+	<link rel="icon" href="../assets/folder.png">
 	<meta name="robots" content="noindex">
-	<meta id="meta-desc" property="og:description" content="Assets | Reper2's Downloadable Files">
+	<meta id="meta-desc" property="og:description" content='i only upload high quality geometry dash asset rips'>
 
 	<style>
 		body {
@@ -36,12 +36,22 @@
 	</style>
 </head>
 
-<body style="">
+<body>
 
-<h1 id="listing" style="margin: 15 0 15 0; text-decoration: underline;">Listing for /assets</h1>
+<h1 id="listing" style="margin: 15 0 15 0; text-decoration: underline;"></h1>
 <div id="directories" style="margin-bottom: 20px">
-	<div class="name">⏪ <a href="../">Back</a></div><div class="name">📁 <a href="css/browser.css" download>css/browser.css</a></div></div>
-<div id="filenames"><div class="name"><a href="Pusab.ttf" download>Pusab.ttf</a></div><div class="name"><a href="Reper2.png" download>Reper2.png</a></div><div class="name"><a href="arrow-left.png" download>arrow-left.png</a></div><div class="name"><a href="arrow-right.png" download>arrow-right.png</a></div><div class="name"><a href="brownbox.png" download>brownbox.png</a></div><div class="name"><a href="browser.png" download>browser.png</a></div><div class="name"><a href="category-discord.png" download>category-discord.png</a></div><div class="name"><a href="category-divs.png" download>category-divs.png</a></div><div class="name"><a href="category-gd-icons.png" download>category-gd-icons.png</a></div><div class="name"><a href="category-nsmbw-txt-pk.png" download>category-nsmbw-txt-pk.png</a></div><div class="name"><a href="category-pfp.png" download>category-pfp.png</a></div><div class="name"><a href="category-txt-pk.png" download>category-txt-pk.png</a></div><div class="name"><a href="check-off.png" download>check-off.png</a></div><div class="name"><a href="check-on.png" download>check-on.png</a></div><div class="name"><a href="check.png" download>check.png</a></div><div class="name"><a href="close.png" download>close.png</a></div><div class="name"><a href="corner.png" download>corner.png</a></div><div class="name"><a href="credits.png" download>credits.png</a></div><div class="name"><a href="delete.png" download>delete.png</a></div><div class="name"><a href="discord.png" download>discord.png</a></div><div class="name"><a href="double-arrow.png" download>double-arrow.png</a></div><div class="name"><a href="download.png" download>download.png</a></div><div class="name"><a href="edit.png" download>edit.png</a></div><div class="name"><a href="epicbox.png" download>epicbox.png</a></div><div class="name"><a href="exclamation.png" download>exclamation.png</a></div><div class="name"><a href="facebook.png" download>facebook.png</a></div><div class="name"><a href="fancybox.png" download>fancybox.png</a></div><div class="name"><a href="folder.png" download>folder.png</a></div><div class="name"><a href="gd.png" download>gd.png</a></div><div class="name"><a href="github.png" download>github.png</a></div><div class="name"><a href="iconrope.png" download>iconrope.png</a></div><div class="name"><a href="instagram.png" download>instagram.png</a></div><div class="name"><a href="leaderboardbox.png" download>leaderboardbox.png</a></div><div class="name"><a href="loading.png" download>loading.png</a></div><div class="name"><a href="server-771861170256085023.png" download>server-771861170256085023.png</a></div><div class="name"><a href="server-884263560941817916.png" download>server-884263560941817916.png</a></div><div class="name"><a href="site.png" download>site.png</a></div><div class="name"><a href="smallinfo.png" download>smallinfo.png</a></div><div class="name"><div class="name"><a href="twitch.png" download>twitch.png</a></div><div class="name"><a href="twitter.png" download>twitter.png</a></div><div class="name"><a href="whitearrow-left.png" download>whitearrow-left.png</a></div><div class="name"><a href="whitearrow-right.png" download>whitearrow-right.png</a></div><div class="name"><a href="x.png" download>x.png</a></div><div class="name"><a href="youtube.png" download>youtube.png</a></div></div>
+	<div class="name">⏪ <a href="../">Back</a></div></div>
+<div id="filenames"></div></body>
 
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-</body>
+<script>
+
+let data = `{DATA}`
+if (!window.location.pathname.endsWith('/')) window.location.pathname += "/"
+let path = window.location.pathname.slice(0, -1)
+data = JSON.parse(data)
+$('#listing').html(`Listing for ${path}`)
+data.files.forEach(x => $('#filenames').append(`<div class="name"><a href="./${x}">${x}</a></div>`))
+data.directories.forEach(x => $('#directories').append(`<div class="name">📁 <a href="./${x}">${x}</a></div>`))
+
+</script>
