@@ -26,10 +26,13 @@ Some files/folders have shortened or confusing names, let me help you understand
 		
 There's also other files inside `../discord` that are named using ids, because of the amount of those files, I can't list them here.
 
-## License
+# Hidden Files
+There are some files that may be hidden from you to download. You can browse and download `/assets` using this link: [https://reper2.github.io/Downloadable-Files/html/assets](https://reper2.github.io/Downloadable-Files/html/assets). You can download the a page's code by clicking on the page title when on the desired page you want to download.
+
+# License
 This project is released under the MIT license.
 
-## Contact
+# Contact
 E-mail: [ethan.reper@gmail.com](mailto:ethan.reper@gmail.com)
 Discord: `Reper2#8878` (Server https://discord.gg/JGEjfm5Gn4)
 YouTube: [Reper2 [GD]](https://www.youtube.com/channel/UCofCDfLjs_TkiC-p0-k_9XA)
