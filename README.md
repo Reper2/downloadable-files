@@ -29,6 +29,10 @@ There's also other files inside `../discord` that are named using ids, because o
 # Hidden Files
 There are some files that may be hidden from you to download. You can browse and download `/assets` using this link: [https://reper2.github.io/Downloadable-Files/html/assets](https://reper2.github.io/Downloadable-Files/html/assets). You can download a page's code by clicking on the page title when on the desired page you want to download.
 
+# Additional File Downloads
+### [`/Downloadable-Files/assets`](assets.zip)  
+### [`/Downloadable-Files/master`](https://github.com/Reper2/Downloadable-Files/archive/refs/heads/master.zip)
+
 # License
 This project is released under the MIT license.
 
