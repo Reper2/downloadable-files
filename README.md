@@ -4,8 +4,9 @@
 [![Discord](https://img.shields.io/discord/771861170256085023?color=%237289DA&label=Official%20Server&logo=discord)](https://discord.gg/JGEjfm5Gn4)
 
 # File/folder names
-### Some files/folders have shortened or confusing names, let me help you understand these:
-
+<details>
+  <summary>Some files/folders have shortened or confusing names, let me help you understand these.</summary>
+  
 ```json
 {
   "d1561ae1624622e8bb3e27b647cf79d3": "Reper2's Discord avatar", 
@@ -20,6 +21,7 @@
   "pfp": "profile pictures(s)",
 }
 ```
+</details>
 
 # Hidden Pages
 There are some files that may be hidden from you to download. Browse and download [assets](https://reper2.github.io/Downloadable-Files/html/assets)? You can download a page's code by clicking on the page title when on the desired page you want to download.
