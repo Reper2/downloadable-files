@@ -4,30 +4,25 @@
 [![Discord](https://img.shields.io/discord/771861170256085023?color=%237289DA&label=Official%20Server&logo=discord)](https://discord.gg/JGEjfm5Gn4)
 
 # File/folder names
-Some files/folders have shortened or confusing names, let me help you understand these:
-		
-		txt-pk = texture pack
-		
-		nsmbw-txt-pk = New Super Mario Bros. Wii texture pack
-		
-		guild = server
-		
-		div = divider
-		
-		pfp = profile picture(s)
-		
-		btn = button
-		
-		771861170256085023 = Reper2verse (server id)
-		
-		884263560941817916 = RS: Appeals (server id)
-		
-		RS = Reper2verse
-		
-There's also other files inside `../discord` that are named using ids, because of the amount of those files, I can't list them here.
+### Some files/folders have shortened or confusing names, let me help you understand these:
 
-# Hidden Files
-There are some files that may be hidden from you to download. You can browse and download `/assets` using this link: [https://reper2.github.io/Downloadable-Files/html/assets](https://reper2.github.io/Downloadable-Files/html/assets). You can download a page's code by clicking on the page title when on the desired page you want to download.
+```json
+{
+  "d1561ae1624622e8bb3e27b647cf79d3": "Reper2's Discord avatar", 
+  "guilds": "servers",
+  "771861170256085023": "guild id for Reper2verse",
+  "c6e18289481896794fb9c7ef70427045": "Reper2verse server icon",
+  "884263560941817916": "guild id for RS: Appeals",
+  "32e00eee31e0e98d64d50e3f748f4f29": "RS: Appeals server icon",
+  "divs": "short for dividers",
+  "txt-pk": "short for texture pack",
+  "nsmbw-txt-pk": "Short for New Super Mario Bros. Wii texture pack",
+  "pfp": "profile pictures(s)",
+}
+```
+
+# Hidden Pages
+There are some files that may be hidden from you to download. Browse and download [assets](https://reper2.github.io/Downloadable-Files/html/assets)? You can download a page's code by clicking on the page title when on the desired page you want to download.
 
 # Additional File Downloads
 ### [`/Downloadable-Files/assets`](https://reper2.github.io/Downloadable-Files/assets.zip)  
