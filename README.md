@@ -14,12 +14,8 @@ The filenaming of some files/folders have shortened or confusing names, let me h
   "c6e18289481896794fb9c7ef70427045": "Reper2niverse server icon",
   "884263560941817916": "guild id for Reper2niverse Appeals",
   "32e00eee31e0e98d64d50e3f748f4f29": "RS: Appeals server icon",
-  "divs": "short for dividers",
-  "txt-pks": "short for texture packs",
-  "txt-pk": "short for texture pack",
-  "nsmbw-txt-pk": "Short for New Super Mario Bros. Wii texture pack",
-  "pfp": "profile pictures(s)",
   "acnh": "short for Animal Crossing New Horizons",
+  "nsmbw": "short for New Super Mario Bros. Wii"
 }
 ```
 
