@@ -4,14 +4,14 @@
   	<link href="assets/browser.css" rel="stylesheet" type="text/css">
 	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-135255146-3"></script><script>window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'UA-135255146-3');</script>
   	<link rel="icon" href="assets/discord.png">
-	<meta id="meta-title" property="og:title" content="Discord - Reper2's Downloadable Files">
+	<meta id="meta-title" property="og:title" content="Discord - Downloadable Files">
   	<meta id="meta-desc" property="og:description" content="Browse and download Reper2's Discord avatar and servers!">
   	<meta id="meta-image" name="og:image" itemprop="image" content="https://reper2.github.io/downloadable-files/assets/category-discord.png">
 	<meta name="theme-color" content="#14d8ee">
   	<meta name="twitter:card" content="summary">
 </head>
 
-<body class="levelBG" onbeforeunload="saveUrl()" style="">
+<body class="darkBG" onbeforeunload="saveUrl()" style="">
 
 <div id="everything">
 
@@ -23,23 +23,23 @@
 		<img class="cornerPiece" src="assets/corner.png" width="7%;" style="transform: scaleX(-1)">
 	</div>
 	
-	<a href="https://reper2.github.io/downloadable-files">
-		<img src="assets/back.png" title="click to go to previous page" style="width:42px;height:50px;">
-	</a>
+	<div style="position:absolute; top: 2%; left: 1.5%; width: 10%; height: 25%; pointer-events: none">
+		<img class="gdButton yesClick" id="backButton" title="Back Button" src="assets/back.png" height="30%" onclick="backButton()">
+	</div>
 	
 	<div class="brownBox center supercenter" style="width: 135vh; height: 82%; margin-top: -0.7%">
 		<div class="center" width="100%" style="margin-top: 1%">
 			<h2>
-				<a target="_blank" href="" title="click to download this page" download>Discord</a>
+				<a onclick="download_discord()" title="Discord&#xa;https://reper2.github.io/downloadable-files/discord" class="help">Discord</a>
 			</h2>
       
 			<br>
      
 			<div class="lightBox center" style="margin: 2% auto; width: 105vh">
 				<h1>
-					<a href="discord/guilds" title="Reper2's Discord Servers">Reper2's Servers</a>
+					<a href="discord/account" title="Account&#xa;https://reper2.github.io/downloadable-files/discord/account" class="help">Account</a>
 					<br>
-					<a target="_blank" href="discord/d1561ae1624622e8bb3e27b647cf79d3.png" title="click to download Reper2's Discord avatar" download>Reper2's Avatar</a>
+					<a href="discord/servers" title="Servers&#xa;https://reper2.github.io/downloadable-files/discord/servers" class="help">Servers</a>
 				</h1>
 			</div>
 		</div>
@@ -48,3 +48,4 @@
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <script type="text/javascript" src="misc/sizecheck.js?"></script>
 <script type="text/javascript" src="misc/dragscroll.js"></script>
+<script type="text/javascript" src="misc/downloads.js?"></script>

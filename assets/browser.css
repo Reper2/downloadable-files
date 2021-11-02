@@ -8,7 +8,7 @@ body {
 }
 
 .levelBG {
-    background-image: linear-gradient(#1dda00, #000000, #e100ff);
+    background-image: linear-gradient(#0065FD, #002E73);
     height: 100vh;
     background-position: center center;
     background-repeat: no-repeat;
@@ -26,6 +26,10 @@ body {
 
 .purpleBG {
     background-image: linear-gradient(#6E00FD, #330074) !important;
+}
+
+.iconBG {
+	background-image: linear-gradient(rgb(139, 139, 139), rgb(100, 100, 100)) !important;
 }
 
 img, .noSelect {
@@ -138,7 +142,7 @@ img, .noSelect {
 }
 
 .help {
-    cursor: help;
+    cursor: pointer !important;
 }
 
 .outOfOrder, .darkDiff {

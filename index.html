@@ -4,7 +4,7 @@
   	<link href="assets/browser.css" rel="stylesheet" type="text/css">
 	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-135255146-3"></script><script>window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'UA-135255146-3');</script>
   	<link rel="icon" href="assets/download.png">
-	<meta id="meta-title" property="og:title" content="Reper2's Downloadable Files">
+	<meta id="meta-title" property="og:title" content="Downloadable Files">
   	<meta id="meta-desc" property="og:description" content="A website where you can browse, view and download Reper2's files!">
   	<meta id="meta-image" name="og:image" itemprop="image" content="https://reper2.github.io/downloadable-files/assets/download.png">
 	<meta name="theme-color" content="#14d8ee">
@@ -13,170 +13,180 @@
 
 <body class="levelBG" onbeforeunload="saveUrl()" style="">
 
-	<div id="everything">
+<div id="everything">
 
-		<div class="popup" id="credits" style="display: none;">
-			<div id="credits1" class="subCredits" style="">
-				<img class="gdButton" src="assets/arrow-left.png" title="click to go to next credits" width="60vh" style="display: none; position: absolute; top: 45%; right: 75%" tabindex="0" onclick="page -= 1; loadCredits()">
-					<div class="brownBox center supercenter" style="width: 80vh; height: 43%; padding-top: 1.5%; padding-bottom: 3.5%;">
-						<h1>Programming/Website</h1>
-						<h2 style="margin-bottom: 1.5%; margin-top: 1.5%" class="gdButton biggerShadow"><a href="https://gdbrowser.com/u/ReperGD2">ReperGD2</a></h2>
-						<img class="creditsicon" icon="https://gdbrowser.com/icon/ReperGD2?forceGD=1" title="ReperGD2" height="30%;" style="margin-bottom: 7%" src="https://gdbrowser.com/icon/ReperGD2?forceGD=1"><br>
-						<a target="_blank" href="https://www.youtube.com/channel/UCofCDfLjs_TkiC-p0-k_9XA" title="Reper2 [GD]"><img src="assets/youtube.png" width="11%" class="sideSpace gdButton"></a>
-						<a target="_blank" href="https://discord.gg/aaVjjZtQts" title="Reper2niverse"><img src="assets/discord.png" width="11%" class="sideSpace gdButton"></a>
-						<a target="_blank" href="https://github.com/Reper2" title="Reper2"><img src="assets/github.png" width="11%" class="sideSpace gdButton"></a>
-						<a target="_blank" href="https://gdbrowser.com/u/ReperGD2" title="ReperGD2"><img src="assets/gd.png" width="11%" class="sideSpace gdButton"></a>
-						<br>
-					</div>
-				<img class="gdButton" src="assets/arrow-right.png" title="click to go to next credits" width="60vh" style="position: absolute; top: 45%; left: 75%" tabindex="0" onclick="page += 1; loadCredits()">
-			</div><div id="credits2" class="subCredits" style="display: none;">
-				<img class="gdButton" src="assets/arrow-left.png" title="click to go to previous credits" width="60vh" style="position: absolute; top: 45%; right: 75%" tabindex="0" onclick="page -= 1; loadCredits()">
+	<div class="popup" id="credits" style="display: none;">
+		<div id="credits1" class="subCredits" style="">
+			<img class="gdButton help" src="assets/arrow-left.png" title="Load Credits Page -1" width="60vh" style="display: none; position: absolute; top: 45%; right: 75%" tabindex="0" onclick="page -= 1; loadCredits()">
 				<div class="brownBox center supercenter" style="width: 80vh; height: 43%; padding-top: 1.5%; padding-bottom: 3.5%;">
-					<h1>Original Assets</h1>
-					<h2 style="margin-bottom: 1.5%; margin-top: 1.5%" class="gdButton biggerShadow"><a href="https://gdbrowser.com/u/RobTop">RobTop</a></h2>
-					<img class="creditsicon" icon="https://gdbrowser.com/icon/RobTop?forceGD=1" title="RobTop" height="30%;" style="margin-bottom: 7%" src="https://gdbrowser.com/icon/RobTop?forceGD=1"><br>
-					<a target="_blank" href="https://youtube.com/channel/UCz_yk8mDSAnxJq0ar66L4sw" title="RobTopGames\nhttps://youtube.com/channel/UCz_yk8mDSAnxJq0ar66L4sw"><img src="assets/youtube.png" width="11%" class="gdButton"></a>
-					<a target="_blank" href="https://twitter.com/RobTopGames" title="RobTopGames"><img src="assets/twitter.png" width="11%" class="sideSpace gdButton"></a>
-					<a target="_blank" href="https://twitch.tv/RobTopGames" title="RobTopGames"><img src="assets/twitch.png" width="11%" class="sideSpace gdButton"></a>
+					<h1>Programming/Website</h1><h3>+All Files</h3>
+					<h2 style="margin-bottom: 1.5%; margin-top: 1.5%" class="gdButton biggerShadow help"><a onclick="open_credits_gd1()" title="ReperGD2&#xa;https://gdbrowser.com/u/ReperGD2">ReperGD2</a></h2>
+					<img class="creditsicon help" title="ReperGD2 icon" icon="assets/ReperGD2.png" height="30%;" style="margin-bottom: 7%" src="https://gdbrowser.com/icon/ReperGD2?forceGD=1"><br>
+					<a onclick="open_credits_yt1()" title="Reper2 [GD]&#xa;https://www.youtube.com/channel/UCofCDfLjs_TkiC-p0-k_9XA"><img src="assets/youtube.png" width="11%" class="sideSpace gdButton help"></a>
+					<a onclick="open_credits_discord1()" title="Reper2niverse&#xa;https://discord.gg/aaVjjZtQts"><img src="assets/discord.png" width="11%" class="sideSpace gdButton help"></a>
+					<a onclick="open_credits_github1()" title="Reper2&#xa;https://github.com/Reper2"><img src="assets/github.png" width="11%" class="sideSpace gdButton help"></a>
+					<a onclick="open_credits_autocode1()" title="Reper2&#xa;https://autocode.com/u/Reper2"><img src="assets/autocode.png" width="11%" class="sideSpace gdButton help"></a>
 					<br>
 				</div>
-			</div><div id="closeCredits" class="center supercenter" style="width: 80vh; pointer-events: none; height: 43%;">
-				<img class="closeWindow gdButton" src="assets/close.png" title="click to close credits" width="14%" style="position: absolute; top: -24%; left: -7vh; pointer-events: all;" tabindex="0" onclick="$('#credits').hide(); page = 1;"></div>
-		</div>
-
-		<div style="position:absolute; bottom: 0%; left: 0%; width: 100%; pointer-events: none">
-			<img class="cornerPiece" src="assets/corner.png" width="7%;">
-		</div>
-
-		<div style="position:absolute; top: 0%; left: 0%; width: 100%; pointer-events: none">
-			<img class="cornerPiece" src="assets/corner.png" width="7%;" style="transform: scaleY(-1)">
-		</div>
-
-		<div style="position:absolute; top: 1.7%; right: 2%; text-align: right; width: 10%;">
-			<img id="creditsButton" class="gdButton" src="assets/credits.png" title="click to open credits" width="60%" onclick="loadCredits()" tabindex="0">
-		</div>
-		
-		<div class="supercenter center" id="menuButtons" style="bottom: 5%;">
-				<table>
-						<tbody>
-							<tr class="menuButtonList">
-								<td><a tabindex="1" href="discord"><img class="menubutton menu-discord" src="assets/category-discord.png" title="Reper2's Discord Files"></a></td>
-								<td><a target="_blank" tabindex="1" href="gd-icons.zip" download><img class="menubutton menu-gd-icons" src="assets/category-gd-icons.png" title="click to download Reper2's GD icons"></a></td>
-								<td><a target="_blank" tabindex="1" href="dividers.zip" download><img class="menubutton menu-dividers" src="assets/category-dividers.png" title="click to download Reper2's dividers"></a></td>
-								<td><a target="_blank" tabindex="1" href="profile-pictures.zip" download><img class="menubutton menu-profile-pictures" src="assets/category-profile-pictures.png" title="click to download Reper2's profile pictures"></a></td>
-							</tr>
-							<tr class="menuButtonList">
-								<td><a tabindex="1" href="texture-packs"><img class="menubutton menu-texture-packs" src="assets/category-texture-packs.png" title="Reper2's Texture Packs"></a></td>
-								<!--<img src="assets/exclamation.png" style="position: absolute; height: 18%; left: 3.5%; bottom: 23%; pointer-events: none; z-index: 50;">-->
-								<td><a tabindex="1" href="acnh"><img class="menubutton menu-acnh" src="assets/category-acnh.png" title="Reper2's ACNH Files"></a></td>
-								<td><a target="_blank" tabindex="1" href="art.zip"><img class="menubutton menu-art" src="assets/category-art.png" title="click to download Reper2's art"></a></td>
-								<!--<td><a tabindex="1" href=""><img class="" src="" title=""></a></td>-->
-							</tr>
-						</tbody>
-				</table>
-
-				<p>Website created by <a target="_blank" class="menuLink" href="https://gdbrowser.com/u/ReperGD2" title="ReperGD2">Reper2</a>.<br>
-				Pretty much everything here is made by Reper2, except for a couple of assets.</p>
-				<p style="margin-top: -0.5%"><a target="_blank" class="menuLink" href="https://github.com/Reper2/downloadable-files" title="GitHub repo">GitHub</a></p>
-		</div>
-
-		<div class="center" width="100%" style="margin-top: 2%">
-			<a target="_blank" href="" title="click to download this page" download>
-				<img src="assets/browser.png" height="11.5%">
-			</a>
-		</div>
+			<img class="gdButton help" src="assets/arrow-right.png" title="Load Credits Page +1" width="60vh" style="position: absolute; top: 45%; left: 75%" tabindex="0" onclick="page += 1; loadCredits()">
+		</div><div id="credits2" class="subCredits" style="display: none;">
+			<img class="gdButton" src="assets/arrow-left.png" title="Load Credits Page -1" width="60vh" style="position: absolute; top: 45%; right: 75%" tabindex="0" onclick="page -= 1; loadCredits()">
+			<div class="brownBox center supercenter" style="width: 80vh; height: 43%; padding-top: 1.5%; padding-bottom: 3.5%;">
+				<h1>Everything else</h1>
+				<h2 style="margin-bottom: 1.5%; margin-top: 1.5%" class="gdButton biggerShadow help"><a onclick="open_credits_gd2()" title="RobTop&#xa;https://gdbrowser.com/u/RobTop">RobTop</a></h2>
+				<img class="creditsicon help" title="RobTop icon" icon="assets/RobTop.png" height="30%;" style="margin-bottom: 7%" src="https://gdbrowser.com/icon/RobTop?forceGD=1"><br>
+				<a onclick="open_credits_yt2()" title="RobTopGames&#xa;https://youtube.com/channel/UCz_yk8mDSAnxJq0ar66L4sw"><img src="assets/youtube.png" width="11%" class=" sideSpace gdButton help"></a>
+				<a onclick="open_credits_twtr2()" title="RobTopGames&#xa;https://twitter.com/RobTopGames"><img src="assets/twitter.png" width="11%" class="sideSpace gdButton help"></a>
+				<a onclick="open_credits_twitch2()" title="RobTopGames&#xa;https://twitch.tv/RobTopGames"><img src="assets/twitch.png" width="11%" class="sideSpace gdButton help"></a>
+				<br>
+			</div>
+		</div><div id="closeCredits" class="center supercenter" style="width: 80vh; pointer-events: none; height: 43%;">
+			<img class="closeWindow gdButton" src="assets/close.png" width="14%" style="position: absolute; top: -24%; left: -7vh; pointer-events: all;" tabindex="0" onclick="$('#credits').hide(); page = 1;"></div>
 	</div>
 
-	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-	<script type="text/javascript" src="misc/sizecheck.js?"></script>
-	<div data-nosnippet="" id="tooSmall" class="brownbox center supercenter" style="display: none; width: 80%">
-		<h1>Yikes!</h1>
-		<p>Your <cg>screen</cg> isn't <ca>wide</ca> enough to <cy>display</cy> this <cg>page</cg>.<br>
-		Please <cy>rotate</cy> your <cg>device</cg> <ca>horizontally</ca> or <cy>resize</cy> your <cg>window</cg> to be <ca>longer</ca>.
-		</p>
-		<p style="font-size: 1.8vh">Did I color too many words? I think I colored too many words.</p>
+	<div style="position:absolute; bottom: 0%; left: 0%; width: 100%; pointer-events: none">
+		<img class="cornerPiece" src="assets/corner.png" width="7%;">
 	</div>
 
-	<script>
+	<div style="position:absolute; top: 0%; left: 0%; width: 100%; pointer-events: none">
+		<img class="cornerPiece" src="assets/corner.png" width="7%;" style="transform: scaleY(-1)">
+	</div>
 
-		let page = 1
-		$('#browserlogo').css('filter', `hue-rotate(${Math.floor(Math.random() * (330 - 60)) + 60}deg) saturate(${Math.floor(Math.random() * (150 - 100)) + 100}%)`)
-
-		let xButtonPos = '43%'
-		let lastPage
-
-		let noDaily = (window.location.search == "?daily=1")
-		let noWeekly = (window.location.search == "?daily=2")
-
-		if (noDaily || noWeekly) {
-			if (noWeekly) $('#noLevel').html("weekly")
-			$('#noDaily').fadeIn(200).delay(500).fadeOut(500)
-			window.history.pushState(null, null, "/")
-		}
-
-		function loadCredits() {
-			$('.subCredits').hide()
-			$('#credits' + page).show()
-			$('#credits').show()
-			if (page == lastPage) $('#closeCredits').css('height', '52%')
-			else $('#closeCredits').css('height', xButtonPos)
-			$('.creditsicon:visible').each(function() {		// only load icons when necessary 
-		$(this).attr('src', $(this).attr('icon'))
-			})
-
-		}
-
-		Fetch(`./api/credits`).then(res => {
-
-			lastPage = res.credits.length + 1
-			res.credits.forEach((x, y) => {
-				$('#credits').append(`<div id="credits${y+1}" class="subCredits" style="display: none;">
-					<img class="gdButton" src="assets/arrow-left.png" width="60vh" style="${y == 0 ? "display: none; " : ""}position: absolute; top: 45%; right: 75%" tabindex="0" onclick="page -= 1; loadCredits()">
-					<div class="brownBox center supercenter" style="width: 80vh; height: 43%; padding-top: 1.5%; padding-bottom: 3.5%;">
-						<h1>${x.header}</h1>
-						<h2 style="margin-bottom: 1.5%; margin-top: 1.5%" class="gdButton biggerShadow"><a href="https://gdbrowser.com/u/${x.ign || x.name}">${x.name}</h2></a>
-						<img class="creditsicon" icon="https://gdbrowser.com/icon/${x.ign || x.name}?forceGD=1" height=30%; style="margin-bottom: 7%"><br>
-						<a target=_blank href="${x.youtube[0]}"><img src="assets/${x.youtube[1]}.png" width="11%" class="gdButton"></a>
-						<a target=_blank href="${x.twitter[0]}"><img src="assets/${x.twitter[1]}.png" width="11%" class="sideSpace gdButton"></a>
-						<a target=_blank href="${x.github[0]}"><img src="assets/${x.github[1]}.png" width="11%" class="sideSpace gdButton"></a>
-						<br>
-					</div>
-					<img class="gdButton" src="assets/arrow-right.png" width="60vh" style="position: absolute; top: 45%; left: 75%" tabindex="0" onclick="page += 1; loadCredits()">
-				</div>`)
-			})
-
-			$('#credits').append(`<div id="credits${lastPage}" class="subCredits" style="display: none;">
-					<div id="specialthanks" class="brownBox center supercenter" style="width: 80vh; height: 55%; padding-top: 1.5%; padding-bottom: 3.5%;">
-						<h1>Special Thanks!</h1><br>
-					</div>
-					<img class="gdButton" src="assets/arrow-left.png" width="60vh" style="position: absolute; top: 45%; right: 75%" tabindex="0" onclick="page -= 1; loadCredits()">
-				</div>`)
-
-			res.specialThanks.forEach((x, y) => {
-				n = x.split("/")
-				$('#specialthanks').append(`<div class="specialThanks">
-						<h2 class="gdButton smaller"><a href="https://gdbrowser.com/u/${n[1] || n[0]}">${n[0]}</h2></a>
-						<img class="creditsicon" icon="https://gdbrowser.com/icon/${n[1] || n[0]}?forceGD=1" height=77%><br>
-						</div>`)
-				})
-
-			$('#credits').append(`<div id="closeCredits" class="center supercenter" style="width: 80vh; height: ${xButtonPos}%; pointer-events: none;">
-			<img class="closeWindow gdButton" src="assets/close.png" width="14%" style="position: absolute; top: -24%; left: -7vh; pointer-events: all;" tabindex="0" onclick="$('#credits').hide(); page = 1;"></div>`)
-
-			$(document).keydown(function(k) {
-
-			if ($('#credits').is(':hidden')) return
-
-			if (k.which == 37 && page > 1) { //left
-				page -= 1; loadCredits();
-			}
+	<div style="position:absolute; top: 1.7%; right: 2%; text-align: right; width: 10%;">
+		<img id="creditsButton" class="gdButton help" title="Load Credits" src="assets/credits.png" width="60%" onclick="loadCredits()" tabindex="0">
+	</div>
 	
-			if (k.which == 39 && page < lastPage) { //right
-				page += 1; loadCredits();
-			}
+	<div class="menu-messages" style="position:absolute; top: -1.7%; left: 11%; text-align: left; width: 10%;">
+		<a href="moreDownloads" title="More Downloads&#xa;https://reper2.github.io/downloadable-files/moreDownloads"><img class="iconRope help" src="assets/moreDownloadsRope.png" width="40%"></a>
+	</div>
 	
-		});
-		});
+	<div style="position:absolute; top: -1.5%; right: 10%; text-align: right; width: 10%;">
+		<a href="gdIcons" title="GD Icons&#xa;https://reper2.github.io/downloadable-files/gdIcons"><img class="iconRope help" src="assets/iconrope.png" width="40%"></a>
+	</div>
 
-	</script>
+	<div class="supercenter center" id="menuButtons" style="bottom: 5%;">
+		<table>
+				<tr class="menuButtonList">
+					<td><a tabindex="1" href="acnh" title="ACNH Files&#xa;https://reper2.github.io/downloadable-files/acnh"><img class="menubutton menu-acnh help" src="assets/category-acnh.png"></a></td>
+					<td><a tabindex="1" onclick="download_art()" title="Art&#xa;https://reper2.github.io/downloadable-files/art.zip"><img class="menubutton menu-art help" src="assets/category-art.png"></a></td>
+					<td><a tabindex="1" href="discord" title="Discord Files&#xa;https://reper2.github.io/downloadable-files/discord"><img class="menubutton menu-discord help" src="assets/category-discord.png"></a></td>
+					<td><a tabindex="1" onclick="download_divs()" title="Dividers&#xa;https://reper2.github.io/downloadable-files/dividers.zip"><img class="menubutton menu-dividers help" src="assets/category-dividers.png"></a></td>
+				</tr>
+				<tr class="menuButtonList">
+					<!--<td><a tabindex="1" (onclick="open_menu_{function}()" || target="_blank" href="{(relative url || absolute url)}") title="{title}&#xa;{absolute url}"><img class="menubutton menu-{category} help" src="assets/category-{category}.png"></a></td>-->
+					<!--<img src="assets/exclamation.png" style="position: absolute; height: 18%; left: 3.5%; bottom: 23%; pointer-events: none; z-index: 50;">-->
+					<td><a tabindex="1" onclick="download_pfp()" title="Profile Pictures&#xa;https://reper2.github.io/downloadable-files/profilePictures.zip"><img class="menubutton menu-profilePictures help" src="assets/category-profilePictures.png"></a></td>
+					<td><a tabindex="1" href="texturePacks" title="Texture Packs&#xa;https://reper2.github.io/downloadable-files/texturePacks"><img class="menubutton menu-texturePacks help" src="assets/category-texturePacks.png"></a></td>
+					<!--<td><a tabindex="1" (onclick="open_menu_{function}()" || target="_blank" href="{(relative url || absolute url)}") title="{title}&#xa;{absolute url}"><img class="menubutton menu-{category} help" src="assets/category-{category}.png"></a></td>-->
+				</tr>
+		</table>
+
+		<p>Website created by <a onclick="open_menu_Reper2()" class="menuLink help" title="Reper2&#xa;https://gdbrowser.com/u/ReperGD2">Reper2</a>. All files are also owned by <a onclick="open_menu_Reper2()" class="menuLink help" title="Reper2&#xa;https://gdbrowser.com/u/ReperGD2">Reper2</a>.<br>Pretty much everything other than that belongs to <a onclick="open_menu_RobTopGames()" class="menuLink help" title="RobTopGames&#xa;http://robtopgames.com">RobTopGames</a>.</p>
+		<p style="margin-top: -0.5%"><a onclick="open_menu_tools()" class="menuLink help" title="Reper2's Tools&#xa;https://reper2.github.io/tools">Tools</a>
+			&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+			<a href="api" class="menuLink help" title="API&#xa;https://reper2.github.io/downloadable-files/api">API</a>
+			&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+			<a onclick="open_menu_repo()" class="menuLink help" title="GitHub&#xa;https://github.com/Reper2/downloadable-files">GitHub</a>
+			&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+			<a onclick="download_repo()" class="menuLink help" title="Download Downlodable Files!&#xa;https://github.com/Reper2/downloadable-files/archive/refs/heads/master.zip">Download Downloadable Files!</a></p>
+	</div>
+
+	<div style="position:absolute; bottom: 2.5%; right: 1.5%; text-align: right; width: 18%;">
+		<a href="software" title="Reper2's Software Library&#xa;https://reper2.github.io/downloadable-files/software"><img class="gdButton help" src="assets/basement.png" width="40%"></a>
+	</div>
+
+
+	<div class="center" width="100%" style="margin-top: 2%">
+		<a onclick="download_index()" title="Downloadable Files&#xa;https://reper2.github.io/downloadable-files" class="help">
+			<img src="assets/browser.png" height="11.5%">
+		</a>
+	</div>
+</div>
+
 </body>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script type="text/javascript" src="misc/sizecheck.js?"></script>
+<script type="text/javascript" src="misc/downloads.js?"></script>
+<script type="text/javascript" src="misc/links.js?"></script>
+<script type="text/javascript">
+
+let page = 1
+$('#browserlogo').css('filter', `hue-rotate(${Math.floor(Math.random() * (330 - 60)) + 60}deg) saturate(${Math.floor(Math.random() * (150 - 100)) + 100}%)`)
+
+let xButtonPos = '43%'
+let lastPage
+
+let noDaily = (window.location.search == "?daily=1")
+let noWeekly = (window.location.search == "?daily=2")
+
+if (noDaily || noWeekly) {
+	if (noWeekly) $('#noLevel').html("weekly")
+	$('#noDaily').fadeIn(200).delay(500).fadeOut(500)
+	window.history.pushState(null, null, "/")
+}
+
+function loadCredits() {
+	$('.subCredits').hide()
+	$('#credits' + page).show()
+	$('#credits').show()
+	if (page == lastPage) $('#closeCredits').css('height', '52%')
+	else $('#closeCredits').css('height', xButtonPos)
+	$('.creditsicon:visible').each(function() {		// only load icons when necessary 
+		$(this).attr('src', $(this).attr('icon'))
+	})
+
+}
+
+Fetch(`./api/credits`).then(res => {
+
+	lastPage = res.credits.length + 1
+	res.credits.forEach((x, y) => {
+		$('#credits').append(`<div id="credits${y+1}" class="subCredits" style="display: none;">
+			<img class="gdButton" src="assets/arrow-left.png" width="60vh" style="${y == 0 ? "display: none; " : ""}position: absolute; top: 45%; right: 75%" tabindex="0" onclick="page -= 1; loadCredits()">
+			<div class="brownBox center supercenter" style="width: 80vh; height: 43%; padding-top: 1.5%; padding-bottom: 3.5%;">
+				<h1>${x.header}</h1>
+				<h2 style="margin-bottom: 1.5%; margin-top: 1.5%" class="gdButton biggerShadow"><a href="https://gdbrowser.com/u/${x.ign || x.name}">${x.name}</h2></a>
+				<img class="creditsicon" icon="./icon/${x.ign || x.name}?forceGD=1" height=30%; style="margin-bottom: 7%"><br>
+				<a target=_blank href="${x.youtube[0]}"><img src="assets/${x.youtube[1]}.png" width="11%" class="gdButton"></a>
+				<a target=_blank href="${x.twitter[0]}"><img src="assets/${x.twitter[1]}.png" width="11%" class="sideSpace gdButton"></a>
+				<a target=_blank href="${x.github[0]}"><img src="assets/${x.github[1]}.png" width="11%" class="sideSpace gdButton"></a>
+				<br>
+			</div>
+			<img class="gdButton" src="assets/arrow-right.png" width="60vh" style="position: absolute; top: 45%; left: 75%" tabindex="0" onclick="page += 1; loadCredits()">
+		</div>`)
+	})
+
+	$('#credits').append(`<div id="credits${lastPage}" class="subCredits" style="display: none;">
+			<div id="specialthanks" class="brownBox center supercenter" style="width: 80vh; height: 55%; padding-top: 1.5%; padding-bottom: 3.5%;">
+				<h1>Special Thanks!</h1><br>
+			</div>
+			<img class="gdButton" src="assets/arrow-left.png" width="60vh" style="position: absolute; top: 45%; right: 75%" tabindex="0" onclick="page -= 1; loadCredits()">
+		</div>`)
+
+	res.specialThanks.forEach((x, y) => {
+		n = x.split("/")
+		$('#specialthanks').append(`<div class="specialThanks">
+				<h2 class="gdButton smaller"><a href="https://gdbrowser.com/u/${n[1] || n[0]}">${n[0]}</h2></a>
+				<img class="creditsicon" icon="./icon/${n[1] || n[0]}?forceGD=1" height=77%><br>
+				</div>`)
+		})
+
+	$('#credits').append(`<div id="closeCredits" class="center supercenter" style="width: 80vh; height: ${xButtonPos}%; pointer-events: none;">
+	<img class="closeWindow gdButton" src="assets/close.png" width="14%" style="position: absolute; top: -24%; left: -7vh; pointer-events: all;" tabindex="0" onclick="$('#credits').hide(); page = 1;"></div>`)
+
+	$(document).keydown(function(k) {
+
+	if ($('#credits').is(':hidden')) return
+
+    if (k.which == 37 && page > 1) { //left
+		page -= 1; loadCredits();
+	}
+	
+	if (k.which == 39 && page < lastPage) { //right
+		page += 1; loadCredits();
+	}
+	
+});
+});
+
+</script>
