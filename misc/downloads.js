@@ -342,6 +342,27 @@ function download_botCoverImage3() {
 	}
 }
 
+// download confirmation for: discord/account/applications/899911106104012851/EasyRP.zip
+function download_botEasyRP3() {
+	var r = confirm("Download:\nEasyRP.zip");
+	if (r == true) {
+		fetch('https://reper2.github.io/downloadable-files/discord/applications/899911106104012851/EasyRP.zip')
+			.then(resp => resp.blob())
+			.then(blob => {
+				const url = window.URL.createObjectURL(blob);
+				const a = document.createElement('a');
+				a.style.display = 'none';
+				a.href = url;
+				a.download = 'EasyRP.zip';
+				document.body.appendChild(a);
+				a.click();
+				window.URL.revokeObjectURL(url);
+			})
+	} else {
+		null
+	}
+}
+
 // download confirmation for: discord/account/avatar.png
 function download_avatar() {
 	var r = confirm("Download:\navatar.png");
