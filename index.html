@@ -137,7 +137,7 @@ function loadCredits() {
 
 }
 
-Fetch(`./api/credits`).then(res => {
+Fetch(`misc/credits.json`).then(res => {
 
 	lastPage = res.credits.length + 1
 	res.credits.forEach((x, y) => {
