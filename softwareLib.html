@@ -1,11 +1,11 @@
 <head>
-	<title>Reper2's Software</title>
+	<title>Reper2's Software Library</title>
 	<meta charset="utf-8">
 	<link href="assets/browser.css" type="text/css" rel="stylesheet">
     <script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-3EHJW0BL52&amp;l=dataLayer&amp;cx=c"></script><script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-135255146-3"></script><script>window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'UA-135255146-3');</script>
 	<link rel="icon" href="assets/unlock.png">
-	<meta id="meta-title" property="og:title" content="Reper2's Software - Downloadable Files">
-	<meta id="meta-desc" property="og:description" content="A full list of all of Reper2's software">
+	<meta id="meta-title" property="og:title" content="Reper2's Software Library - Downloadable Files">
+	<meta id="meta-desc" property="og:description" content="A full list of all of Reper2's software!">
 	<meta id="meta-image" name="og:image" itemprop="image" content="https://reper2.github.io/downloadable-files/assets/unlock.png">
 	<meta name="twitter:card" content="summary">
 </head>
@@ -30,7 +30,7 @@
 	<div class="epicbox supercenter gs" style="width: 126vh; height: 80%; pointer-events: none"></div>
 
 	<div class="center" style="position:absolute; top: 8%; left: 0%; right: 0%">
-		<h1 class="pre" id="header">Reper2's Software</h1>
+		<h1 class="pre" id="header">Reper2's Software library</h1>
 	</div> 
 
 	<div style="position:absolute; top: 2%; left: 1.5%; width: 10%; height: 25%; pointer-events: none">
@@ -59,7 +59,7 @@
 
 let pageSize = 20;
 let page = 1;
-Fetch('https://reper2.github.io/downloadable-files/software.html').then((servers) => {
+Fetch('https://reper2.github.io/downloadable-files/softwareLib.html').then((servers) => {
   let currentServer = servers.find((x) => x.id == gdps);
   servers = [currentServer]
     .concat(servers.filter((x) => x.id != gdps))
