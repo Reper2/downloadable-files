@@ -1212,3 +1212,234 @@ function download_repo() {
 		null
 	}
 }
+
+// download confirmation for: 404.html
+function download_404() {
+	var r = confirm("Download:\n404.html");
+	if (r == true) {
+		fetch('https://reper2.github.io/downloadable-files/404.html')
+			.then(resp => resp.blob())
+			.then(blob => {
+				const url = window.URL.createObjectURL(blob);
+				const a = document.createElement('a');
+				a.style.display = 'none';
+				a.href = url;
+				a.download = '404.html';
+				document.body.appendChild(a);
+				a.click();
+				window.URL.revokeObjectURL(url);
+			})
+	} else {
+		null
+	}
+}
+
+// download confirmation for: 404.md
+function download_404() {
+	var r = confirm("Download:\n404.md");
+	if (r == true) {
+		fetch('https://reper2.github.io/downloadable-files/404.md')
+			.then(resp => resp.blob())
+			.then(blob => {
+				const url = window.URL.createObjectURL(blob);
+				const a = document.createElement('a');
+				a.style.display = 'none';
+				a.href = url;
+				a.download = '404.md';
+				document.body.appendChild(a);
+				a.click();
+				window.URL.revokeObjectURL(url);
+			})
+	} else {
+		null
+	}
+}
+
+// download confirmation for: hof.html
+function download_hof() {
+	var r = confirm("Download:\nhof.html");
+	if (r == true) {
+		fetch('https://reper2.github.io/downloadable-files/hof.html')
+			.then(resp => resp.blob())
+			.then(blob => {
+				const url = window.URL.createObjectURL(blob);
+				const a = document.createElement('a');
+				a.style.display = 'none';
+				a.href = url;
+				a.download = 'hof.html';
+				document.body.appendChild(a);
+				a.click();
+				window.URL.revokeObjectURL(url);
+			})
+	} else {
+		null
+	}
+}
+
+// download confirmation for: hof/IMG_001.png
+function download_hof1() {
+	var r = confirm("Download:\nIMG_001.png");
+	if (r == true) {
+		fetch('https://reper2.github.io/downloadable-files/hof/IMG_001.png')
+			.then(resp => resp.blob())
+			.then(blob => {
+				const url = window.URL.createObjectURL(blob);
+				const a = document.createElement('a');
+				a.style.display = 'none';
+				a.href = url;
+				a.download = 'IMG_001.png';
+				document.body.appendChild(a);
+				a.click();
+				window.URL.revokeObjectURL(url);
+			})
+	} else {
+		null
+	}
+}
+
+// download confirmation for: hof/IMG_002.png
+function download_hof2() {
+	var r = confirm("Download:\nIMG_002.png");
+	if (r == true) {
+		fetch('https://reper2.github.io/downloadable-files/hof/IMG_002.png')
+			.then(resp => resp.blob())
+			.then(blob => {
+				const url = window.URL.createObjectURL(blob);
+				const a = document.createElement('a');
+				a.style.display = 'none';
+				a.href = url;
+				a.download = 'IMG_002.png';
+				document.body.appendChild(a);
+				a.click();
+				window.URL.revokeObjectURL(url);
+			})
+	} else {
+		null
+	}
+}
+
+// download confirmation for: hof/IMG_003.png
+function download_hof3() {
+	var r = confirm("Download:\nIMG_003.png");
+	if (r == true) {
+		fetch('https://reper2.github.io/downloadable-files/hof/IMG_003.png')
+			.then(resp => resp.blob())
+			.then(blob => {
+				const url = window.URL.createObjectURL(blob);
+				const a = document.createElement('a');
+				a.style.display = 'none';
+				a.href = url;
+				a.download = 'IMG_003.png';
+				document.body.appendChild(a);
+				a.click();
+				window.URL.revokeObjectURL(url);
+			})
+	} else {
+		null
+	}
+}
+
+// download confirmation for: hof/IMG_004.png
+function download_hof4() {
+	var r = confirm("Download:\nIMG_004.png");
+	if (r == true) {
+		fetch('https://reper2.github.io/downloadable-files/hof/IMG_004.png')
+			.then(resp => resp.blob())
+			.then(blob => {
+				const url = window.URL.createObjectURL(blob);
+				const a = document.createElement('a');
+				a.style.display = 'none';
+				a.href = url;
+				a.download = 'IMG_004.png';
+				document.body.appendChild(a);
+				a.click();
+				window.URL.revokeObjectURL(url);
+			})
+	} else {
+		null
+	}
+}
+
+// download confirmation for: hof/IMG_005.png
+function download_hof5() {
+	var r = confirm("Download:\nIMG_005.png");
+	if (r == true) {
+		fetch('https://reper2.github.io/downloadable-files/hof/IMG_005.png')
+			.then(resp => resp.blob())
+			.then(blob => {
+				const url = window.URL.createObjectURL(blob);
+				const a = document.createElement('a');
+				a.style.display = 'none';
+				a.href = url;
+				a.download = 'IMG_005.png';
+				document.body.appendChild(a);
+				a.click();
+				window.URL.revokeObjectURL(url);
+			})
+	} else {
+		null
+	}
+}
+
+// download confirmation for: hof/IMG_006.png
+function download_hof6() {
+	var r = confirm("Download:\nIMG_006.png");
+	if (r == true) {
+		fetch('https://reper2.github.io/downloadable-files/hof/IMG_006.png')
+			.then(resp => resp.blob())
+			.then(blob => {
+				const url = window.URL.createObjectURL(blob);
+				const a = document.createElement('a');
+				a.style.display = 'none';
+				a.href = url;
+				a.download = 'IMG_006.png';
+				document.body.appendChild(a);
+				a.click();
+				window.URL.revokeObjectURL(url);
+			})
+	} else {
+		null
+	}
+}
+
+// download confirmation for: hof/IMG_007.png
+function download_hof7() {
+	var r = confirm("Download:\nIMG_007.png");
+	if (r == true) {
+		fetch('https://reper2.github.io/downloadable-files/hof/IMG_007.png')
+			.then(resp => resp.blob())
+			.then(blob => {
+				const url = window.URL.createObjectURL(blob);
+				const a = document.createElement('a');
+				a.style.display = 'none';
+				a.href = url;
+				a.download = 'IMG_007.png';
+				document.body.appendChild(a);
+				a.click();
+				window.URL.revokeObjectURL(url);
+			})
+	} else {
+		null
+	}
+}
+
+// download confirmation for: hof/IMG_008.png
+function download_hof8() {
+	var r = confirm("Download:\nIMG_008.png");
+	if (r == true) {
+		fetch('https://reper2.github.io/downloadable-files/hof/IMG_008.png')
+			.then(resp => resp.blob())
+			.then(blob => {
+				const url = window.URL.createObjectURL(blob);
+				const a = document.createElement('a');
+				a.style.display = 'none';
+				a.href = url;
+				a.download = 'IMG_008.png';
+				document.body.appendChild(a);
+				a.click();
+				window.URL.revokeObjectURL(url);
+			})
+	} else {
+		null
+	}
+}
