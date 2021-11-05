@@ -32,6 +32,10 @@ body {
 	background-image: linear-gradient(rgb(139, 139, 139), rgb(100, 100, 100)) !important;
 }
 
+.acnhBG {
+	background-image: url("acnhBG.png");
+}
+
 img, .noSelect {
     user-select: none;
 }
@@ -46,6 +50,10 @@ img, .noSelect {
 
 .cornerPiece {
     position: sticky;
+}
+
+.weekly {
+    filter: grayscale(100%);
 }
 
 .center {

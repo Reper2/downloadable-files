@@ -2,8 +2,9 @@
   	<title>ACNH Files</title>
   	<meta charset="utf-8">
   	<link href="assets/browser.css" rel="stylesheet" type="text/css">
+	<link href="assets/iconkit.css" rel="stylesheet" type="text/css">
 	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-135255146-3"></script><script>window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'UA-135255146-3');</script>
-  	<link rel="icon" href="assets/acnh_logo.png">
+  	<link rel="icon" href="assets/acnh_logo.PNG">
 	<meta id="meta-title" property="og:title" content="Reper2's ACNH Files - Downloadable Files">
   	<meta id="meta-desc" property="og:description" content="Browse and download Reper2's ACNH files!">
   	<meta id="meta-image" name="og:image" itemprop="image" content="https://reper2.github.io/downloadable-files/assets/category-acnh.png">
@@ -11,7 +12,7 @@
   	<meta name="twitter:card" content="summary">
 </head>
 
-<body class="levelBG" onbeforeunload="saveUrl()" style="">
+<body class="acnhBG" onbeforeunload="saveUrl()" style="">
 
 <div id="everything">
 	
@@ -27,7 +28,7 @@
 		<img class="gdButton yesClick" id="backButton" title="Back Button" src="assets/back.png" height="30%" onclick="backButton()">
 	</div>
         
-	<div class="brownBox center supercenter" style="width: 135vh; height: 82%; margin-top: -0.7%">
+	<div class="center supercenter" style="width: 135vh; height: 82%; margin-top: -0.7%">
 		<div class="center" width="100%" style="margin-top: 2%">
 			<h2>
 				<a onclick="download_acnh()" title="ACNH Files&#xa;https://reper2.github.io/downloadable-files/acnh" class="help">ACNH Files</a>
@@ -36,16 +37,34 @@
 		
 		<br>
 		
-		<div class="lightBox center" style="margin: 2% auto; width: 105vh">
-			<h1>
-				<a onclick="download_acnhCustomDesignsQR()" title="Custom Design QR Codes&#xa;https://reper2.github.io/downloadable-files/acnh/customDesigns-qr.zip" class="help">Custom Design QR Codes</a>
-				<br>
-				<a onclick="download_acnhCustomDesigns()" title="Custom Designs&#xa;https://reper2.github.io/downloadable-files/acnh/customDesigns.zip" class="help">Custom Designs</a>
-				<br>
-				<a onclick="download_acnhImg()" title="Screenshots&#xa;https://reper2.github.io/downloadable-files/acnh/screenshots.zip" class="help">Screenshots</a>
-				<br>
-				<a onclick="download_acnhVid()" title="Videos&#xa;https://www.mediafire.com/file/84uyrp0hclc4oit/videos.zip/file" class="help">Videos</a>
-			</h1>
+		<div id="iconbox" style="min-height: 145px; display: inline-flex">
+			<img id="loading" src="assets/loading.png" class="spin" height="85px;" style="display: none; align-self: center;">
+			<img id="result" src="assets/acnh_logo.PNG" width="225" height="175" style="display: flex; align-self: flex-end;">
+		</div>
+		
+		<hr id="gdfloor" style="margin-top: 0px;">
+        
+		<div id="iconKitParent" class="iconKit noDarken">
+            <div id="iconprogressbar">
+                <div id="iconloading" style="width: 100%;"></div>
+            </div>
+			<div id="iconprogressbar">
+					<div id="iconloading" style="width: 100%;"></div>
+            </div><div id="cubes">
+				<div class="center" style="margin: 2% auto; width: 118.125vh">
+					<h1>
+						<a onclick="download_acnhCustomDesignsQR()" title="Custom Design QR Codes&#xa;https://reper2.github.io/downloadable-files/acnh/customDesigns-qr.zip" class="help">Custom Design QR Codes</a>
+						<br>
+						<a onclick="download_acnhCustomDesigns()" title="Custom Designs&#xa;https://reper2.github.io/downloadable-files/acnh/customDesigns.zip" class="help">Custom Designs</a>
+						<br>
+						<a onclick="download_acnhImg()" title="Screenshots&#xa;https://reper2.github.io/downloadable-files/acnh/screenshots.zip" class="help">Screenshots</a>
+						<br>
+						<a onclick="download_acnhVid()" title="Videos&#xa;https://www.mediafire.com/file/84uyrp0hclc4oit/videos.zip/file" class="help">Videos</a>
+						<br>
+						<a onclick="open_acnhPlaylist()" title="YouTube Playlist&#xa;https://www.youtube.com/playlist?list=PLAAIA_nxitLcEdvzV_bsBsHLAGzq2FTAw" class="help">YouTube Playlist</a>
+					</h1>
+				</div>
+			</div>
 		</div>
 	</div>
 </div>

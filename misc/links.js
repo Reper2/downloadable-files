@@ -290,3 +290,13 @@ function open_acApp2() {
 		null
 	}
 }
+
+// popup confirmation for: https://www.youtube.com/playlist?list=PLAAIA_nxitLcEdvzV_bsBsHLAGzq2FTAw
+function open_acnhPlaylist() {
+	var r = confirm("Open link to external site:\nAnimal Crossing New Horizons - Playlist - YouTube");
+	if (r == true) {
+		window.open("https://www.youtube.com/playlist?list=PLAAIA_nxitLcEdvzV_bsBsHLAGzq2FTAw");
+	} else {
+		null
+	}
+}
