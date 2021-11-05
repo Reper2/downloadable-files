@@ -2,6 +2,7 @@
   	<title>Discord</title>
   	<meta charset="utf-8">
   	<link href="assets/browser.css" rel="stylesheet" type="text/css">
+	<link href="assets/iconkit.css" rel="stylesheet" type="text/css">
 	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-135255146-3"></script><script>window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'UA-135255146-3');</script>
   	<link rel="icon" href="assets/discord.png">
 	<meta id="meta-title" property="og:title" content="Discord - Downloadable Files">
@@ -27,23 +28,40 @@
 		<img class="gdButton yesClick" id="backButton" title="Back Button" src="assets/back.png" height="30%" onclick="backButton()">
 	</div>
 	
-	<div class="brownBox center supercenter" style="width: 135vh; height: 82%; margin-top: -0.7%">
+	<div class="center supercenter" style="width: 135vh; height: 82%; margin-top: -0.7%">
 		<div class="center" width="100%" style="margin-top: 1%">
 			<h2>
-				<a onclick="download_discord()" title="Discord&#xa;https://reper2.github.io/downloadable-files/discord" class="help">Discord</a>
+				<a onclick="download_discord()" title="Discord" class="help">Discord</a>
 			</h2>
       
-			<br>
+			<div id="iconbox" style="min-height: 145px; display: inline-flex">
+				<img id="loading" src="assets/loading.png" class="spin" height="85px;" style="display: none; align-self: center;">
+				<img id="result" src="assets/discord.png" width="145" height="145" style="display: flex; align-self: flex-end;">
+			</div>
      
-			<div class="lightBox center" style="margin: 2% auto; width: 105vh">
-				<h1>
-					<a href="discord/account" title="Account&#xa;https://reper2.github.io/downloadable-files/discord/account" class="help">Account</a>
-					<br>
-					<a href="discord/servers" title="Servers&#xa;https://reper2.github.io/downloadable-files/discord/servers" class="help">Servers</a>
-				</h1>
+			<hr id="gdfloor" style="margin-top: 0px;">
+		
+			<div id="iconKitParent" class="iconKit noDarken">
+				<div id="iconprogressbar">
+					<div id="iconloading" style="width: 100%;"></div>
+				</div>
+			
+				<div id="iconprogressbar">
+						<div id="iconloading" style="width: 100%;"></div>
+				</div><div id="cubes">
+					<div class="center" style="margin: 2% auto; width: 118.125vh">
+						<h1>
+							<a href="discord/account" title="Account&#xa;/discord/account" class="help">Account</a>
+							<br>
+							<a href="discord/servers" title="Servers&#xa;/discord/servers" class="help">Servers</a>
+						</h1>
+					</div>
+				</div>
 			</div>
 		</div>
 	</div>
+</div>
+
 </body>
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <script type="text/javascript" src="misc/sizecheck.js?"></script>
