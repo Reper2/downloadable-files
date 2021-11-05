@@ -1287,13 +1287,13 @@ function download_hof1() {
 				const a = document.createElement('a');
 				a.style.display = 'none';
 				a.href = url;
-				a.download = 'IMG_001.png';
+				a.download = 'IMG_001.PNG';
 				document.body.appendChild(a);
 				a.click();
 				window.URL.revokeObjectURL(url);
 			})
 	} else {
-		window.open('https://reper2.github.io/downloadable-files/hof/IMG_001.png')
+		window.open('https://reper2.github.io/downloadable-files/hof/IMG_001.PNG')
 	}
 }
 
