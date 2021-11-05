@@ -34,6 +34,42 @@ function open_softwareView1() {
 	}
 }
 
+// popup confirmation for: https://discord.com/api/oauth2/authorize?client_id=895031444878028831&permissions=8&redirect_uri=https%3A%2F%2Fdiscord.events.stdlib.com%2Fdiscord%2Fauth%2F&scope=bot%20applications.commands
+function open_softwareIcon2() {
+	var txt;
+	var r = confirm("Open link to external site:\nReper2 Bot - Bot Invite - Discord");
+	if (r == true) {
+		txt = "Opening link to external site!";
+		window.open("https://discord.com/api/oauth2/authorize?client_id=895031444878028831&permissions=8&redirect_uri=https%3A%2F%2Fdiscord.events.stdlib.com%2Fdiscord%2Fauth%2F&scope=bot%20applications.commands");
+	} else {
+		txt = "Cancelled!";
+	}
+}
+
+// popup confirmation for: https://discord.gg/aaVjjZtQts
+function open_softwareAuthor2() {
+	var txt;
+	var r = confirm("Open link to external site:\nReper2niverse - Server Invite - Discord");
+	if (r == true) {
+		txt = "Opening link to external site!";
+		window.open("https://discord.gg/aaVjjZtQts");
+	} else {
+		txt = "Cancelled!";
+	}
+}
+
+// popup confirmation for: https://autocode.com/app/Reper2/reper2-bot/
+function open_softwareView2() {
+	var txt;
+	var r = confirm("Open link to external site:\nReper2 Bot - App - Autocode");
+	if (r == true) {
+		txt = "Opening link to external site!";
+		window.open("https://autocode.com/app/Reper2/reper2-bot/");
+	} else {
+		txt = "Cancelled!";
+	}
+}
+
 // popup confirmation for: https://discord.gg/aaVjjZtQts > https://discord.com/invite/aaVjjZtQts
 function open_serverInvite1() {
 	var txt;
