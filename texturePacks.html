@@ -2,6 +2,7 @@
   	<title>Texture Packs</title>
   	<meta charset="utf-8">
   	<link href="assets/browser.css" rel="stylesheet" type="text/css">
+	<link href="assets/iconkit.css" rel="stylesheet" type="text/css">
 	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-135255146-3"></script><script>window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'UA-135255146-3');</script>
   	<link rel="icon" href="assets/edit.png">
 	<meta id="meta-title" property="og:title" content="Texture Packs - Downloadable Files">
@@ -27,21 +28,34 @@
 		<img class="gdButton yesClick" id="backButton" title="Back Button" src="assets/back.png" height="30%" onclick="backButton()">
 	</div>
         
-	<div class="brownBox center supercenter" style="width: 135vh; height: 82%; margin-top: -0.7%">
+	<div class="center supercenter" style="width: 135vh; height: 82%; margin-top: -0.7%">
 		<div class="center" width="100%" style="margin-top: 2%">
 			<h2>
-				<a onclick="texturePacks" title="Texture Packs&#xa;https://reper2.github.io/downloadable-files/texturePacks" class="help">Texture Packs</a>
+				<a onclick="texturePacks" title="Texture Packs" class="help">Texture Packs</a>
 			</h2>
 		</div>
-
+		
 		<br>
-			
-		<div class="lightBox center" style="margin: 2% auto; width: 105vh">
+		
+		<div class="center" style="margin: 2% auto; width: 105vh">
 			<h1>
-				<a onclick="download_texturePack()" title="Reper2's Texture Pack&#xa;https://reper2.github.io/downloadable-files/texturePacks/texturePack" class="help">Reper2's Texture Pack</a>
-				<br>
-				<a onclick="open_nsmbwTexturePack()" title="NSMBW Texture Pack&#xa;https://www.mediafire.com/file/fgrsecsgyk1vx80/nsmbwTexturePack-uhd.zip/file" class="help">NSMBW Texture Pack</a>
-			</h1>
+				<a onclick="download_texturePack()" title="Reper2's Texture Pack&#xa;/texturePacks/texturePack.zip">
+					<div id="iconbox" style="min-height: 145px; display: inline-flex">
+						<img id="result" src="assets/reper2.png" width="145" height="145" style="display: flex; align-self: flex-end">
+					</div>
+					<br>
+					Reper2's Texture Pack
+				</a>
+				
+				<hr id="gdfloor" style="margin-top: 0px;">
+				
+				<a onclick="open_nsmbwTexturePack()" title="NSMBW Texture Pack&#xa;https://www.mediafire.com/file/fgrsecsgyk1vx80/nsmbwTexturePack-uhd.zip/file">
+					<div id="iconbox" style="min-height: 145px; display: inline-flex">
+						<img id="result" src="assets/nsmbw.png" width="400" height="150" style="display: flex; align-self: flex-end">
+					</div>
+					<br>
+					NSMBW Texture Pack
+				</a>
 		</div>
 	</div>
 </div>
@@ -50,5 +64,5 @@
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <script type="text/javascript" src="misc/sizecheck.js?"></script>
 <script type="text/javascript" src="misc/dragscroll.js"></script>
-<script type="text/javascript" src="misc/download.js?"></script>
+<script type="text/javascript" src="misc/downloads.js?"></script>
 <script type="text/javascript" src="misc/links.js?"></script>
