@@ -1276,11 +1276,11 @@ function download_hof() {
 	}
 }
 
-// download confirmation for: hof/IMG_001.png
+// download confirmation for: hof/IMG_001.PNG
 function download_hof1() {
 	var r = confirm("Download:\nIMG_001.png");
 	if (r == true) {
-		fetch('https://reper2.github.io/downloadable-files/hof/IMG_001.png')
+		fetch('https://reper2.github.io/downloadable-files/hof/IMG_001.PNG')
 			.then(resp => resp.blob())
 			.then(blob => {
 				const url = window.URL.createObjectURL(blob);
