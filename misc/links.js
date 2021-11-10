@@ -128,11 +128,11 @@ function open_acnhVid() {
 	}
 }
 
-// popup confirmation for: https://www.mediafire.com/file/fgrsecsgyk1vx80/nsmbwTexturePack-uhd.zip/file
+// popup confirmation for: https://www.mediafire.com/file/fgrsecsgyk1vx80/NSMBWii_TexturePack.zip/file
 function open_tp2() {
 	var r = confirm("Open link to external site:\nnsmbwTexturePack-uhd.zip - Download - Mediafire");
 	if (r == true) {
-		window.open("https://www.mediafire.com/file/fgrsecsgyk1vx80/nsmbwTexturePack-uhd.zip/file");
+		window.open("https://www.mediafire.com/file/fgrsecsgyk1vx80/NSMBWii_TexturePack.zip/file");
 	} else {
 		null
 	}
