@@ -36,6 +36,10 @@ body {
 	background-image: url("acnhBG.png");
 }
 
+grey {
+	color: #292929;
+}
+
 img, .noSelect {
     user-select: none;
 }

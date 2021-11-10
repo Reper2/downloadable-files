@@ -129,7 +129,7 @@ function open_acnhVid() {
 }
 
 // popup confirmation for: https://www.mediafire.com/file/fgrsecsgyk1vx80/nsmbwTexturePack-uhd.zip/file
-function open_nsmbwTexturePack() {
+function open_tp2() {
 	var r = confirm("Open link to external site:\nnsmbwTexturePack-uhd.zip - Download - Mediafire");
 	if (r == true) {
 		window.open("https://www.mediafire.com/file/fgrsecsgyk1vx80/nsmbwTexturePack-uhd.zip/file");
@@ -138,18 +138,18 @@ function open_nsmbwTexturePack() {
 	}
 }
 
-// popup confirmation for: https://gdbrowser.com/u/ReperGD2
-function open_menu_Reper2() {
-	var r = confirm("Open link to external site:\nReperGD2's Profile");
+// popup confirmation for: ../Reper2
+function open_Reper2() {
+	var r = confirm("Open link to external site:\nReper2 - reper2.github.io");
 	if (r == true) {
-		window.open("https://gdbrowser.com/u/ReperGD2");
+		window.open("https://reper2.github.io/Reper2");
 	} else {
 		null
 	}
 }
 
 // popup confirmation for: http://robtopgames.com
-function open_menu_RobTopGames() {
+function open_RobTopGames() {
 	var r = confirm("Open link to external site:\nRobTop's Website");
 	if (r == true) {
 		window.open("http://robtopgames.com");
@@ -160,7 +160,7 @@ function open_menu_RobTopGames() {
 
 
 // popup confirmation for: https://reper2.github.io/tools
-function open_menu_tools() {
+function open_tools() {
 	var r = confirm("Open link to external site:\nTools - reper2.github.io\n\nThis site may be unavailable, proceed anyway?");
 	if (r == true) {
 		window.open("https://reper2.github.io/tools");
@@ -170,7 +170,7 @@ function open_menu_tools() {
 }
 
 // popup confirmation for: https://github.com/Reper2/downloadable-files
-function open_menu_repo() {
+function open_repo() {
 	var r = confirm("Open link to external site:\nDownloadable Files - GitHub");
 	if (r == true) {
 		window.open("https://github.com/Reper2/downloadable-files");
@@ -179,20 +179,8 @@ function open_menu_repo() {
 	}
 }
 
-/**::placeholder, UNAVAILABLE
-// popup confirmation for: {relative url || absolute url}
-function open_menu_{function name} () {
-	var r = confirm("Open link to external site:\n{site name}");
-	if (r == true) {
-		window.open("{absolute url}");
-	} else {
-		null
-	}
-}
-*/
-
 // popup confirmation for: https://gdbrowser.com/u/ReperGD2
-function open_credits_gd1() {
+function open_gd1() {
 	var r = confirm("Open link to external site:\nReperGD2's Profile - GD Browser");
 	if (r == true) {
 		window.open("https://gdbrowser.com/u/ReperGD2");
@@ -202,7 +190,7 @@ function open_credits_gd1() {
 }
 
 // popup confirmation for: https://www.youtube.com/channel/UCofCDfLjs_TkiC-p0-k_9XA
-function open_credits_yt1() {
+function open_yt1() {
 	var r = confirm("Open link to external site:\nReper2 [GD] - YouTube");
 	if (r == true) {
 		window.open("https://www.youtube.com/channel/UCofCDfLjs_TkiC-p0-k_9XA");
@@ -212,7 +200,7 @@ function open_credits_yt1() {
 }
 
 // popup confirmation for: https://discord.gg/aaVjjZtQts > https://discord.com/invite/aaVjjZtQts
-function open_credits_discord1() {
+function open_discord1() {
 	var r = confirm("Open link to external site:\nReper2niverse - Discord");
 	if (r == true) {
 		window.open("https://discord.gg/aaVjjZtQts");
@@ -222,7 +210,7 @@ function open_credits_discord1() {
 }
 
 // popup confirmation for: https://github.com/Reper2
-function open_credits_github1() {
+function open_github1() {
 	var r = confirm("Open link to external site:\nReper2 - GitHub");
 	if (r == true) {
 		window.open("https://github.com/Reper2");
@@ -232,7 +220,7 @@ function open_credits_github1() {
 }
 
 // popup confirmation for: https://autocode.com/user/Reper2
-function open_credits_autocode1() {
+function open_autocode1() {
 	var r = confirm("Open link to external site:\nReper2 - AutoCode");
 	if (r == true) {
 		window.open("https://autocode.com/u/Reper2");
@@ -242,7 +230,7 @@ function open_credits_autocode1() {
 }
 
 // popup confirmation for: https://gdbrowser.com/u/RobTop
-function open_credits_gd2() {
+function open_gd2() {
 	var r = confirm("Open link to external site:\nRobTop's Profile - GD Browser");
 	if (r == true) {
 		window.open("https://gdbrowser.com/u/RobTop");
@@ -252,7 +240,7 @@ function open_credits_gd2() {
 }
 
 // popup confirmation for: https://youtube.com/channel/UCz_yk8mDSAnxJq0ar66L4sw
-function open_credits_yt2() {
+function open_yt2() {
 	var r = confirm("Open link to external site:\nRobTopGames - YouTube");
 	if (r == true) {
 		window.open("https://youtube.com/channel/UCz_yk8mDSAnxJq0ar66L4sw");
@@ -262,7 +250,7 @@ function open_credits_yt2() {
 }
 
 // popup confirmation for: https://twitter.com/RobTopGames
-function open_credits_twtr2() {
+function open_twtr2() {
 	var r = confirm("Open link to external site:\nRobTop Games - Twitter");
 	if (r == true) {
 		window.open("https://twitter.com/RobTopGames");
@@ -272,7 +260,7 @@ function open_credits_twtr2() {
 }
 
 // popup confirmation for: https://twitch.tv/RobTopGames
-function open_credits_twitch2() {
+function open_twitch2() {
 	var r = confirm("Open link to external site:\nRobTopGames - Twitch");
 	if (r == true) {
 		window.open("https://twitch.tv/RobTopGames");
@@ -296,6 +284,26 @@ function open_acnhPlaylist() {
 	var r = confirm("Open link to external site:\nAnimal Crossing New Horizons - Playlist - YouTube");
 	if (r == true) {
 		window.open("https://www.youtube.com/playlist?list=PLAAIA_nxitLcEdvzV_bsBsHLAGzq2FTAw");
+	} else {
+		null
+	}
+}
+
+// popup confirmation for: https://gdbrowser.com/u/ReperGD2
+function open_hofAuthor1() {
+	var r = confirm("Open link to external site:\nReper2's Profile - GD Browser");
+	if (r == true) {
+		window.open("https://gdbrowser.com/u/ReperGD2");
+	} else {
+		null
+	}
+}
+
+// popup confirmation for: https://gdbrowser.com/u/RifterGD
+function open_hofAuthor2() {
+	var r = confirm("Open link to external site:\nRifterGD's Profile - GD Browser");
+	if (r == true) {
+		window.open("https://gdbrowser.com/u/RifterGD");
 	} else {
 		null
 	}

@@ -825,18 +825,18 @@ function download_serverWebhooksB2() {
 	}
 }
 
-// download confirmation for: dividers.zip
-function download_divs() {
-	var r = confirm("Download:\ndividers.zip");
+// download confirmation for: div.zip
+function download_div() {
+	var r = confirm("Download:\ndiv.zip");
 	if (r == true) {
-		fetch('https://reper2.github.io/downloadable-files/dividers.zip')
+		fetch('https://reper2.github.io/downloadable-files/div.zip')
 			.then(resp => resp.blob())
 			.then(blob => {
 				const url = window.URL.createObjectURL(blob);
 				const a = document.createElement('a');
 				a.style.display = 'none';
 				a.href = url;
-				a.download = 'dividers.zip';
+				a.download = 'div.zip';
 				document.body.appendChild(a);
 				a.click();
 				window.URL.revokeObjectURL(url);
@@ -846,18 +846,18 @@ function download_divs() {
 	}
 }
 
-// download confirmation for: gdIcons
-function download_gdIcons() {
-	var r = confirm("Download:\ngdIcons.html");
+// download confirmation for: icons
+function download_icons() {
+	var r = confirm("Download:\nicons.html");
 	if (r == true) {
-		fetch('https://reper2.github.io/downloadable-files/gdIcons')
+		fetch('https://reper2.github.io/downloadable-files/icons')
 			.then(resp => resp.blob())
 			.then(blob => {
 				const url = window.URL.createObjectURL(blob);
 				const a = document.createElement('a');
 				a.style.display = 'none';
 				a.href = url;
-				a.download = 'gdIcons.html';
+				a.download = 'icons.html';
 				document.body.appendChild(a);
 				a.click();
 				window.URL.revokeObjectURL(url);
@@ -867,11 +867,11 @@ function download_gdIcons() {
 	}
 }
 
-// download confirmation for: gdIcons/player.zip
+// download confirmation for: icons/player.zip
 function download_iconPlayer() {
 	var r = confirm("Download:\nplayer.zip");
 	if (r == true) {
-		fetch('https://reper2.github.io/downloadable-files/gdIcons/player.zip')
+		fetch('https://reper2.github.io/downloadable-files/icons/player.zip')
 			.then(resp => resp.blob())
 			.then(blob => {
 				const url = window.URL.createObjectURL(blob);
@@ -888,11 +888,11 @@ function download_iconPlayer() {
 	}
 }
 
-// download confirmation for: gdIcons/ship.zip
+// download confirmation for: icons/ship.zip
 function download_iconShip() {
 	var r = confirm("Download:\nship.zip");
 	if (r == true) {
-		fetch('https://reper2.github.io/downloadable-files/gdIcons/ship.zip')
+		fetch('https://reper2.github.io/downloadable-files/icons/ship.zip')
 			.then(resp => resp.blob())
 			.then(blob => {
 				const url = window.URL.createObjectURL(blob);
@@ -909,11 +909,11 @@ function download_iconShip() {
 	}
 }
 
-// download confirmation for: gdIcons/player_ball.zip
+// download confirmation for: icons/player_ball.zip
 function download_iconBall() {
 	var r = confirm("Download:\nplayer_ball.zip");
 	if (r == true) {
-		fetch('https://reper2.github.io/downloadable-files/gdIcons/player_ball.zip')
+		fetch('https://reper2.github.io/downloadable-files/icons/player_ball.zip')
 			.then(resp => resp.blob())
 			.then(blob => {
 				const url = window.URL.createObjectURL(blob);
@@ -1056,18 +1056,18 @@ function download_iconExplosion() {
 	}
 }
 
-// download confirmation for: profilePictures.zip
+// download confirmation for: pfp.zip
 function download_pfp() {
-	var r = confirm("Download:\nprofilePictures.zip");
+	var r = confirm("Download:\npfp.zip");
 	if (r == true) {
-		fetch('https://reper2.github.io/downloadable-files/profilePictures.zip')
+		fetch('https://reper2.github.io/downloadable-files/pfp.zip')
 			.then(resp => resp.blob())
 			.then(blob => {
 				const url = window.URL.createObjectURL(blob);
 				const a = document.createElement('a');
 				a.style.display = 'none';
 				a.href = url;
-				a.download = 'profilePictures.zip';
+				a.download = 'pfp.zip';
 				document.body.appendChild(a);
 				a.click();
 				window.URL.revokeObjectURL(url);
@@ -1077,18 +1077,18 @@ function download_pfp() {
 	}
 }
 
-// download confirmation for: texturePacks
-function download_texturePacks() {
-	var r = confirm("Download:\ntexturePacks.html");
+// download confirmation for: tp
+function download_tp() {
+	var r = confirm("Download:\ntp.html");
 	if (r == true) {
-		fetch('https://reper2.github.io/downloadable-files/texturePacks')
+		fetch('https://reper2.github.io/downloadable-files/tp')
 			.then(resp => resp.blob())
 			.then(blob => {
 				const url = window.URL.createObjectURL(blob);
 				const a = document.createElement('a');
 				a.style.display = 'none';
 				a.href = url;
-				a.download = 'texturePacks.html';
+				a.download = 't-.html';
 				document.body.appendChild(a);
 				a.click();
 				window.URL.revokeObjectURL(url);
@@ -1098,18 +1098,18 @@ function download_texturePacks() {
 	}
 }
 
-// download confirmation for: texturePack-uhd.zip
-function download_texturePack() {
-	var r = confirm("Download:\ntexturePack-uhd.zip");
+// download confirmation for: Reper2_TexturePack-uhd.zip
+function download_tp1() {
+	var r = confirm("Download:\nReper2_TexturePack-uhd.zip");
 	if (r == true) {
-		fetch('https://reper2.github.io/downloadable-files/texturePack-uhd.zip')
+		fetch('https://reper2.github.io/downloadable-files/Reper2_TexturePack-uhd.zip')
 			.then(resp => resp.blob())
 			.then(blob => {
 				const url = window.URL.createObjectURL(blob);
 				const a = document.createElement('a');
 				a.style.display = 'none';
 				a.href = url;
-				a.download = 'texturePack-uhd.zip';
+				a.download = 'Reper2_TexturePack-uhd.zip';
 				document.body.appendChild(a);
 				a.click();
 				window.URL.revokeObjectURL(url);
@@ -1441,5 +1441,47 @@ function download_hof8() {
 			})
 	} else {
 		window.open('https://reper2.github.io/downloadable-files/hof/IMG_008.png')
+	}
+}
+
+// download confirmation for: hof/IMG_009.mp4
+function download_hof9() {
+	var r = confirm("Download:\nIMG_009.mp4");
+	if (r == true) {
+		fetch('https://reper2.github.io/downloadable-files/hof/IMG_009.mp4')
+			.then(resp => resp.blob())
+			.then(blob => {
+				const url = window.URL.createObjectURL(blob);
+				const a = document.createElement('a');
+				a.style.display = 'none';
+				a.href = url;
+				a.download = 'IMG_009.mp4';
+				document.body.appendChild(a);
+				a.click();
+				window.URL.revokeObjectURL(url);
+			})
+	} else {
+		window.open('https://reper2.github.io/downloadable-files/hof/IMG_009.mp4')
+	}
+}
+
+// download confirmation for: hof/IMG_0010.gif
+function download_hof10() {
+	var r = confirm("Download:\nIMG_0010.gif");
+	if (r == true) {
+		fetch('https://reper2.github.io/downloadable-files/hof/IMG_0010.gif')
+			.then(resp => resp.blob())
+			.then(blob => {
+				const url = window.URL.createObjectURL(blob);
+				const a = document.createElement('a');
+				a.style.display = 'none';
+				a.href = url;
+				a.download = 'IMG_0010.gif';
+				document.body.appendChild(a);
+				a.click();
+				window.URL.revokeObjectURL(url);
+			})
+	} else {
+		window.open('https://reper2.github.io/downloadable-files/hof/IMG_0010.gif')
 	}
 }
