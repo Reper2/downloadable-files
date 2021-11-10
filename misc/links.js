@@ -210,7 +210,7 @@ function open_discord1() {
 }
 
 // popup confirmation for: https://github.com/Reper2
-function open_github1() {
+function open_gh1() {
 	var r = confirm("Open link to external site:\nReper2 - GitHub");
 	if (r == true) {
 		window.open("https://github.com/Reper2");
