@@ -1098,18 +1098,18 @@ function download_tp() {
 	}
 }
 
-// download confirmation for: Reper2_TexturePack-uhd.zip
+// download confirmation for: Reper2_TexturePack.zip
 function download_tp1() {
-	var r = confirm("Download:\nReper2_TexturePack-uhd.zip");
+	var r = confirm("Download:\nReper2_TexturePack.zip");
 	if (r == true) {
-		fetch('https://reper2.github.io/downloadable-files/Reper2_TexturePack-uhd.zip')
+		fetch('https://reper2.github.io/downloadable-files/Reper2_TexturePack.zip')
 			.then(resp => resp.blob())
 			.then(blob => {
 				const url = window.URL.createObjectURL(blob);
 				const a = document.createElement('a');
 				a.style.display = 'none';
 				a.href = url;
-				a.download = 'Reper2_TexturePack-uhd.zip';
+				a.download = 'Reper2_TexturePack.zip';
 				document.body.appendChild(a);
 				a.click();
 				window.URL.revokeObjectURL(url);
