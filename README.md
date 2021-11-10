@@ -6,8 +6,8 @@
 # Abbreviations
 
     Abbreviation | Meaning
-    tp           | texture pack(s)
-    div          | divider(s)
+    tp           | texture pack
+    div          | divider
     acnh         | Animal Crossing New Horizons
     nsmbw        | New Super Mario Bros. Wii
     bg           | background
