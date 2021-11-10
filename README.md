@@ -21,10 +21,6 @@
     acc          | account
     ac           | Autocode
     
-# Additional File Downloads
-### [`/downloadable-files/assets`](https://reper2.github.io/downloadable-files/assets.zip)
-### [`/downloadable-files/master`](archive/refs/heads/master.zip)
-
 # License
 This project is released under the MIT license.
 
