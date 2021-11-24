@@ -1,12 +1,13 @@
 <head>
   	<title>Account</title>
   	<meta charset="utf-8">
-  	<link href="../assets/browser.css" rel="stylesheet" type="text/css">
-	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-135255146-3"></script><script>window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'UA-135255146-3');</script>
-  	<link rel="icon" href="../assets/discord.png">
-	<meta id="meta-title" property="og:title" content="Reper2's Discord Account - Downloadable Files">
+  	<link href="../src/css/site.css" rel="stylesheet" type="text/css">
+	<link href="../src/css/iconkit.css" rel="stylesheet" type="text/css">
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-1MM0E339JK"></script><script>window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'G-1MM0E339JK');</script>
+  	<link rel="icon" href="../src/discord.png">
+	<meta id="meta-title" property="og:title" content="Discord Account - Downloadable Files">
   	<meta id="meta-desc" property="og:description" content="Browse Reper2's Discord account files!">
-  	<meta id="meta-image" name="og:image" itemprop="image" content="https://reper2.github.io/downloadable-files/assets/category-discord.png">
+  	<meta id="meta-image" name="og:image" itemprop="image" content="https://reper2.github.io/downloadable-files/src/category-discord.png">
 	<meta name="theme-color" content="#14d8ee">
   	<meta name="twitter:card" content="summary">
 </head>
@@ -16,36 +17,61 @@
 <div id="everything">
 
 	<div style="position:absolute; bottom: 0%; left: 0%; width: 100%; pointer-events: none">
-		<img class="cornerPiece" src="../assets/corner.png" width="7%;">
+		<img class="cornerPiece weekly" src="../src/corner.png" width="7%;">
+	</div>
+	
+	<div style="position:absolute; top: 0%; left: 0%; width: 100%; pointer-events: none; text-align: left;">
+		<img class="cornerPiece weekly" src="../src/corner.png" width="7%;" style="transform: scaleX(1) scaleY(-1)">
+	</div>
+	
+	<div style="position:absolute; top: 0%; right: 0%; width: 100%; pointer-events: none; text-align: right;">
+		<img class="cornerPiece weekly" src="../src/corner.png" width="7%;" style="transform: scaleX(-1) scaleY(-1)">
 	</div>
 	
 	<div style="position:absolute; bottom: 0%; right: 0%; width: 100%; text-align: right;">
-		<img class="cornerPiece" src="../assets/corner.png" width="7%;" style="transform: scaleX(-1)">
+		<img class="cornerPiece weekly" src="../src/corner.png" width="7%;" style="transform: scaleX(-1)">
 	</div>
 	
 	<div style="position:absolute; top: 2%; left: 1.5%; width: 10%; height: 25%; pointer-events: none">
-		<img class="gdButton yesClick" id="backButton" title="Back Button" src="../assets/back.png" height="30%" onclick="backButton()">
+		<img class="gdButton yesClick" id="backButton" src="../src/back.png" height="30%" onclick="backButton()">
 	</div>
 	
-	<div class="brownBox center supercenter" style="width: 135vh; height: 82%; margin-top: -0.7%">
+	<div class="center supercenter" style="width: 135vh; height: 82%; margin-top: -0.7%">
 		<div class="center" width="100%" style="margin-top: 1%">
 			<h2>
-				<a onclick="download_acc()" title="Account&#xa;https://reper2.github.io/downloadable-files/discord/account" class="help">Account</a>
+				<a onclick="discord_acc()" class="pointer">Account</a>
 			</h2>
       
-			<br>
-     
-			<div class="lightBox center" style="margin: 2% auto; width: 105vh">
-				<h1>
-					<a href="account/applications" title="Applications&#xa;https://reper2.github.io/downloadable-files/discord/account/applications" class="help">Applications</a>
-					<br>
-					<a onclick="download_avatar()" title="Avatar&#xa;https://reper2.github.io/downloadable-files/discord/account/avatar.png" class="help">Avatar</a>
-				</h1>
+			<div id="iconbox" style="min-height: 145px; display: inline-flex">
+				<img id="loading" src="../src/loading.png" class="spin" height="85px;" style="display: none; align-self: center;">
+				<img id="result" src="../src/discord.png" width="145" height="145" style="display: flex; align-self: flex-end">
+			</div>
+			
+			<hr id="gdfloor" style="margin-top: 0px;">
+		
+			<div id="iconKitParent" class="iconKit noDarken">
+				<div id="iconprogressbar">
+					<div id="iconloading" style="width: 100%;"></div>
+				</div>
+			
+				<div id="iconprogressbar">
+						<div id="iconloading" style="width: 100%;"></div>
+				</div><div id="cubes">
+					<div class="center" style="margin: 2% auto; width: 105vh">
+						<h1>
+							<a href="account/applications" class="pointer">Applications</a>
+							<br>
+							<a onclick="discord_avatar()" class="pointer">Avatar</a>
+						</h1>
+					</div>
+				</div>
 			</div>
 		</div>
 	</div>
+</div>
+
 </body>
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-<script type="text/javascript" src="../misc/sizecheck.js?"></script>
-<script type="text/javascript" src="../misc/dragscroll.js"></script>
-<script type="text/javascript" src="../misc/downloads.js?"></script>
+<script type="text/javascript" src="../scripts/sizecheck.js"></script>
+<script type="text/javascript" src="../scripts/dragscroll.js"></script>
+<script type="text/javascript" src="../scripts/downloads.js"></script>

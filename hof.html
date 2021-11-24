@@ -1,13 +1,13 @@
 <head>
   	<title>Hall of Fame</title>
   	<meta charset="utf-8">
-  	<link href="assets/browser.css" rel="stylesheet" type="text/css">
-	<link href="assets/iconkit.css" rel="stylesheet" type="text/css">
-	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-135255146-3"></script><script>window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'UA-135255146-3');</script>
-  	<link rel="icon" href="assets/coin.png">
+  	<link href="src/css/site.css" rel="stylesheet" type="text/css">
+	<link href="src/css/iconkit.css" rel="stylesheet" type="text/css">
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-1MM0E339JK"></script><script>window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'G-1MM0E339JK');</script>
+  	<link rel="icon" href="src/coin.png">
 	<meta id="meta-title" property="og:title" content="Hall of Fame - Downloadable Files">
   	<meta id="meta-desc" property="og:description" content="Browse and download Reper2's files in the Hall of Fame!">
-  	<meta id="meta-image" name="og:image" itemprop="image" content="https://reper2.github.io/downloadable-files/assets/category-hof.png">
+  	<meta id="meta-image" name="og:image" itemprop="image" content="https://reper2.github.io/downloadable-files/src/category-hof.png">
 	<meta name="theme-color" content="#14d8ee">
   	<meta name="twitter:card" content="summary">
 </head>
@@ -17,70 +17,54 @@
 <div id="everything">
 	
 	<div style="position:absolute; bottom: 0%; left: 0%; width: 100%; pointer-events: none">
-		<img class="cornerPiece" src="assets/corner.png" width="7%;">
+		<img class="cornerPiece" src="src/corner.png" width="7%;">
 	</div>
 	
 	<div style="position:absolute; bottom: 0%; right: 0%; width: 100%; text-align: right;">
-		<img class="cornerPiece" src="assets/corner.png" width="7%;" style="transform: scaleX(-1)">
+		<img class="cornerPiece" src="src/corner.png" width="7%;" style="transform: scaleX(-1)">
 	</div>
 	
 	<div style="position:absolute; top: 2%; left: 1.5%; width: 10%; height: 25%; pointer-events: none">
-		<img class="gdButton yesClick" id="backButton" src="assets/back.png" height="30%" onclick="backButton()">
+		<img class="gdButton yesClick" id="backButton" src="src/back.png" height="30%" onclick="backButton()">
 	</div>
 	
 	<div class="center supercenter" style="width: 135vh; height: 82%; margin-top: -0.7%">
 		<div class="center" width="100%" style="margin-top: 2%">
 			<h2>
-				<a onclick="download_hof()" title="Hall of Fame"><img src="assets/label-hof.png" style="width: 69%; height: 15%"></a>
+				<a onclick="hof()" class="pointer"><img src="src/label-hof.png" style="width: 69%; height: 15%"></a>
 			</h2>
-		</div>
-		
-		<div id="iconbox" style="min-height: 145px; display: inline-flex">
-			<img id="loading" src="assets/loading.png" class="spin" height="85px;" style="display: none; align-self: center;">
-			<img id="result" src="assets/coin.png" width="145" height="145" style="display: flex; align-self: flex-end">
 		</div>
 		
 		<hr id="gdfloor" style="margin-top: 0px;">
 		
-		<div id="iconKitParent" class="iconKit noDarken">
-            <div id="iconprogressbar">
-                <div id="iconloading" style="width: 100%;"></div>
-            </div>
-			
-			<div id="iconprogressbar">
-					<div id="iconloading" style="width: 100%;"></div>
-            </div><div id="cubes">
-				<div class="center" style="margin: 2% auto; width: 118.125vh">
-					<h3>
-						<a onclick="download_hof1()" title="Reper2 Bot Pfp #3&#xa;/hof/IMG_001.PNG" class="help"><ca>Reper2 Bot:</ca> Pfp #3</a> <a onclick="open_hofAuthor1()" title="Reper2&#xa;https://gdbrowser.com/u/ReperGD2" class="help"><co>By Reper2</co></a>
-						<br>
-						<a onclick="download_hof2()" title="Reper2: Pfp #24 [avatar]&#xa;/hof/IMG_002.png" class="help"><ca>Reper2:</ca> Pfp #24 <cg>[avatar]</cg></a> <a onclick="open_hofAuthor2()" title="Rift&#xa;https://gdbrowser.com/u/RifterGD" class="help"><co>By Rift</co></a>
-						<br>
-						<a onclick="download_hof3()" title="Reper2: Pfp #24 [banner]&#xa;/IMG_003.png" class="help"><ca>Reper2:</ca> Pfp #24 <cg>[banner]</cg></a> <a onclick="open_hofAuthor2()" title="Rift&#xa;https://gdbrowser.com/u/RifterGD" class="help"><co>By Rift</co></a>
-						<br>
-						<a onclick="download_hof4()" title="Reper2niverse: Icon #2&#xa;/hof/IMG_004.png" class="help"><ca>Reper2niverse:</ca> Icon #2</a> <a onclick="open_hofAuthor1()" title="Reper2&#xa;https://gdbrowser.com/u/ReperGD2" class="help"><co>By Reper2</co></a>
-						<br>
-						<a onclick="download_hof5()" title="Reper2niverse: Icon #3&#xa;/hof/IMG_005.png" class="help"><ca>Reper2niverse:</ca> Icon #3</a> <a onclick="open_hofAuthor1()" title="Reper2&#xa;https://gdbrowser.com/u/ReperGD2" class="help"><co>By Reper2</co></a>
-						<br>
-						<a onclick="download_hof6()" title="Reper2 Bot: Pfp #4 [large]&#xa;/hof/IMG_006.png" class="help"><ca>Reper2 Bot:</ca> Pfp #4 <cg>[large]</cg></a> <a onclick="open_hofAuthor2()" title="Rift&#xa;https://gdbrowser.com/u/RifterGD" class="help"><co>By Rift</co></a>
-						<br>
-						<a onclick="download_hof7()" title="Reper2 Bot: Pfp #4 [small]&#xa;/hof/IMG_007.png" class="help"><ca>Reper2 Bot:</ca> Pfp #4 <cg>[small]</cg></a> <a onclick="open_hofAuthor2()" title="Rift&#xa;https://gdbrowser.com/u/RifterGD" class="help"><co>By Rift</co></a>
-						<br>
-						<a onclick="download_hof8()" title="Reper2 Bot: Pfp #4 (alt) [large]&#xa;/hof/IMG_008.png" class="help"><ca>Reper2 Bot:</ca> Pfp #4 <cp>(alt)</cp> <cg>[large]</cg></a> <a onclick="open_hofAuthor2()" title="Rift&#xa;https://gdbrowser.com/u/RifterGD" class="help"><co>By Rift</co></a>
-						<br>
-						<a onclick="download_hof9()" title="Reper2niverse: Icon #4 [MP4]&#xa;/hof/IMG_009.mp4" class="help"><ca>Reper2niverse:</ca> Icon #4 <cg>[MP4]</cg></a> <a onclick="open_hofAuthor1()" title="Reper2&#xa;https://gdbrowser.com/u/ReperGD2" class="help"><co>By Reper2</co></a>
-						<br>
-						<a onclick="download_hof10()" title="Reper2niverse: Icon #4 [GIF]&#xa;/hof/IMG_010.gif" class="help"><ca>Reper2niverse:</ca> Icon #4 <cg>[GIF]</cg></a> <a onclick="open_hofAuthor1()" title="Reper2&#xa;https://gdbrowser.com/u/ReperGD2" class="help"><co>By Reper2</co></a>
-					</h3>
-				</div>
-			</div>
+		<div class="center" style="margin: 2% auto; width: 118.125vh">
+			<h1>
+				<a onclick="hof_01()" class="pointer"><ca>Reper2 Bot:</ca> Pfp #3</a>
+				<br>
+				<a onclick="hof_02()" class="pointer"><ca>Reper2:</ca> Pfp #24 <cg>[avatar]</cg></a>
+				<br>
+				<a onclick="hof_03()" class="pointer"><ca>Reper2:</ca> Pfp #24 <cg>[banner]</cg></a>
+				<br>
+				<a onclick="hof_04()" class="pointer"><ca>Reper2niverse:</ca> Icon #2</a>
+				<br>
+				<a onclick="hof_05()" class="pointer"><ca>Reper2niverse:</ca> Icon #3</a>
+				<br>
+				<a onclick="hof_06()" class="pointer"><ca>Reper2 Bot:</ca> Pfp #4 <cg>[large]</cg></a>
+				<br>
+				<a onclick="hof_07()" class="pointer"><ca>Reper2 Bot:</ca> Pfp #4 <cg>[small]</cg></a>
+				<br>
+				<a onclick="hof_08()" class="pointer"><ca>Reper2 Bot:</ca> Pfp #4 <cp>(alt)</cp> <cg>[large]</cg></a>
+				<br>
+				<a onclick="hof_09()" class="pointer"><ca>Reper2niverse:</ca> Icon #4 <cg>[MP4]</cg></a>
+				<br>
+				<a onclick="hof_10()" class="pointer"><ca>Reper2niverse:</ca> Icon #4 <cg>[GIF]</cg></a>
+			</h1>
 		</div>
 	</div>
 </div>
 
 </body>
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-<script type="text/javascript" src="misc/sizecheck.js?"></script>
-<script type="text/javascript" src="misc/dragscroll.js?"></script>
-<script type="text/javascript" src="misc/downloads.js?"></script>
-<script type="text/javascript" src="misc/links.js?"></script>
+<script type="text/javascript" src="scripts/sizecheck.js"></script>
+<script type="text/javascript" src="scripts/dragscroll.js"></script>
+<script type="text/javascript" src="scripts/downloads.js"></script>
