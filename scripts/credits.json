@@ -6,7 +6,7 @@
             "youtube": ["https://www.youtube.com/channel/UCofCDfLjs_TkiC-p0-k_9XA", "youtube"],
             "discord": ["https://discord.gg/aaVjjZtQts", "discord"],
             "github": ["https://github.com/Reper2", "github"],
-            "geometry dash": ["https://gdbrowser.com/u/ReperGD2", "geometry dash"],
+            "autocode": ["https://autocode.com/user/Reper2", "autocode"],
         },
 
         {
@@ -14,7 +14,7 @@
             "name": "RobTop",
             "youtube": ["https://youtube.com/channel/UCz_yk8mDSAnxJq0ar66L4sw", "youtube"],
             "twitter": ["https://twitter.com/RobTopGames", "twitter"],
-            "github": ["https://twitch.tv/RobTopGames", "twitch"]
+            "twitch": ["https://twitch.tv/RobTopGames", "twitch"]
         }
     ]
 }

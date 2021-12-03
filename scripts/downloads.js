@@ -60,7 +60,8 @@ function acnh_designs() {
 
 function acnh_img() {
 	var r = confirm("Download:\nimg.zip");
-	if (r == true) {fetch('https://reper2.github.io/downloadable-files/acnh/img.zip')
+	if (r == true) {
+		fetch('https://reper2.github.io/downloadable-files/acnh/img.zip')
 			.then(resp => resp.blob())
 			.then(blob => {
 				const url = window.URL.createObjectURL(blob);
@@ -1037,17 +1038,17 @@ function extra() {
 	}
 }
 
-function src() {
-	var r = confirm("Download:\nsrc.zip");
+function assets() {
+	var r = confirm("Download:\nassets.zip");
 	if (r == true) {
-		fetch('https://reper2.github.io/downloadable-files/src.zip')
+		fetch('https://reper2.github.io/downloadable-files/assets.zip')
 			.then(resp => resp.blob())
 			.then(blob => {
 				const url = window.URL.createObjectURL(blob);
 				const a = document.createElement('a');
 				a.style.display = 'none';
 				a.href = url;
-				a.download = 'src.zip';
+				a.download = 'assets.zip';
 				document.body.appendChild(a);
 				a.click();
 				window.URL.revokeObjectURL(url);
@@ -1057,7 +1058,7 @@ function src() {
 	}
 }
 
-function scripts() {
+function scr() {
 	var r = confirm("Download:\nscripts.zip");
 	if (r == true) {
 		fetch('https://reper2.github.io/downloadable-files/scripts.zip')

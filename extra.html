@@ -1,13 +1,20 @@
 <head>
-  	<title>More Downloads</title>
+  	<title>Extra Downloads - Downloadable Files</title>
   	<meta charset="utf-8">
-  	<link href="assets/browser.css" rel="stylesheet" type="text/css">
-	<link href="assets/iconkit.css" rel="stylesheet" type="text/css">
-	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-135255146-3"></script><script>window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'UA-135255146-3');</script>
-	<link rel="icon" href="assets/download.png">
-	<meta id="meta-title" property="og:title" content="More/Other Downloads - Reper2's Downloadable Files">
-  	<meta id="meta-desc" property="og:description" content="Browse and download Reper2's files: downloadable-files/assets, downloadable-files/classes, downloadable-files/misc!">
-  	<meta id="meta-image" name="og:image" itemprop="image" content="https://reper2.github.io/downloadable-files/assets/download.png">
+  	<link href="assets/css/site.css" rel="stylesheet" type="text/css">
+	<link href="assets/css/iconkit.css" rel="stylesheet" type="text/css">
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-1MM0E339JK"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', 'G-1MM0E339JK');
+	</script>
+	<link rel="icon" href="assets/plus.png">
+	<meta id="meta-title" property="og:title" content="Extra Downloads - Downloadable Files">
+  	<meta id="meta-desc" property="og:description" content="Download files not downloadable anywhere else on the site!">
+  	<meta id="meta-image" name="og:image" itemprop="image" content="https://reper2.github.io/downloadable-files/assets/plus.png">
 	<meta name="theme-color" content="#14d8ee">
   	<meta name="twitter:card" content="summary">
 </head>
@@ -25,13 +32,13 @@
 	</div>
   
 	<div style="position:absolute; top: 2%; left: 1.5%; width: 10%; height: 25%; pointer-events: none">
-		<img class="gdButton yesClick" id="backButton" title="Back Button" src="assets/back.png" height="30%" onclick="backButton()">
+		<img class="gdButton yesClick" id="backButton" src="assets/back.png" height="30%" onclick="backButton()">
 	</div>
 	
 	<div class="center supercenter" style="width: 135vh; height: 82%; margin-top: -0.7%">
 		<div class="center" width="100%" style="margin-top: 2%">
 			<h2>
-				<a onclick="download_moreDownloads()" title="More Downloads" class="help">More Downloads</a>
+				<a onclick="extra()" class="pointer">Extra Downloads</a>
 			</h2>
 		</div>
 		
@@ -39,7 +46,7 @@
 		
 		<div id="iconbox" style="min-height: 145px; display: inline-flex">
 			<img id="loading" src="assets/loading.png" class="spin" height="85px;" style="display: none; align-self: center;">
-			<img id="result" src="assets/download.png" width="145" height="145" style="display: flex; align-self: flex-end;">
+			<img id="result" src="assets/plus.png" width="145" height="145" style="display: flex; align-self: flex-end;">
 		</div>
 		
 		<hr id="gdfloor" style="margin-top: 0px;">
@@ -53,15 +60,13 @@
             </div><div id="cubes">
 				<div class="center" style="margin: 2% auto; width: 118.125vh">
 					<h1>
-						<a onclick="download_assets()" title="Assets&#xa;/assets.zip" class="help">Assets</a>
+						<a onclick="assets()" class="pointer">Assets</a>
 						<br>
-						<a onclick="download_classes()" title="Classes&#xa;/classes.zip" class="help">Classes</a>
+						<a onclick="scr()" class="pointer">Scripts</a>
 						<br>
-						<a onclick="download_misc()" title="Misc&#xa;/misc.zip" class="help">Misc</a>
+						<a onclick="fourZeroFour_a()" class="pointer">404 <cg>[html]</cg></a>
 						<br>
-						<a onclick="download_404a()" title="404 (html)&#xa;/404.html" class="help">404 (html)</a>
-						<br>
-						<a onclick="download_404b()" title="404 (md)&#xa;/404.md" class="help">404 (md)</a>
+						<a onclick="fourZeroFour_b()" class="pointer">404 <cg>[md]</cg></a>
 					</h1>
 				</div>
 			</div>
@@ -71,6 +76,6 @@
 
 </body>
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-<script type="text/javascript" src="misc/sizecheck.js?"></script>
-<script type="text/javascript" src="misc/dragscroll.js?"></script>
-<script type="text/javascript" src="misc/downloads.js?"></script>
+<script type="text/javascript" src="scripts/sizecheck.js"></script>
+<script type="text/javascript" src="scripts/dragscroll.js"></script>
+<script type="text/javascript" src="scripts/downloads.js"></script>

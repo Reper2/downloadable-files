@@ -1,13 +1,20 @@
 <head>
-  	<title>GD Icons</title>
-  	<meta charset="utf-8">
-  	<link href="assets/browser.css" rel="stylesheet" type="text/css">
-	<link href="assets/iconkit.css" rel="stylesheet" type="text/css">
-	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-135255146-3"></script><script>window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'UA-135255146-3');</script>
-  	<link rel="icon" href="assets/goldCube.png">
-	<meta id="meta-title" property="og:title" content="GD Icons - Reper2's Downloadable Files">
-  	<meta id="meta-desc" property="og:description" content="View, browse and download Reper2's GD icons!">
-  	<meta id="meta-image" name="og:image" itemprop="image" content="https://reper2.github.io/downloadable-files/assets/category-gdIcons.png">
+  	<title>GD Icons - Downloadable Files</title>
+  	<meta charset="UTF-8">
+  	<link href="assets/css/site.css" rel="stylesheet" type="text/css">
+	<link href="assets/css/iconkit.css" rel="stylesheet" type="text/css">
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-1MM0E339JK"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', 'G-1MM0E339JK');
+	</script>
+  	<link rel="icon" href="assets/player.png">
+	<meta id="meta-title" property="og:title" content="GD Icons - Downloadable Files">
+  	<meta id="meta-desc" property="og:description" content="View and download ReperGD2's cube, ship, ball, wave/dart, !">
+  	<meta id="meta-image" name="og:image" itemprop="image" content="https://reper2.github.io/downloadable-files/assets/category-icons.png">
 	<meta name="theme-color" content="#14d8ee">
   	<meta name="twitter:card" content="summary">
 </head>
@@ -31,7 +38,7 @@
 	<div class="center supercenter" style="width: 135vh; height: 82%; margin-top: -0.7%">
 		<div class="center" width="100%" style="margin-top: 2%">
 			<h2>
-				<a onclick="download_gdIcons()" title="GD Icons" class="help">GD Icons</a>
+				<a onclick="icons()" class="pointer">GD Icons</a>
 			</h2>
 		</div>
         
@@ -39,7 +46,7 @@
 		
 		<div id="iconbox" style="min-height: 145px; display: inline-flex">
 			<img id="loading" src="assets/loading.png" class="spin" height="85px;" style="display: none; align-self: center;">
-			<img id="result" src="assets/goldCube.png" style="display: flex; align-self: flex-end;">
+			<img id="result" src="assets/player.png" style="display: flex; align-self: flex-end;">
 		</div>
 		
 		<hr id="gdfloor" style="margin-top: 0px;">
@@ -65,23 +72,23 @@
             </div><div id="cubes">
 				<div class="center" style="margin: 2% auto; width: 118.125vh">
 					<h1>
-						<a onclick="download_iconPlayer()" title="Player 132&#xa;/gdIcons/player.zip" class="help">Cube</a>
+						<a onclick="icon_player()" class="pointer">Cube</a>
 						<br>
-						<a onclick="download_iconShip()" title="Ship 17&#xa;/gdIcons/ship.zip" class="help">Ship</a>
+						<a onclick="icon_ship()" class="pointer">Ship</a>
 						<br>
-						<a onclick="download_iconBall()" title="Player Ball 33&#xa;/gdIcons/player_ball.zip" class="help">Ball</a>
+						<a onclick="icon_ball()" class="pointer">Ball</a>
 						<br>
-						<a onclick="download_iconBird()" title="Bird 10&#xa;/gdIcons/bird.zip" class="help">Ufo</a>
+						<a onclick="icon_bird()" class="pointer">UFO</a>
 						<br>
-						<a onclick="download_iconDart()" title="Dart 31&#xa;/gdIcons/dart.zip" class="help">Wave</a>
+						<a onclick="icon_dart()" class="pointer">Wave</a>
 						<br>
-						<a onclick="download_iconRobot()" title="Robot 25&#xa;/gdIcons/robot.zip" class="help">Robot</a>
+						<a onclick="icon_robot()" class="pointer">Robot</a>
 						<br>
-						<a onclick="download_iconSpider()" title="Spider 14&#xa;/gdIcons/spider.zip" class="help">Spider</a>
+						<a onclick="icon_spider()" class="pointer">Spider</a>
 						<br>
-						<a onclick="download_iconSpecial()" title="Player Special 02&#xa;/gdIcons/player_special.zip" class="help">Trail</a>
+						<a onclick="icon_special()" class="pointer">Trail</a>
 						<br>
-						<a onclick="download_iconExplosion()" title="Explosion 11&#xa;/gdIcons/explosion.zip" class="help">Death Effect</a>
+						<a onclick="icon_explosion()" class="pointer">Death Effect</a>
 					</h1>
 				</div>
 			</div>
@@ -91,6 +98,6 @@
 
 </body>
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-<script type="text/javascript" src="misc/sizecheck.js?"></script>
-<script type="text/javascript" src="misc/dragscroll.js?"></script>
-<script type="text/javascript" src="misc/downloads.js?"></script>
+<script type="text/javascript" src="scripts/sizecheck.js"></script>
+<script type="text/javascript" src="scripts/dragscroll.js"></script>
+<script type="text/javascript" src="scripts/downloads.js"></script>
