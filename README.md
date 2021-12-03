@@ -20,6 +20,7 @@
     404          | Error 404
     acc          | account
     ac           | Autocode
+    scr          | script
     
 # License
 This project is released under the MIT license.
