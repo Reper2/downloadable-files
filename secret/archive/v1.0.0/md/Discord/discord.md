@@ -1,6 +1,6 @@
 # /Discord
 Please select a file or directory:
-[⬅back](../index)
+[⬅back](https://reper2.github.io/downloadable-files/secret/archive/v1.0.0/index)
 
-[📁Reper2's Servers](guilds/guilds)
-[🖼Reper2's Discord Profile Picture](Reper2_discordPfp_001.png)
+[📁Reper2's Servers](https://reper2.github.io/downloadable-files/secret/archive/v1.0.0/md/Discord/guilds/guilds)
+[🖼Reper2's Discord Profile Picture](https://reper2.github.io/downloadable-files/secret/archive/v1.0.0/Discord/Reper2_discordPfp_001.png)
