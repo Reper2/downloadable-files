@@ -3,5 +3,5 @@
 [My Servers](https://reper2.github.io/downloadable-files/secret/archive/v1.1.0/discord/guilds)
 ---
 
-[Current Profile Picture](https://cdn.discordapp.com/avatars/771605101550632970/ab9144fb4360ec9ba24af24caebc31ae.png)
+[Current Profile Picture](https://cdn.discordapp.com/avatars/771605101550632970/d1561ae1624622e8bb3e27b647cf79d3?size=1024)
 ---
