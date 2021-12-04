@@ -6,16 +6,16 @@
 
 ---
 
-# Index [![download](https://cdn.discordapp.com/emojis/885670815725674527.png?size=32)](https://raw.githubusercontent.com/Reper2/Downloadable-Files/master/index.md)
+# Index [![download](https://cdn.discordapp.com/emojis/885670815725674527.png?size=32)](https://raw.githubusercontent.com/Reper2/downloadable-files/master/secret/archive/v1.1.0/index.md)
 
-[Discord](https://reper2.github.io/Downloadable-Files/discord)
+[Discord](https://reper2.github.io/downloadable-files/secret/archive/v1.1.0/discord)
 ---
 
-[My GD Icons](https://reper2.github.io/Downloadable-Files/gd-icons)
+[My GD Icons](https://reper2.github.io/downloadable-files/secret/archive/v1.1.0/gd-icons)
 ---
 
-[My Texture Pack](https://reper2.github.io/Downloadable-Files/texture-pack)
+[My Texture Pack](https://reper2.github.io/downloadable-files/secret/archive/v1.1.0/texture-pack)
 ---
 
-[Profile Pictures](https://reper2.github.io/Downloadable-Files/pfp)
+[Profile Pictures](https://reper2.github.io/downloadable-files/secret/archive/v1.1.0/pfp)
 ---
