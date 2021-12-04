@@ -7,12 +7,9 @@
 {resources}  
 -----------------------------------------------------------------------------------------------------------------------  
 Discord ⮚ Reper2#8878, 🔗https://discord.gg/aaVjjZtQts🔗  
-
 Geometry Dash ⮚ 🔗https://gdbrowser.com/u/ReperGD2🔗  
-  
 GitHub ⮚ 🔗https://github.com/Reper2🔗  
-  
-AutoCode ⮚ 🔗https://autocode.com/user/Reper2🔗  
+Autocode ⮚ 🔗https://autocode.com/user/Reper2🔗  
 -----------------------------------------------------------------------------------------------------------------------  
 #Reper2  
 {hashtags}  
