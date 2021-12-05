@@ -251,6 +251,7 @@ a {
     -webkit-text-stroke-width: inherit;
     -webkit-text-stroke-color: inherit;
     text-shadow: inherit;
+	cursor: pointer;
 }
 
 hr {
