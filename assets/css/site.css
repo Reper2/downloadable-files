@@ -44,7 +44,7 @@ body {
   font-family: 'Super Mario 256', sans-serif;
 }
 
-.discord-mention {
+discord-mention {
 	border-radius: 3px;
 	padding: 0 2px;
 	background-color: #5865F24D;
