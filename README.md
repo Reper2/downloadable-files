@@ -17,7 +17,7 @@
     repo         | repository
     yt           | YouTube
     app          | application
-    404          | Error 404
+    404          | error 404
     acc          | account
     ac           | Autocode
     scr          | script
