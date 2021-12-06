@@ -32,36 +32,6 @@ body {
 	background-image: linear-gradient(rgb(139, 139, 139), rgb(100, 100, 100)) !important;
 }
 
-.acnhBG {
-	background-image: url("../acnh/background.png");
-}
-
-.nsmbwBG {
-	background-image: url("../nsmbw/background.png");
-}
-
-.SuperMario256 {
-  font-family: 'Super Mario 256', sans-serif;
-}
-
-discord-mention {
-	border-radius: 3px;
-	padding: 0 2px;
-	background-color: #5865F24D;
-	color: #DEE0FC;
-	cursor: pointer;
-}
-
-.yt-link {
-	color: 348DFF;
-	cursor: pointer;
-}
-
-.yt-hashtag {
-	color: 348DFF;
-	cursor: pointer;
-}
-
 grey {
 	color: #292929;
 }
