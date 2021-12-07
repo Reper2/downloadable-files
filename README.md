@@ -6,22 +6,23 @@
 
 # Abbreviations
 
-    Abbreviation | Meaning
-    tp           | texture pack
-    div          | divider
-    acnh         | Animal Crossing New Horizons
-    nsmbw        | New Super Mario Bros. Wii
-    bg           | background
-    twtr         | Twitter
-    gh           | GitHub
-    gd           | Geometry Dash
-    repo         | repository
-    yt           | YouTube
-    app          | application
-    404          | error 404
-    acc          | account
-    ac           | Autocode
-    scr          | script
+| Abbreviation | Meaning |
+| :----------: | :-----: |
+| tp           | texture pack |
+| div          | divider |
+| acnh         | Animal Crossing New Horizons |
+| nsmbw        | New Super Mario Bros. Wii |
+| bg           | background |
+| twtr         | Twitter |
+| gh           | GitHub |
+| gd           | Geometry Dash |
+| repo         | repository |
+| yt           | YouTube |
+| app          | application |
+| 404          | error 404 |
+| acc          | account |
+| ac           | Autocode |
+| scr          | script |
     
 # License
 This project is released under the MIT license.
