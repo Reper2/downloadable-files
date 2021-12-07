@@ -1,12 +1,12 @@
 <head>
-    <style>
-        discord-mention {
-		    border-radius: 3px;
-		    padding: 0 2px;
-		    background-color: #5865F24D;
-		    color: #DEE0FC;
-		    cursor: pointer;
-	    }
+	<style>
+		discord-mention {
+			border-radius: 3px;
+			padding: 0 2px;
+			background-color: #5865F24D;
+			color: #DEE0FC;
+			cursor: pointer;
+		}
 	</style>
 </head>
 
