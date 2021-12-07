@@ -194,7 +194,7 @@ function discord_app_01() {
 				window.URL.revokeObjectURL(url);
 			})
 	} else {
-		window.open('https://raw.githubusercontent.com/Reper2/downloadable-files/master/applications/772120114388140062')
+		window.open('https://raw.githubusercontent.com/Reper2/downloadable-files/master/account/applications/772120114388140062')
 	}
 }
 
@@ -214,7 +214,7 @@ function discord_app_01_avatar() {
 				window.URL.revokeObjectURL(url);
 			})
 	} else {
-		window.open('https://reper2.github.io/downloadable-files/discord/applications/772120114388140062/bot-avatar.png')
+		window.open('https://reper2.github.io/downloadable-files/discord/account/applications/772120114388140062/bot-avatar.png')
 	}
 }
 
@@ -234,7 +234,7 @@ function discord_app_01_icon() {
 				window.URL.revokeObjectURL(url);
 			})
 	} else {
-		window.open('https://reper2.github.io/downloadable-files/discord/applications/772120114388140062/icon.png')
+		window.open('https://reper2.github.io/downloadable-files/discord/account/applications/772120114388140062/icon.png')
 	}
 }
 
@@ -274,7 +274,7 @@ function discord_app_02_avatar() {
 				window.URL.revokeObjectURL(url);
 			})
 	} else {
-		window.open('https://reper2.github.io/downloadable-files/discord/applications/895031444878028831/bot-avatar.png')
+		window.open('https://reper2.github.io/downloadable-files/discord/account/applications/895031444878028831/bot-avatar.png')
 	}
 }
 
@@ -294,7 +294,7 @@ function discord_app_02_icon() {
 				window.URL.revokeObjectURL(url);
 			})
 	} else {
-		window.open('https://reper2.github.io/downloadable-files/discord/applications/895031444878028831/icon.png')
+		window.open('https://reper2.github.io/downloadable-files/discord/account/applications/895031444878028831/icon.png')
 	}
 }
 
