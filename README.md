@@ -1,14 +1,12 @@
-<head>
-	<style>
-		discord-mention {
-			border-radius: 3px;
-			padding: 0 2px;
-			background-color: #5865F24D;
-			color: #DEE0FC;
-			cursor: pointer;
-		}
-	</style>
-</head>
+<style>
+discord-mention {
+	border-radius: 3px;
+	padding: 0 2px;
+	background-color: #5865F24D;
+	color: #DEE0FC;
+	cursor: pointer;
+}
+</style>
 
 ![GitHub Releases](https://img.shields.io/github/v/release/Reper2/Downloadable-Files?include_prereleases&sort=semver)
 ![License](https://img.shields.io/github/license/Reper2/downloadable-files)
