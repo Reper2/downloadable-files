@@ -181,7 +181,7 @@ function discord_apps() {
 function discord_app_01() {
 	var r = confirm("File:\n772120114388140062.html\n\nOk - Download\nCancel - Preview");
 	if (r == true) {
-		fetch('https://reper2.github.io/downloadable-files/discord/applications/772120114388140062')
+		fetch('https://reper2.github.io/downloadable-files/discord/account/applications/772120114388140062')
 			.then(resp => resp.blob())
 			.then(blob => {
 				const url = window.URL.createObjectURL(blob);
@@ -198,10 +198,10 @@ function discord_app_01() {
 	}
 }
 
-function discord_app_01_botAvatar() {
+function discord_app_01_avatar() {
 	var r = confirm("File:\nbot-avatar.png\n\nOk - Download\nCancel - Preview");
 	if (r == true) {
-		fetch('https://reper2.github.io/downloadable-files/discord/applications/772120114388140062/bot-avatar.png')
+		fetch('https://reper2.github.io/downloadable-files/discord/account/applications/772120114388140062/bot-avatar.png')
 			.then(resp => resp.blob())
 			.then(blob => {
 				const url = window.URL.createObjectURL(blob);
@@ -221,7 +221,7 @@ function discord_app_01_botAvatar() {
 function discord_app_01_icon() {
 	var r = confirm("File:\nicon.png\n\nOk - Download\nCancel - Preview");
 	if (r == true) {
-		fetch('https://reper2.github.io/downloadable-files/discord/applications/772120114388140062/icon.png')
+		fetch('https://reper2.github.io/downloadable-files/discord/account/applications/772120114388140062/icon.png')
 			.then(resp => resp.blob())
 			.then(blob => {
 				const url = window.URL.createObjectURL(blob);
@@ -241,7 +241,7 @@ function discord_app_01_icon() {
 function discord_app_02() {
 	var r = confirm("File:\n895031444878028831.html\n\nOk - Download\nCancel - Preview");
 	if (r == true) {
-		fetch('https://reper2.github.io/downloadable-files/discord/applications/895031444878028831')
+		fetch('https://reper2.github.io/downloadable-files/discord/account/applications/895031444878028831')
 			.then(resp => resp.blob())
 			.then(blob => {
 				const url = window.URL.createObjectURL(blob);
@@ -261,7 +261,7 @@ function discord_app_02() {
 function discord_app_02_avatar() {
 	var r = confirm("File:\nbot-avatar.png\n\nOk - Download\nCancel - Preview");
 	if (r == true) {
-		fetch('https://reper2.github.io/downloadable-files/discord/applications/895031444878028831/bot-avatar.png')
+		fetch('https://reper2.github.io/downloadable-files/discord/account/applications/895031444878028831/bot-avatar.png')
 			.then(resp => resp.blob())
 			.then(blob => {
 				const url = window.URL.createObjectURL(blob);
@@ -281,7 +281,7 @@ function discord_app_02_avatar() {
 function discord_app_02_icon() {
 	var r = confirm("File:\nicon.png\n\nOk - Download\nCancel - Preview");
 	if (r == true) {
-		fetch('https://reper2.github.io/downloadable-files/discord/applications/895031444878028831/icon.png')
+		fetch('https://reper2.github.io/downloadable-files/discord/account/applications/895031444878028831/icon.png')
 			.then(resp => resp.blob())
 			.then(blob => {
 				const url = window.URL.createObjectURL(blob);
