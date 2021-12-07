@@ -28,6 +28,6 @@
 This project is released under the MIT license.
 
 # Contact
-E-mail: [ethan.reper@gmail.com](mailto:ethan.reper@gmail.com)
-Discord: `@Reper2#8878` [Server](https://discord.gg/JGEjfm5Gn4)
+E-mail: [ethan.reper@gmail.com](mailto:ethan.reper@gmail.com)  
+Discord: `@Reper2#8878` [Server](https://discord.gg/JGEjfm5Gn4)  
 YouTube: [Reper2 [GD]](https://www.youtube.com/channel/UCofCDfLjs_TkiC-p0-k_9XA)
