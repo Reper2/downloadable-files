@@ -6,27 +6,28 @@
 
 # Abbreviations
 
-    Abbreviation | Meaning
-    tp           | texture pack
-    div          | divider
-    acnh         | Animal Crossing New Horizons
-    nsmbw        | New Super Mario Bros. Wii
-    bg           | background
-    twtr         | Twitter
-    gh           | GitHub
-    gd           | Geometry Dash
-    repo         | repository
-    yt           | YouTube
-    app          | application
-    404          | error 404
-    acc          | account
-    ac           | Autocode
-    scr          | script
+| Abbreviation | Meaning |
+| :----------: | :-----: |
+| tp           | texture pack |
+| div          | divider |
+| acnh         | Animal Crossing New Horizons |
+| nsmbw        | New Super Mario Bros. Wii |
+| bg           | background |
+| twtr         | Twitter |
+| gh           | GitHub |
+| gd           | Geometry Dash |
+| repo         | repository |
+| yt           | YouTube |
+| app          | application |
+| 404          | error 404 |
+| acc          | account |
+| ac           | Autocode |
+| scr          | script |
     
 # License
 This project is released under the MIT license.
 
 # Contact
-E-mail: [ethan.reper@gmail.com](mailto:ethan.reper@gmail.com)
-Discord: `Reper2#8878` (Server https://discord.gg/JGEjfm5Gn4)
+E-mail: [ethan.reper@gmail.com](mailto:ethan.reper@gmail.com)  
+Discord: `@Reper2#8878`, [Reper2niverse](https://discord.gg/JGEjfm5Gn4)  
 YouTube: [Reper2 [GD]](https://www.youtube.com/channel/UCofCDfLjs_TkiC-p0-k_9XA)
