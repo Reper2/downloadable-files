@@ -1334,7 +1334,7 @@ function fourZeroFour_b() {
 				window.URL.revokeObjectURL(url);
 			})
 	} else {
-		window.open('https://reper2.github.io/downloadable-files/404.md')
+		window.open('https://raw.githubusercontent.com/Reper2/downloadable-files/master/404.md')
 	}
 }
 
