@@ -8,21 +8,22 @@
 
 | Abbreviation | Meaning |
 | :----------: | :-----: |
-| tp           | texture pack |
-| div          | divider |
-| acnh         | Animal Crossing New Horizons |
-| nsmbw        | New Super Mario Bros. Wii |
-| bg           | background |
-| twtr         | Twitter |
-| gh           | GitHub |
-| gd           | Geometry Dash |
-| repo         | repository |
-| yt           | YouTube |
-| app          | application |
-| 404          | error 404 |
-| acc          | account |
-| ac           | Autocode |
-| scr          | script |
+| tp | texture pack |
+| div | divider |
+| acnh | Animal Crossing New Horizons |
+| nsmbw / nsmbwii | New Super Mario Bros. Wii |
+| bg | background |
+| twtr | Twitter |
+| gh | GitHub |
+| gd | Geometry Dash |
+| repo | repository |
+| yt | YouTube |
+| app | application |
+| 404 | error 404 |
+| acc | account |
+| ac | Autocode |
+| scr | script |
+| srv | server |
     
 # License
 This project is released under the MIT license.
