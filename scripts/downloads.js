@@ -39,7 +39,7 @@ function acnh() {
 function acnh_designs() {
 	var r = confirm("File:\ndesigns.zip\n\nOk = Download\nCancel = Nothing");
 	if (r == true) {
-		fetch('https://reper2.github.io/downloadable-files/acnh/')
+		fetch('https://reper2.github.io/downloadable-files/acnh/designs.zip')
 			.then(resp => resp.blob())
 			.then(blob => {
 				const url = window.URL.createObjectURL(blob);
@@ -77,7 +77,7 @@ function acnh_dodocodes() {
 function acnh_img() {
 	var r = confirm("File:\nimg.zip\n\nOk = Download\nCancel = Nothing");
 	if (r == true) {
-		fetch('https://reper2.github.io/downloadable-files/acnh/')
+		fetch('https://reper2.github.io/downloadable-files/acnh/img.zio')
 			.then(resp => resp.blob())
 			.then(blob => {
 				const url = window.URL.createObjectURL(blob);
@@ -96,7 +96,7 @@ function acnh_img() {
 function art() {
 	var r = confirm("File:\nart.zip\n\nOk = Download\nCancel = Nothing");
 	if (r == true) {
-		fetch('https://reper2.github.io/downloadable-files/')
+		fetch('https://reper2.github.io/downloadable-files/art.zip')
 			.then(resp => resp.blob())
 			.then(blob => {
 				const url = window.URL.createObjectURL(blob);
@@ -343,7 +343,7 @@ function discord_srv_01() {
 function discord_srv_01_auditLog() {
 	var r = confirm("File:\naudit-log.json\n\nOk = Download\nCancel = Preview");
 	if (r == true) {
-		fetch('https://reper2.github.io/downloadable-files/discord/servers/771861170256085023/')
+		fetch('https://reper2.github.io/downloadable-files/discord/servers/771861170256085023/audit-log.json')
 			.then(resp => resp.blob())
 			.then(blob => {
 				const url = window.URL.createObjectURL(blob);
@@ -362,7 +362,7 @@ function discord_srv_01_auditLog() {
 function discord_srv_01_bans() {
 	var r = confirm("File:\nbans.json\n\nOk = Download\nCancel = Preview");
 	if (r == true) {
-		fetch('https://reper2.github.io/downloadable-files/discord/servers/771861170256085023/')
+		fetch('https://reper2.github.io/downloadable-files/discord/servers/771861170256085023/bans.json')
 			.then(resp => resp.blob())
 			.then(blob => {
 				const url = window.URL.createObjectURL(blob);
@@ -381,7 +381,7 @@ function discord_srv_01_bans() {
 function discord_srv_01_channels() {
 	var r = confirm("File:\nchannels.json\n\nOk = Download\nCancel = Preview");
 	if (r == true) {
-		fetch('https://reper2.github.io/downloadable-files/discord/servers/771861170256085023/')
+		fetch('https://reper2.github.io/downloadable-files/discord/servers/771861170256085023/channels.json')
 			.then(resp => resp.blob())
 			.then(blob => {
 				const url = window.URL.createObjectURL(blob);
@@ -400,7 +400,7 @@ function discord_srv_01_channels() {
 function discord_srv_01_emoji_a() {
 	var r = confirm("File:\nemoji.json\n\nOk = Download\nCancel = Preview");
 	if (r == true) {
-		fetch('https://reper2.github.io/downloadable-files/discord/servers/771861170256085023/')
+		fetch('https://reper2.github.io/downloadable-files/discord/servers/771861170256085023/emoji.json')
 			.then(resp => resp.blob())
 			.then(blob => {
 				const url = window.URL.createObjectURL(blob);
@@ -419,7 +419,7 @@ function discord_srv_01_emoji_a() {
 function discord_srv_01_emoji_b() {
 	var r = confirm("File:\nemoji.zip\n\nOk = Download\nCancel = Nothing");
 	if (r == true) {
-		fetch('https://reper2.github.io/downloadable-files/discord/servers/771861170256085023/')
+		fetch('https://reper2.github.io/downloadable-files/discord/servers/771861170256085023/emoji.zip')
 			.then(resp => resp.blob())
 			.then(blob => {
 				const url = window.URL.createObjectURL(blob);
@@ -438,7 +438,7 @@ function discord_srv_01_emoji_b() {
 function discord_srv_01_guild() {
 	var r = confirm("File:\nguild.json\n\nOk = Download\nCancel = Preview");
 	if (r == true) {
-		fetch('https://reper2.github.io/downloadable-files/discord/servers/771861170256085023/')
+		fetch('https://reper2.github.io/downloadable-files/discord/servers/771861170256085023/guild.json')
 			.then(resp => resp.blob())
 			.then(blob => {
 				const url = window.URL.createObjectURL(blob);
@@ -457,7 +457,7 @@ function discord_srv_01_guild() {
 function discord_srv_01_icon() {
 	var r = confirm("File:\nicon.png\n\nOk = Download\nCancel = Preview");
 	if (r == true) {
-		fetch('https://reper2.github.io/downloadable-files/discord/servers/771861170256085023/')
+		fetch('https://reper2.github.io/downloadable-files/discord/servers/771861170256085023/icon.gif')
 			.then(resp => resp.blob())
 			.then(blob => {
 				const url = window.URL.createObjectURL(blob);
@@ -476,7 +476,7 @@ function discord_srv_01_icon() {
 function discord_srv_01_webhooks_a() {
 	var r = confirm("File:\nwebhooks.json\n\nOk = Download\nCancel = Preview");
 	if (r == true) {
-		fetch('https://reper2.github.io/downloadable-files/discord/servers/771861170256085023/')
+		fetch('https://reper2.github.io/downloadable-files/discord/servers/771861170256085023/webhooks.json')
 			.then(resp => resp.blob())
 			.then(blob => {
 				const url = window.URL.createObjectURL(blob);
@@ -495,7 +495,7 @@ function discord_srv_01_webhooks_a() {
 function discord_srv_01_webhooks_b() {
 	var r = confirm("File:\nwebhooks.zip\n\nOk = Download\nCancel = Nothing");
 	if (r == true) {
-		fetch('https://reper2.github.io/downloadable-files/discord/servers/771861170256085023/')
+		fetch('https://reper2.github.io/downloadable-files/discord/servers/771861170256085023/webhooks.zip')
 			.then(resp => resp.blob())
 			.then(blob => {
 				const url = window.URL.createObjectURL(blob);
@@ -533,7 +533,7 @@ function discord_srv_02() {
 function discord_srv_02_auditLog() {
 	var r = confirm("File:\naudit-log.json\n\nOk = Download\nCancel = Preview");
 	if (r == true) {
-		fetch('https://reper2.github.io/downloadable-files/discord/servers/884263560941817916/')
+		fetch('https://reper2.github.io/downloadable-files/discord/servers/884263560941817916/audit-log.json')
 			.then(resp => resp.blob())
 			.then(blob => {
 				const url = window.URL.createObjectURL(blob);
@@ -552,7 +552,7 @@ function discord_srv_02_auditLog() {
 function discord_srv_02_bans() {
 	var r = confirm("File:\nbans.json\n\nOk = Download\nCancel = Preview");
 	if (r == true) {
-		fetch('https://reper2.github.io/downloadable-files/discord/servers/884263560941817916/')
+		fetch('https://reper2.github.io/downloadable-files/discord/servers/884263560941817916/bans.json')
 			.then(resp => resp.blob())
 			.then(blob => {
 				const url = window.URL.createObjectURL(blob);
@@ -571,7 +571,7 @@ function discord_srv_02_bans() {
 function discord_srv_02_channels() {
 	var r = confirm("File:\nchannels.json\n\nOk = Download\nCancel = Preview");
 	if (r == true) {
-		fetch('https://reper2.github.io/downloadable-files/discord/servers/884263560941817916/')
+		fetch('https://reper2.github.io/downloadable-files/discord/servers/884263560941817916/channels.json')
 			.then(resp => resp.blob())
 			.then(blob => {
 				const url = window.URL.createObjectURL(blob);
@@ -590,7 +590,7 @@ function discord_srv_02_channels() {
 function discord_srv_02_emoji_a() {
 	var r = confirm("File:\nemoji.json\n\nOk = Download\nCancel = Preview");
 	if (r == true) {
-		fetch('https://reper2.github.io/downloadable-files/discord/servers/884263560941817916/')
+		fetch('https://reper2.github.io/downloadable-files/discord/servers/884263560941817916/emoji.json')
 			.then(resp => resp.blob())
 			.then(blob => {
 				const url = window.URL.createObjectURL(blob);
@@ -609,7 +609,7 @@ function discord_srv_02_emoji_a() {
 function discord_srv_02_emoji_b() {
 	var r = confirm("File:\nemoji.zip\n\nOk = Download\nCancel = Nothing");
 	if (r == true) {
-		fetch('https://reper2.github.io/downloadable-files/discord/servers/884263560941817916/')
+		fetch('https://reper2.github.io/downloadable-files/discord/servers/884263560941817916/emoji.zip')
 			.then(resp => resp.blob())
 			.then(blob => {
 				const url = window.URL.createObjectURL(blob);
@@ -628,7 +628,7 @@ function discord_srv_02_emoji_b() {
 function discord_srv_02_guild() {
 	var r = confirm("File:\nguild.json\n\nOk = Download\nCancel = Preview");
 	if (r == true) {
-		fetch('https://reper2.github.io/downloadable-files/discord/servers/884263560941817916/')
+		fetch('https://reper2.github.io/downloadable-files/discord/servers/884263560941817916/guild.json')
 			.then(resp => resp.blob())
 			.then(blob => {
 				const url = window.URL.createObjectURL(blob);
@@ -647,7 +647,7 @@ function discord_srv_02_guild() {
 function discord_srv_02_icon() {
 	var r = confirm("File:\nicon.png\n\nOk = Download\nCancel = Preview");
 	if (r == true) {
-		fetch('https://reper2.github.io/downloadable-files/discord/servers/884263560941817916/')
+		fetch('https://reper2.github.io/downloadable-files/discord/servers/884263560941817916/icon.png')
 			.then(resp => resp.blob())
 			.then(blob => {
 				const url = window.URL.createObjectURL(blob);
@@ -666,7 +666,7 @@ function discord_srv_02_icon() {
 function discord_srv_02_webhooks_a() {
 	var r = confirm("File:\nwebhooks.json\n\nOk = Download\nCancel = Preview");
 	if (r == true) {
-		fetch('https://reper2.github.io/downloadable-files/discord/servers/884263560941817916/')
+		fetch('https://reper2.github.io/downloadable-files/discord/servers/884263560941817916/webhooks.json')
 			.then(resp => resp.blob())
 			.then(blob => {
 				const url = window.URL.createObjectURL(blob);
@@ -685,7 +685,7 @@ function discord_srv_02_webhooks_a() {
 function discord_srv_02_webhooks_b() {
 	var r = confirm("File:\nwebhooks.zip\n\nOk = Download\nCancel = Nothing");
 	if (r == true) {
-		fetch('https://reper2.github.io/downloadable-files/discord/servers/884263560941817916/')
+		fetch('https://reper2.github.io/downloadable-files/discord/servers/884263560941817916/webhooks.zip')
 			.then(resp => resp.blob())
 			.then(blob => {
 				const url = window.URL.createObjectURL(blob);
@@ -723,7 +723,7 @@ function discord_srv_03() {
 function discord_srv_03_auditLog() {
 	var r = confirm("File:\naudit-log.json\n\nOk = Download\nCancel = Preview");
 	if (r == true) {
-		fetch('https://reper2.github.io/downloadable-files/discord/servers/909758653781930005/')
+		fetch('https://reper2.github.io/downloadable-files/discord/servers/909758653781930005/audit-log.json')
 			.then(resp => resp.blob())
 			.then(blob => {
 				const url = window.URL.createObjectURL(blob);
@@ -742,7 +742,7 @@ function discord_srv_03_auditLog() {
 function discord_srv_03_bans() {
 	var r = confirm("File:\nbans.json\n\nOk = Download\nCancel = Preview");
 	if (r == true) {
-		fetch('https://reper2.github.io/downloadable-files/discord/servers/909758653781930005/')
+		fetch('https://reper2.github.io/downloadable-files/discord/servers/909758653781930005/bans.json')
 			.then(resp => resp.blob())
 			.then(blob => {
 				const url = window.URL.createObjectURL(blob);
@@ -761,7 +761,7 @@ function discord_srv_03_bans() {
 function discord_srv_03_channels() {
 	var r = confirm("File:\nchannels.json\n\nOk = Download\nCancel = Preview");
 	if (r == true) {
-		fetch('https://reper2.github.io/downloadable-files/discord/servers/909758653781930005/')
+		fetch('https://reper2.github.io/downloadable-files/discord/servers/909758653781930005/channels.json')
 			.then(resp => resp.blob())
 			.then(blob => {
 				const url = window.URL.createObjectURL(blob);
@@ -780,7 +780,7 @@ function discord_srv_03_channels() {
 function discord_srv_03_emoji_a() {
 	var r = confirm("File:\nemoji.json\n\nOk = Download\nCancel = Preview");
 	if (r == true) {
-		fetch('https://reper2.github.io/downloadable-files/discord/servers/909758653781930005/')
+		fetch('https://reper2.github.io/downloadable-files/discord/servers/909758653781930005/emoji.json')
 			.then(resp => resp.blob())
 			.then(blob => {
 				const url = window.URL.createObjectURL(blob);
@@ -799,7 +799,7 @@ function discord_srv_03_emoji_a() {
 function discord_srv_03_emoji_b() {
 	var r = confirm("File:\nemoji.zip\n\nOk = Download\nCancel = Nothing");
 	if (r == true) {
-		fetch('https://reper2.github.io/downloadable-files/discord/servers/909758653781930005/')
+		fetch('https://reper2.github.io/downloadable-files/discord/servers/909758653781930005/emoji.zip')
 			.then(resp => resp.blob())
 			.then(blob => {
 				const url = window.URL.createObjectURL(blob);
@@ -818,7 +818,7 @@ function discord_srv_03_emoji_b() {
 function discord_srv_03_guild() {
 	var r = confirm("File:\nguild.json\n\nOk = Download\nCancel = Preview");
 	if (r == true) {
-		fetch('https://reper2.github.io/downloadable-files/discord/servers/909758653781930005/')
+		fetch('https://reper2.github.io/downloadable-files/discord/servers/909758653781930005/guild.json')
 			.then(resp => resp.blob())
 			.then(blob => {
 				const url = window.URL.createObjectURL(blob);
@@ -837,7 +837,7 @@ function discord_srv_03_guild() {
 function discord_srv_03_icon() {
 	var r = confirm("File:\nicon.png\n\nOk = Download\nCancel = Preview");
 	if (r == true) {
-		fetch('https://reper2.github.io/downloadable-files/discord/servers/909758653781930005/')
+		fetch('https://reper2.github.io/downloadable-files/discord/servers/909758653781930005/icon.png')
 			.then(resp => resp.blob())
 			.then(blob => {
 				const url = window.URL.createObjectURL(blob);
@@ -856,7 +856,7 @@ function discord_srv_03_icon() {
 function discord_srv_03_webhooks_a() {
 	var r = confirm("File:\nwebhooks.json\n\nOk = Download\nCancel = Preview");
 	if (r == true) {
-		fetch('https://reper2.github.io/downloadable-files/discord/servers/909758653781930005/')
+		fetch('https://reper2.github.io/downloadable-files/discord/servers/909758653781930005/webhooks.json')
 			.then(resp => resp.blob())
 			.then(blob => {
 				const url = window.URL.createObjectURL(blob);
@@ -875,7 +875,7 @@ function discord_srv_03_webhooks_a() {
 function discord_srv_03_webhooks_b() {
 	var r = confirm("File:\nwebhooks.zip\n\nOk = Download\nCancel = Nothing");
 	if (r == true) {
-		fetch('https://reper2.github.io/downloadable-files/discord/servers/909758653781930005/')
+		fetch('https://reper2.github.io/downloadable-files/discord/servers/909758653781930005/webhooks.zip')
 			.then(resp => resp.blob())
 			.then(blob => {
 				const url = window.URL.createObjectURL(blob);
@@ -894,7 +894,7 @@ function discord_srv_03_webhooks_b() {
 function div() {
 	var r = confirm("File:\ndiv.zip\n\nOk = Download\nCancel = Nothing");
 	if (r == true) {
-		fetch('https://reper2.github.io/downloadable-files/')
+		fetch('https://reper2.github.io/downloadable-files/div.zip')
 			.then(resp => resp.blob())
 			.then(blob => {
 				const url = window.URL.createObjectURL(blob);
@@ -932,7 +932,7 @@ function icons() {
 function icon_player() {
 	var r = confirm("File:\nplayer.zip\n\nOk = Download\nCancel = Nothing");
 	if (r == true) {
-		fetch('https://reper2.github.io/downloadable-files/icons/')
+		fetch('https://reper2.github.io/downloadable-files/icons/player.zip')
 			.then(resp => resp.blob())
 			.then(blob => {
 				const url = window.URL.createObjectURL(blob);
@@ -951,7 +951,7 @@ function icon_player() {
 function icon_ship() {
 	var r = confirm("File:\nship.zip\n\nOk = Download\nCancel = Nothing");
 	if (r == true) {
-		fetch('https://reper2.github.io/downloadable-files/icons/')
+		fetch('https://reper2.github.io/downloadable-files/icons/ship.zip')
 			.then(resp => resp.blob())
 			.then(blob => {
 				const url = window.URL.createObjectURL(blob);
@@ -970,7 +970,7 @@ function icon_ship() {
 function icon_ball() {
 	var r = confirm("File:\nplayer_ball.zip\n\nOk = Download\nCancel = Nothing");
 	if (r == true) {
-		fetch('https://reper2.github.io/downloadable-files/icons/')
+		fetch('https://reper2.github.io/downloadable-files/icons/player_ball.zip')
 			.then(resp => resp.blob())
 			.then(blob => {
 				const url = window.URL.createObjectURL(blob);
@@ -989,7 +989,7 @@ function icon_ball() {
 function icon_bird() {
 	var r = confirm("File:\nbird.zip\n\nOk = Download\nCancel = Nothing");
 	if (r == true) {
-		fetch('https://reper2.github.io/downloadable-files/icons/')
+		fetch('https://reper2.github.io/downloadable-files/icons/bird.zip')
 			.then(resp => resp.blob())
 			.then(blob => {
 				const url = window.URL.createObjectURL(blob);
@@ -1008,7 +1008,7 @@ function icon_bird() {
 function icon_dart() {
 	var r = confirm("File:\ndart.zip\n\nOk = Download\nCancel = Nothing");
 	if (r == true) {
-		fetch('https://reper2.github.io/downloadable-files/icons/')
+		fetch('https://reper2.github.io/downloadable-files/icons/dart.zip')
 			.then(resp => resp.blob())
 			.then(blob => {
 				const url = window.URL.createObjectURL(blob);
@@ -1027,7 +1027,7 @@ function icon_dart() {
 function icon_robot() {
 	var r = confirm("File:\nrobot.zip\n\nOk = Download\nCancel = Nothing");
 	if (r == true) {
-		fetch('https://reper2.github.io/downloadable-files/icons/')
+		fetch('https://reper2.github.io/downloadable-files/icons/robot.zip')
 			.then(resp => resp.blob())
 			.then(blob => {
 				const url = window.URL.createObjectURL(blob);
@@ -1046,7 +1046,7 @@ function icon_robot() {
 function icon_spider() {
 	var r = confirm("File:\nspider.zip\n\nOk = Download\nCancel = Nothing");
 	if (r == true) {
-		fetch('https://reper2.github.io/downloadable-files/icons/')
+		fetch('https://reper2.github.io/downloadable-files/icons/spider.zip')
 			.then(resp => resp.blob())
 			.then(blob => {
 				const url = window.URL.createObjectURL(blob);
@@ -1065,7 +1065,7 @@ function icon_spider() {
 function icon_special() {
 	var r = confirm("File:\nplayer_special.zip\n\nOk = Download\nCancel = Nothing");
 	if (r == true) {
-		fetch('https://reper2.github.io/downloadable-files/icons/')
+		fetch('https://reper2.github.io/downloadable-files/icons/player_special.zip')
 			.then(resp => resp.blob())
 			.then(blob => {
 				const url = window.URL.createObjectURL(blob);
@@ -1084,7 +1084,7 @@ function icon_special() {
 function icon_explosion() {
 	var r = confirm("File:\nexplosion.zip\n\nOk = Download\nCancel = Nothing");
 	if (r == true) {
-		fetch('https://reper2.github.io/downloadable-files/icons/')
+		fetch('https://reper2.github.io/downloadable-files/icons/explosion.zip')
 			.then(resp => resp.blob())
 			.then(blob => {
 				const url = window.URL.createObjectURL(blob);
@@ -1103,7 +1103,7 @@ function icon_explosion() {
 function pfp() {
 	var r = confirm("File:\npfp.zip\n\nOk = Download\nCancel = Nothing");
 	if (r == true) {
-		fetch('https://reper2.github.io/downloadable-files/')
+		fetch('https://reper2.github.io/downloadable-files/pfp.zip')
 			.then(resp => resp.blob())
 			.then(blob => {
 				const url = window.URL.createObjectURL(blob);
@@ -1198,7 +1198,7 @@ function extra() {
 function assets() {
 	var r = confirm("File:\nassets.zip\n\nOk = Download\nCancel = Nothing");
 	if (r == true) {
-		fetch('https://reper2.github.io/downloadable-files/extra/')
+		fetch('https://reper2.github.io/downloadable-files/extra/assets.zip')
 			.then(resp => resp.blob())
 			.then(blob => {
 				const url = window.URL.createObjectURL(blob);
@@ -1301,7 +1301,7 @@ function hof() {
 function hof_01() {
 	var r = confirm("File:\nhof_01.PNG\n\nOk = Download\nCancel = Preview");
 	if (r == true) {
-		fetch('https://reper2.github.io/downloadable-files/hof/')
+		fetch('https://reper2.github.io/downloadable-files/hof/hof_01.PNG')
 			.then(resp => resp.blob())
 			.then(blob => {
 				const url = window.URL.createObjectURL(blob);
@@ -1320,7 +1320,7 @@ function hof_01() {
 function hof_02() {
 	var r = confirm("File:\nhof_02.png\n\nOk = Download\nCancel = Preview");
 	if (r == true) {
-		fetch('https://reper2.github.io/downloadable-files/hof/')
+		fetch('https://reper2.github.io/downloadable-files/hof/hof_02.png')
 			.then(resp => resp.blob())
 			.then(blob => {
 				const url = window.URL.createObjectURL(blob);
@@ -1339,7 +1339,7 @@ function hof_02() {
 function hof_03() {
 	var r = confirm("File:\nhof_03.png\n\nOk = Download\nCancel = Preview");
 	if (r == true) {
-		fetch('https://reper2.github.io/downloadable-files/hof/')
+		fetch('https://reper2.github.io/downloadable-files/hof/hof_03.png')
 			.then(resp => resp.blob())
 			.then(blob => {
 				const url = window.URL.createObjectURL(blob);
@@ -1358,7 +1358,7 @@ function hof_03() {
 function hof_04() {
 	var r = confirm("File:\nhof_04.png\n\nOk = Download\nCancel = Preview");
 	if (r == true) {
-		fetch('https://reper2.github.io/downloadable-files/hof/')
+		fetch('https://reper2.github.io/downloadable-files/hof/hof_04.png')
 			.then(resp => resp.blob())
 			.then(blob => {
 				const url = window.URL.createObjectURL(blob);
@@ -1377,7 +1377,7 @@ function hof_04() {
 function hof_05() {
 	var r = confirm("File:\nhof_05.png\n\nOk = Download\nCancel = Preview");
 	if (r == true) {
-		fetch('https://reper2.github.io/downloadable-files/hof/')
+		fetch('https://reper2.github.io/downloadable-files/hof/hof_05.png')
 			.then(resp => resp.blob())
 			.then(blob => {
 				const url = window.URL.createObjectURL(blob);
@@ -1396,7 +1396,7 @@ function hof_05() {
 function hof_06() {
 	var r = confirm("File:\nhof_06.png\n\nOk = Download\nCancel = Preview");
 	if (r == true) {
-		fetch('https://reper2.github.io/downloadable-files/hof/')
+		fetch('https://reper2.github.io/downloadable-files/hof/hof_06.png')
 			.then(resp => resp.blob())
 			.then(blob => {
 				const url = window.URL.createObjectURL(blob);
@@ -1415,7 +1415,7 @@ function hof_06() {
 function hof_07() {
 	var r = confirm("File:\nhof_07.png\n\nOk = Download\nCancel = Preview");
 	if (r == true) {
-		fetch('https://reper2.github.io/downloadable-files/hof/')
+		fetch('https://reper2.github.io/downloadable-files/hof/hof_07.png')
 			.then(resp => resp.blob())
 			.then(blob => {
 				const url = window.URL.createObjectURL(blob);
@@ -1434,7 +1434,7 @@ function hof_07() {
 function hof_08() {
 	var r = confirm("File:\nhof_08.png\n\nOk = Download\nCancel = Preview");
 	if (r == true) {
-		fetch('https://reper2.github.io/downloadable-files/hof/')
+		fetch('https://reper2.github.io/downloadable-files/hof/hof_08.png')
 			.then(resp => resp.blob())
 			.then(blob => {
 				const url = window.URL.createObjectURL(blob);
@@ -1453,7 +1453,7 @@ function hof_08() {
 function hof_09() {
 	var r = confirm("File:\nhof_09.mp4\n\nOk = Download\nCancel = Preview");
 	if (r == true) {
-		fetch('https://reper2.github.io/downloadable-files/hof/')
+		fetch('https://reper2.github.io/downloadable-files/hof/hof_09.mp4')
 			.then(resp => resp.blob())
 			.then(blob => {
 				const url = window.URL.createObjectURL(blob);
@@ -1472,7 +1472,7 @@ function hof_09() {
 function hof_10() {
 	var r = confirm("File:\nhof_010.gif\n\nOk = Download\nCancel = Preview");
 	if (r == true) {
-		fetch('https://reper2.github.io/downloadable-files/hof/')
+		fetch('https://reper2.github.io/downloadable-files/hof/hof_10.gif')
 			.then(resp => resp.blob())
 			.then(blob => {
 				const url = window.URL.createObjectURL(blob);
@@ -1485,7 +1485,7 @@ function hof_10() {
 				window.URL.revokeObjectURL(url);
 			})
 	} else {
-		window.open('https://reper2.github.io/downloadable-files/hof/hof_010.gif')
+		window.open('https://reper2.github.io/downloadable-files/hof/hof_10.gif')
 	}
 }
 function lib() {
@@ -1504,6 +1504,25 @@ function lib() {
 				window.URL.revokeObjectURL(url);
 			})
 	} else {
-		window.open('https://raw.githubusercontent.com/Reper2/downloadable-files/master/lib.html')
+		window.open('https://raw.githubusercontent.com/Reper2/downloadable-files/master/lib/index.html')
+	}
+}
+function gd() {
+	var r = confirm("File:\nindex.html (Geometry Dash)\n\nOk = Download\nCancel = Preview");
+	if (r == true) {
+		fetch('https://reper2.github.io/downloadable-files/gd/')
+			.then(resp => resp.blob())
+			.then(blob => {
+				const url = window.URL.createObjectURL(blob);
+				const a = document.createElement('a');
+				a.style.display = 'none';
+				a.href = url;
+				a.download = 'index.html';
+				document.body.appendChild(a);
+				a.click();
+				window.URL.revokeObjectURL(url);
+			})
+	} else {
+		window.open('https://raw.githubusercontent.com/Reper2/downloadable-files/master/gd/index.html')
 	}
 }
