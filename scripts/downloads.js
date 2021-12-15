@@ -1122,7 +1122,7 @@ function tp() {
 function tp_01() {
 	var r = confirm("File:\nindex.html (Reper2's Texture Pack)\n\nOk = Download\nCancel = Preview");
 	if (r == true) {
-		fetch('https://reper2.github.io/downloadable-files/tp/tp1/')
+		fetch('https://reper2.github.io/downloadable-files/tp/reper2-texture-pack/')
 			.then(resp => resp.blob())
 			.then(blob => {
 				const url = window.URL.createObjectURL(blob);
@@ -1135,13 +1135,13 @@ function tp_01() {
 				window.URL.revokeObjectURL(url);
 			})
 	} else {
-		window.open('https://raw.githubusercontent.com/Reper2/downloadable-files/master/tp/tp1/index.html')
+		window.open('https://raw.githubusercontent.com/Reper2/downloadable-files/master/tp/reper2-texture-pack/index.html')
 	}
 }
 function tp_02() {
 	var r = confirm("File:\nindex.html (NSMBWii Texture Pack)\n\nOk = Download\nCancel = Preview");
 	if (r == true) {
-		fetch('https://reper2.github.io/downloadable-files/tp/tp2/')
+		fetch('https://reper2.github.io/downloadable-files/tp/nsmbw-texture-pack/')
 			.then(resp => resp.blob())
 			.then(blob => {
 				const url = window.URL.createObjectURL(blob);
@@ -1154,7 +1154,7 @@ function tp_02() {
 				window.URL.revokeObjectURL(url);
 			})
 	} else {
-		window.open('https://raw.githubusercontent.com/Reper2/downloadable-files/master/tp/tp2/index.html')
+		window.open('https://raw.githubusercontent.com/Reper2/downloadable-files/master/tp/nsmbw-texture-pack/index.html')
 	}
 }
 function extra() {
