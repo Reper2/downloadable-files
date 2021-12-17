@@ -1507,6 +1507,63 @@ function gd() {
 		window.open('https://raw.githubusercontent.com/Reper2/downloadable-files/master/gd/index.html')
 	}
 }
+function gd_leaks() {
+	var r = confirm("File:\nindex.html (2.2 Leaks)\n\nOk = Download\nCancel = Preview");
+	if (r == true) {
+		fetch('https://reper2.github.io/downloadable-files/gd/2.2-leaks/')
+			.then(resp => resp.blob())
+			.then(blob => {
+				const url = window.URL.createObjectURL(blob);
+				const a = document.createElement('a');
+				a.style.display = 'none';
+				a.href = url;
+				a.download = 'index.html';
+				document.body.appendChild(a);
+				a.click();
+				window.URL.revokeObjectURL(url);
+			})
+	} else {
+		window.open('https://raw.githubusercontent.com/Reper2/downloadable-files/master/gd/2.2-leaks/index.html')
+	}
+}
+function gd_leaks_EndLevelLayer() {
+	var r = confirm("File:\nEndLevelLayer.cpp\n\nOk = Download\nCancel = Preview");
+	if (r == true) {
+		fetch('https://reper2.github.io/downloadable-files/gd/2.2-leaks/EndLevelLayer.cpp')
+			.then(resp => resp.blob())
+			.then(blob => {
+				const url = window.URL.createObjectURL(blob);
+				const a = document.createElement('a');
+				a.style.display = 'none';
+				a.href = url;
+				a.download = 'EndLevelLayer.cpp';
+				document.body.appendChild(a);
+				a.click();
+				window.URL.revokeObjectURL(url);
+			})
+	} else {
+		window.open('https://reper2.github.io/downloadable-files/gd/2.2-leaks/EndLevelLayer.cpp')
+	}
+}
+function gd_leaks_PlayerObject() {
+	var r = confirm("File:\nEndLevelLayer.cpp\n\nOk = Download\nCancel = Preview");
+	if (r == true) {
+		fetch('https://reper2.github.io/downloadable-files/gd/2.2-leaks/PlayerObject.cpp')
+			.then(resp => resp.blob())
+			.then(blob => {
+				const url = window.URL.createObjectURL(blob);
+				const a = document.createElement('a');
+				a.style.display = 'none';
+				a.href = url;
+				a.download = 'PlayerObject.cpp';
+				document.body.appendChild(a);
+				a.click();
+				window.URL.revokeObjectURL(url);
+			})
+	} else {
+		window.open('https://reper2.github.io/downloadable-files/gd/2.2-leaks/PlayerObject.cpp')
+	}
+}
 function art() {
 	var r = confirm("File:\nart.zip\n\nOk = Download\nCancel = Preview");
 	if (r == true) {
@@ -1660,41 +1717,41 @@ function art_07() {
 	}
 }
 function art_08() {
-	var r = confirm("File:\nart_08.JPEG\n\nOk = Download\nCancel = Preview");
+	var r = confirm("File:\nart_08.jpg\n\nOk = Download\nCancel = Preview");
 	if (r == true) {
-		fetch('https://reper2.github.io/downloadable-files/art/art_08.JPEG')
+		fetch('https://reper2.github.io/downloadable-files/art/art_08.jpg')
 			.then(resp => resp.blob())
 			.then(blob => {
 				const url = window.URL.createObjectURL(blob);
 				const a = document.createElement('a');
 				a.style.display = 'none';
 				a.href = url;
-				a.download = 'art_08.JPEG';
+				a.download = 'art_08.jpg';
 				document.body.appendChild(a);
 				a.click();
 				window.URL.revokeObjectURL(url);
 			})
 	} else {
-		window.open('https://reper2.github.io/downloadable-files/art/art_08.JPEG')
+		window.open('https://reper2.github.io/downloadable-files/art/art_08.jpg')
 	}
 }
 function art_09() {
-	var r = confirm("File:\nart_09.jpg\n\nOk = Download\nCancel = Preview");
+	var r = confirm("File:\nart_09.JPEG\n\nOk = Download\nCancel = Preview");
 	if (r == true) {
-		fetch('https://reper2.github.io/downloadable-files/art/art_09.jpg')
+		fetch('https://reper2.github.io/downloadable-files/art/art_09.JPEG')
 			.then(resp => resp.blob())
 			.then(blob => {
 				const url = window.URL.createObjectURL(blob);
 				const a = document.createElement('a');
 				a.style.display = 'none';
 				a.href = url;
-				a.download = 'art_09.jpg';
+				a.download = 'art_09.JPEG';
 				document.body.appendChild(a);
 				a.click();
 				window.URL.revokeObjectURL(url);
 			})
 	} else {
-		window.open('https://reper2.github.io/downloadable-files/art/art_09.jpg')
+		window.open('https://reper2.github.io/downloadable-files/art/art_09.JPEG')
 	}
 }
 function art_10() {
