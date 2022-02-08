@@ -4,27 +4,12 @@
 [![Discord](https://img.shields.io/discord/771861170256085023?color=%237289DA&label=Official%20Server&logo=discord)](https://discord.gg/JGEjfm5Gn4)
 [![CodeQL](https://github.com/Reper2/downloadable-files/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/Reper2/downloadable-files/actions/workflows/codeql-analysis.yml)
 
-# Abbreviations
+# What's this site for?
+Downloading files generally created by Reper2.
 
-| Abbreviation | Meaning |
-| :----------: | :-----: |
-| tp | texture pack |
-| div | divider |
-| acnh | Animal Crossing New Horizons |
-| nsmbw / nsmbwii | New Super Mario Bros. Wii |
-| bg | background |
-| twtr | Twitter |
-| gh | GitHub |
-| gd | Geometry Dash |
-| repo | repository |
-| yt | YouTube |
-| app | application |
-| 404 | error 404 |
-| acc | account |
-| ac | Autocode |
-| scr | script |
-| srv | server |
-    
+# What can I do with these files?
+Use them for anything I guess.
+
 # License
 This project is released under the MIT license.
 

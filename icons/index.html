@@ -11,7 +11,7 @@
 
 	  gtag('config', 'G-1MM0E339JK');
 	</script>
-  	<link rel="icon" href="../assets/player.png">
+  	<link rel="shortcut icon" href="../assets/player.png">
 	<meta id="meta-title" property="og:title" content="Geometry Dash Icons - Downloadable Files">
   	<meta id="meta-desc" property="og:description" content="Here you can download ReperGD2's icons!">
   	<meta id="meta-image" name="og:image" itemprop="image" content="https://reper2.github.io/downloadable-files/assets/player.png">
@@ -22,6 +22,14 @@
 <body class="iconBG" onbeforeunload="saveUrl()">
 
 <div id="everything">
+	
+	<div class="popup" id="infoDiv" style="display: none;">
+		<div class="fancybox bounce center supercenter" style="width: 80vh">
+			<h2 class="smaller center" style="font-size: 5.5vh">GD Icons Info</h2>
+			<p class="bigger center" id="infoText" style="line-height: 5vh; margin-top: 1.5vh">This page contains all of <cpp>ReperGD2</cpp>'s <cg>Geometry Dash</cg> icons. Each <cg>icon</cg> is a <cg>download button</cg> to download all of that <cg>icon</cg>'s sprite files.</p>
+			<img src="../assets/ok.png" width="20%;" class="gdButton center" onclick="$('.popup').hide()" tabindex="0">
+		</div>
+	</div>
 	
 	<div style="position:absolute; bottom: 0%; left: 0%; width: 100%; pointer-events: none">
 		<img class="cornerPiece" src="../assets/corner.png" width="7%;">
@@ -42,7 +50,7 @@
 		
 		<div class="center" width="100%" style="margin-top: 2%">
 			<h2>
-				<a onclick="icons()">GD Icons</a>
+				<a onclick="downloadFile('index.html')">GD Icons</a>
 			</h2>
 		</div>
         
@@ -55,47 +63,40 @@
 		<hr id="gdfloor" style="margin-top: 0px;">
 		
 		<div class="center" id="iconsDiv" style="margin: 2% auto; width: 118.125vh">
-			<img src="../assets/icons/player.png" title="Player 132" class="help">
-			<img src="../assets/icons/ship.png" title="Ship 17" class="help">
-			<img src="../assets/icons/player_ball.png" title="Player Ball 33" class="help">
-			<img src="../assets/icons/bird.png" title="Bird 10" class="help">
-			<img src="../assets/icons/dart.png" title="Dart 31" class="help">
-			<img src="../assets/icons/robot.png" title="Robot 25" class="help">
-			<img src="../assets/icons/spider.png" title="Spider 14" class="help">
-			<img src="../assets/icons/player_special.png" title="Player Special 02" class="help">
-			<img src="../assets/icons/explosion.png" title="Explosion 11" class="help">
+			<a onclick="downloadFile('player.zip')"><img src="../assets/icons/player.png"></a>
+			<a onclick="downloadFile('ship.zip')"><img src="../assets/icons/ship.png"></a>
+			<a onclick="downloadFile('player_ball.zip')"><img src="../assets/icons/player_ball.png"></a>
+			<a onclick="downloadFile('bird.zip')"><img src="../assets/icons/bird.png"></a>
+			<a onclick="downloadFile('dart.zip')"><img src="../assets/icons/dart.png"></a>
+			<a onclick="downloadFile('robot.zip')"><img src="../assets/icons/robot.png"></a>
+			<a onclick="downloadFile('spider.zip')"><img src="../assets/icons/spider.png"></a>
+			<a onclick="downloadFile('player_special.zip')"><img src="../assets/icons/player_special.png"></a>
+			<a onclick="downloadFile('explosion.zip')"><img src="../assets/icons/explosion.png"></a>
 		</div>
-		
-		<div id="iconKitParent" class="iconKit noDarken">
-            <div id="iconprogressbar">
-                <div id="iconloading" style="width: 100%;"></div>
-            </div>
-			<div id="iconprogressbar">
-					<div id="iconloading" style="width: 100%;"></div>
-            </div><div id="cubes">
-				<div class="center" style="margin: 2% auto; width: 118.125vh">
-					<h1>
-						<a onclick="icon_player()">Cube</a>
-						<br>
-						<a onclick="icon_ship()">Ship</a>
-						<br>
-						<a onclick="icon_ball()">Ball</a>
-						<br>
-						<a onclick="icon_bird()">UFO</a>
-						<br>
-						<a onclick="icon_dart()">Wave</a>
-						<br>
-						<a onclick="icon_robot()">Robot</a>
-						<br>
-						<a onclick="icon_spider()">Spider</a>
-						<br>
-						<a onclick="icon_special()">Trail</a>
-						<br>
-						<a onclick="icon_explosion()">Death Effect</a>
-					</h1>
-				</div>
-			</div>
-		</div>
+	</div>
+
+	<div style="position:absolute; bottom: 2%; right: 1%; text-align: right; width: 15%;">
+		<a onclick="window.location.reload()"><img class="gdButton" title="Refresh" src="../assets/refresh.png" width="40%"></a>
+	</div>
+	
+	<div style="position:absolute; top: 2.5%; right: 2%; width: 10%; text-align: right;">
+		<img class="gdButton" src="../assets/smallinfo.png" width="32%" title="Page Info" onclick="$('#infoDiv').show()">
+	</div>
+	
+	<div style="position: absolute; top: 12%; right: 1.5%; width: 21%; text-align: right;">
+		<a target="_blank" title="Reper2niverse Discord!" href="https://discord.gg/aaVjjZtQts"><img class="gdButton" src="../assets/discord.png" width="20%"></a>
+	</div>
+	
+	<div style="position: absolute; top: 22%; right: 1.5%; width: 21%; text-align: right;">
+		<a target="_blank" title="Reper2 [GD] YouTube!" href="https://www.youtube.com/channel/UCofCDfLjs_TkiC-p0-k_9XA"><img class="gdButton" src="../assets/youtube.png" width="20%"></a>
+	</div>
+	
+	<div style="position: absolute; top: 32%; right: 1.5%; width: 21%; text-align: right;">
+		<a target="_blank" title="Reper2 GitHub!" href="https://github.com/Reper2"><img class="gdButton" src="../assets/github.png" width="20%"></a>
+	</div>
+
+	<div style="position: absolute; top: 42%; right: 1.5%; width: 21%; text-align: right;">
+		<a target="_blank" title="Reper2_dev Twitch!" href="https://www.twitch.tv/reper2_dev"><img class="gdButton" src="../assets/twitch.png" width="20%"></a>
 	</div>
 </div>
 
@@ -103,4 +104,4 @@
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <script type="text/javascript" src="../scripts/sizecheck.js"></script>
 <script type="text/javascript" src="../scripts/dragscroll.js"></script>
-<script type="text/javascript" src="../scripts/downloads.js"></script>
+<script type="text/javascript" src="../scripts/download.js"></script>

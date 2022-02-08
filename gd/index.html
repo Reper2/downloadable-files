@@ -11,7 +11,7 @@
 
 	  gtag('config', 'G-1MM0E339JK');
 	</script>
-	<link rel="icon" href="../assets/gd.png">
+	<link rel="shortcut icon" href="../assets/gd.png">
 	<meta id="meta-title" property="og:title" content="Geometry Dash - Downloadable Files">
 	<meta id="meta-desc" property="og:description" content="Here you can download Reper2's Geometry Dash files!">
 	<meta id="meta-image" name="og:image" itemprop="image" content="https://reper2.github.io/downloadable-files/assets/gd.png">
@@ -22,6 +22,14 @@
 <body class="gdBG" onbeforeunload="saveUrl()">
 
 <div id="everything" style="overflow: auto;">
+	
+	<div class="popup" id="infoDiv" style="display: none;">
+		<div class="fancybox bounce center supercenter" style="width: 80vh">
+			<h2 class="smaller center" style="font-size: 5.5vh">Geometry Dash Page Info</h2>
+			<p class="bigger center" id="infoText" style="line-height: 5vh; margin-top: 1.5vh">This <cg>page</cg> contains mostly of <cpp>ReperGD2</cpp>'s <cg>GD Browser</cg> links; as well as links to <cpp>Reper2 [GD]</cpp>'s <cg>YouTube playlist</cg>, <cpp>Reper2</cpp>'s <cg>texture packs</cg>, and <ca>leaked</ca> 2.2 <cy>code</cy>.</p>
+			<img src="../assets/ok.png" width="20%;" class="gdButton center" onclick="$('.popup').hide()" tabindex="0">
+		</div>
+	</div>
 	
 	<div id="searchBox" class="supercenter dragscroll" ;="" style="width: 127vh">
 		<div style="height: 4.5%"></div>
@@ -131,7 +139,7 @@
 			<br>
 		</div>
 	</div>
-	
+
 	<div class="epicbox supercenter gs" style="width: 126vh; height: 80%; pointer-events: none"></div>
 	
 	<audio controls autoplay loop style="display: none">
@@ -147,19 +155,43 @@
 	</div>
 
 	<div class="center" style="position:absolute; top: 2%; left: 0%; right: 0%">
-		<h1 class="pre" id="header"><a onclick="gd()"><img src="../assets/gd/label.png" style="width: 35%; height: 1%"></a></h1>
+		<h1 class="pre" id="header"><a onclick="downloadFile('index.html')"><img src="../assets/gd/label.png" style="width: 35%; height: 1%"></a></h1>
 	</div> 
+
+	<div style="position:absolute; bottom: 2%; right: 1%; text-align: right; width: 15%;">
+		<a onclick="window.location.reload()"><img class="gdButton" title="Refresh" src="../assets/refresh.png" width="40%"></a>
+	</div>
 
 	<div style="position:absolute; top: 2%; left: 1.5%; width: 10%; height: 25%; pointer-events: none">
 		<img class="gdButton yesClick" id="backButton" src="../assets/back.png" height="30%" onclick="backButton()">
 	</div>
+	
+	<div style="position:absolute; top: 2.5%; right: 2%; width: 10%; text-align: right;">
+		<img class="gdButton" src="../assets/smallinfo.png" width="32%" title="Page Info" onclick="$('#infoDiv').show()">
+	</div>
+	
+	<div style="position: absolute; top: 12%; right: 1.5%; width: 21%; text-align: right;">
+		<a target="_blank" title="Reper2niverse Discord!" href="https://discord.gg/aaVjjZtQts"><img class="gdButton" src="../assets/discord.png" width="20%"></a>
+	</div>
+	
+	<div style="position: absolute; top: 22%; right: 1.5%; width: 21%; text-align: right;">
+		<a target="_blank" title="Reper2 [GD] YouTube!" href="https://www.youtube.com/channel/UCofCDfLjs_TkiC-p0-k_9XA"><img class="gdButton" src="../assets/youtube.png" width="20%"></a>
+	</div>
+	
+	<div style="position: absolute; top: 32%; right: 1.5%; width: 21%; text-align: right;">
+		<a target="_blank" title="Reper2 GitHub!" href="https://github.com/Reper2"><img class="gdButton" src="../assets/github.png" width="20%"></a>
+	</div>
+
+	<div style="position: absolute; top: 42%; right: 1.5%; width: 21%; text-align: right;">
+		<a target="_blank" title="Reper2_dev Twitch!" href="https://www.twitch.tv/reper2_dev"><img class="gdButton" src="../assets/twitch.png" width="20%"></a>
+	</div>
 
 	<!--<div style="position: absolute; left: 7%; top: 45%; height: 10%;">
-		<img class="gdButton" id="pageDown" src="src/arrow-left.png" style="display: none"; height="90%">
+		<img class="gdButton" id="pageDown" style="display: none"; src="../assets/arrow-left.png" height="90%">
 	</div>
 
 	<div style="position: absolute; right: 7%; top: 45%; height: 10%;">
-		<img class="gdButton" id="pageUp" src="src/arrow-right.png" style="display: none"; height="90%">
+		<img class="gdButton" id="pageUp" style="display: none"; src="../assets/arrow-right.png" height="90%">
 	</div>-->
 </div>
 
@@ -167,4 +199,4 @@
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <script type="text/javascript" src="../scripts/sizecheck.js"></script>
 <script type="text/javascript" src="../scripts/dragscroll.js"></script>
-<script type="text/javascript" src="../scripts/downloads.js"></script>
+<script type="text/javascript" src="../scripts/download.js"></script>
