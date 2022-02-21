@@ -10,10 +10,15 @@ Downloading files generally created by Reper2.
 # What can I do with these files?
 Use them for anything I guess.
 
+# How did I come up with the idea of this site?
+This is kinda how I started coding too. But to explain this, we need to go back to July 2021. At this time I was still using an iPad and my friend liked building shortcuts in the Shortcuts app. So I decided to start building my own shortcuts. My most major shortcut that I was always adding to was like a file directory where you'd choose a file/folder from a menu. When I first began building this site, I didn't think it was gonna be too important so I started building it in basic markdown. Then eventually it grew into proper html with the reuse of a bit of gd browser code.
+
+[Original iCloud shortcut](https://www.icloud.com/shortcuts/9c2612443e944ca19fbce9a841b5008e)
+
 # License
 This project is released under the MIT license.
 
 # Contact
-E-mail: [ethan.reper@gmail.com](mailto:ethan.reper@gmail.com)  
 Discord: `@Reper2#8878`, [Reper2niverse](https://discord.gg/JGEjfm5Gn4)  
-YouTube: [Reper2 [GD]](https://www.youtube.com/channel/UCofCDfLjs_TkiC-p0-k_9XA)
+YouTube: [Reper2 [GD]](https://www.youtube.com/channel/UCofCDfLjs_TkiC-p0-k_9XA)  
+Twitch: [Reper2_dev](https://www.twitch.tv/reper2_dev)
